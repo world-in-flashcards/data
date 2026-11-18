@@ -1,0 +1,57 @@
+mrgid	geoname	pol_type	held_by	case	land_key	checked	source	#note
+21796	Joint regime area: South Korea / Japan	Joint regime	KOR, JPN	joint	-	-	-	a joint regime: tinted on both parties' cards (ruled 2026-11-12 by Jens Nordmark (@nordmarj))
+48964	Joint regime area: Senegal / Guinea-Bissau	Joint regime	SEN, GNB	joint	-	-	-	a joint regime: tinted on both parties' cards (ruled 2026-11-12 by Jens Nordmark (@nordmarj))
+48975	Joint regime area: Iceland / Norway (Jan Mayen)	Joint regime	ISL, SJM	joint	-	-	-	a joint regime: tinted on both parties' cards (ruled 2026-11-12 by Jens Nordmark (@nordmarj)); Norway's party is Jan Mayen, on the SJM card
+48961	Joint regime area: Uruguay / Argentina	Joint regime	URY, ARG	joint	-	-	-	a joint regime: tinted on both parties' cards (ruled 2026-11-12 by Jens Nordmark (@nordmarj))
+21797	Joint regime area: Sao Tome and Principe / Nigeria	Joint regime	STP, NGA	joint	-	-	-	a joint regime: tinted on both parties' cards (ruled 2026-11-12 by Jens Nordmark (@nordmarj))
+48974	Joint regime area: Ecuador / Colombia	Joint regime	ECU, COL	joint	-	-	-	a joint regime: tinted on both parties' cards (ruled 2026-11-12 by Jens Nordmark (@nordmarj))
+48968	Joint regime area: Costa Rica / Ecuador (Galapagos)	Joint regime	CRI, ECU	joint	-	-	-	a joint regime: tinted on both parties' cards (ruled 2026-11-12 by Jens Nordmark (@nordmarj)); Ecuador's party is the Galapagos
+48962	Joint regime area: Peru / Ecuador	Joint regime	PER, ECU	joint	-	-	-	a joint regime: tinted on both parties' cards (ruled 2026-11-12 by Jens Nordmark (@nordmarj))
+21792	Joint regime area: Jamaica / Colombia	Joint regime	JAM, COL	joint	-	-	-	a joint regime: tinted on both parties' cards (ruled 2026-11-12 by Jens Nordmark (@nordmarj))
+48970	Joint regime area: Dominican Republic / Colombia	Joint regime	DOM, COL	joint	-	-	-	a joint regime: tinted on both parties' cards (ruled 2026-11-12 by Jens Nordmark (@nordmarj))
+48978	Joint regime area: United States / Russia	Joint regime	USA, RUS	joint	-	-	-	a joint regime: tinted on both parties' cards (ruled 2026-11-12 by Jens Nordmark (@nordmarj))
+48967	Joint regime area: United Kingdom / Denmark (Faeroe Islands)	Joint regime	GBR, FRO	joint	-	-	-	a joint regime: tinted on both parties' cards (ruled 2026-11-12 by Jens Nordmark (@nordmarj))
+64459	Joint regime area: Norway / Russia	Joint regime	NOR, RUS	joint	-	-	-	a joint regime: tinted on both parties' cards (ruled 2026-11-12 by Jens Nordmark (@nordmarj))
+48966	Joint regime area: Spain / France	Joint regime	FRA, ESP	joint	-	-	-	a joint regime: tinted on both parties' cards (ruled 2026-11-12 by Jens Nordmark (@nordmarj))
+21798	Joint regime area Torres Strait Treaty: Papua New Guinea / Australia	Joint regime	PNG, AUS	joint	-	-	-	a joint regime: tinted on both parties' cards (ruled 2026-11-12 by Jens Nordmark (@nordmarj))
+48972	Joint regime area: Honduras / United Kingdom (Cayman Islands)	Joint regime	HND, CYM	joint	-	-	-	a joint regime: tinted on both parties' cards (ruled 2026-11-12 by Jens Nordmark (@nordmarj))
+48973	Joint regime area: Iceland / Denmark (Faeroe Islands)	Joint regime	FRO, ISL	joint	-	-	-	a joint regime: tinted on both parties' cards (ruled 2026-11-12 by Jens Nordmark (@nordmarj))
+48977	Joint regime area: Sweden / Norway	Joint regime	NOR, SWE	joint	-	-	-	a joint regime: tinted on both parties' cards (ruled 2026-11-12 by Jens Nordmark (@nordmarj))
+50167	Joint regime area: Croatia / Slovenia	Joint regime	HRV, SVN	joint	-	-	-	a joint regime: tinted on both parties' cards (ruled 2026-11-12 by Jens Nordmark (@nordmarj))
+48969	Joint regime area: Barbados / Guyana	Joint regime	BRB, GUY	joint	-	-	-	a joint regime: tinted on both parties' cards (ruled 2026-11-12 by Jens Nordmark (@nordmarj))
+48976	Joint regime area: France / Italy	Joint regime	FRA, ITA	joint	-	-	-	a joint regime: tinted on both parties' cards (ruled 2026-11-12 by Jens Nordmark (@nordmarj))
+8383	Overlapping claim South Georgia and the South Sandwich Islands: United Kingdom / Argentina	Overlapping claim	SGS	held	B32	2026-10-08	wiki:en:27380@1374746595	held as disputed_areas.tsv's B32 (SGS): the territory's whole sea; its ground is a whole card
+8389	Overlapping claim Falkland / Malvinas Islands: United Kingdom / Argentina	Overlapping claim	FLK	held	B12	2026-10-08	wiki:en:2758249@1375697818	held as disputed_areas.tsv's B12 (FLK): the territory's whole sea; its ground is a whole card
+8319	Overlapping claim Wake Island / Enenkio: United States / Marshall Islands	Overlapping claim	UMI	held	B59	2026-10-08	wiki:en:19147@1377433584	held as disputed_areas.tsv's B59 (UM-79): Wake's sea; its ground is UM-79, a subdivision of UMI
+8321	Overlapping claim Taiwan: Taiwan / China	Overlapping claim	TWN	held	B77	2026-10-08	wiki:en:66555@1379184901	held as disputed_areas.tsv's B77 (TWN): the territory's whole sea; its ground is a whole card
+49003	Overlapping claim: South China Sea	Overlapping claim	-	none	-	-	-	the South China Sea's overlapping claims: no one state holds the area
+8368	Overlapping claim Western Sahara: Western Sahara / Morocco	Overlapping claim	MAR, ESH	held	B19	2026-10-08	wiki:en:33229@1379113099	held as disputed_areas.tsv's B19 (MAR): the coast is Morocco's held ground (B19, west of the wall); the ESH card is the whole territory and draws its own sea too, Marine Regions' territory; not XSH, east of the wall, which has no coast; accepted 2026-11-12 by Jens Nordmark (@nordmarj)
+48946	Overlapping claim Ile Tromelin: France / Madagascar / Republic of Mauritius	Overlapping claim	ATF	held	B25	2026-10-08	wiki:en:30178@1378800420	held as disputed_areas.tsv's B25 (ATF.2_1): Tromelin's sea; its ground is ATF.2_1, a subdivision of ATF
+48950	Overlapping claim Kuril Islands: Japan / Russia	Overlapping claim	RUS	held	B29	2026-10-08	wiki:en:285057@1378858217	held as disputed_areas.tsv's B29 (RUS): the Kurils' sea
+48948	Overlapping claim Matthew and Hunter Islands: France / Vanuatu	Overlapping claim	NCL	held	B66	2026-10-08	wiki:en:1832217@1373164328	held as disputed_areas.tsv's B66 (NCL): Matthew and Hunter's sea
+5695	Overlapping claim Ukraine: Ukraine / Russia	Overlapping claim	UKR	held	-	-	-	Ukraine's whole sea, Crimea's waters included: Marine Regions draws one polygon, and Russia's held Crimea (B89) cannot be cut from it on any line the data holds; accepted 2026-11-12 by Jens Nordmark (@nordmarj)
+48954	Overlapping claim Senkaku Islands: Taiwan / Japan / China	Overlapping claim	JPN	held	-	-	-	the Senkakus' sea; Japan administers the islands (Ishigaki, Okinawa); not in disputed_areas.tsv, the islands are below its floor; NOT CHECKED LIVE; accepted 2026-11-12 by Jens Nordmark (@nordmarj)
+48944	Overlapping claim Mayotte: France / Comores	Overlapping claim	MYT	held	B22	2026-10-08	wiki:en:19211@1375966072	held as disputed_areas.tsv's B22 (MYT): the territory's whole sea; its ground is a whole card
+48945	Overlapping claim Glorioso Islands: France / Madagascar	Overlapping claim	ATF	held	B24	2026-10-08	wiki:en:995874@1374671878	held as disputed_areas.tsv's B24 (ATF.2_1): the Glorioso Islands' sea; their ground is ATF.2_1, a subdivision of ATF
+48943	Overlapping claim: Canada / United States	Overlapping claim	-	none	-	-	-	the Beaufort Sea wedge, Dixon Entrance and the Gulf of Maine grey zone: a maritime line in dispute
+26582	Overlapping claim Halaib Triangle: Sudan / Egypt	Overlapping claim	EGY	held	B93	2026-10-08	wiki:en:1256880@1377784992	held as disputed_areas.tsv's B93 (EGY): the Halaib Triangle's sea
+48982	Overlapping claim: United States (Puerto Rico) / Dominican Republic	Overlapping claim	-	none	-	-	-	a maritime line in dispute
+48951	Overlapping claim Navassa Island: United States / Haiti / Jamaica	Overlapping claim	UMI	held	B34	2026-10-08	wiki:en:21312@1376617969	held as disputed_areas.tsv's B34 (UM-76): Navassa's sea; its ground is UM-76, a subdivision of UMI
+64430	Overlapping claim: Egypt / Libya	Overlapping claim	-	none	-	-	-	a maritime line in dispute
+48947	Overlapping claim Abu musa, Greater and Lesser Tunb: United Arab Emirates / Iran	Overlapping claim	IRN	held	B73	2026-10-08	wiki:en:931858@1377605503	held as disputed_areas.tsv's B73 (IRN): the sea of Abu Musa and the Tunbs
+33185	Overlapping claim: Guyana / Trinidad and Tobago / Venezuela	Overlapping claim	-	none	-	-	-	a maritime line in dispute
+48955	Overlapping claim Liancourt Rocks: Japan / South Korea	Overlapping claim	KOR	held	B39	2026-10-08	wiki:en:15083928@1374983972	held as disputed_areas.tsv's B39 (KOR): Dokdo's sea
+64431	Overlapping claim: Belize / Honduras	Overlapping claim	BLZ	held	B80	2026-10-08	wiki:en:32960086@1364198189	held as disputed_areas.tsv's B80 (BLZ): the sea round the Sapodilla Cayes
+48965	Overlapping claim: Venezuela / Netherlands (Aruba) / Dominican Republic	Overlapping claim	-	none	-	-	-	a maritime line in dispute
+48971	Overlapping claim: Colombia / Dominican Republic / Venezuela	Overlapping claim	-	none	-	-	-	a maritime line in dispute
+8365	Overlapping claim Gibraltar: United Kingdom / Spain	Overlapping claim	GIB	held	B55	2026-10-08	wiki:en:1008130@1374513657	held as disputed_areas.tsv's B55 (GIB): the territory's whole sea; its ground is a whole card
+64440	Overlapping claim: Malaysia / Singapore	Overlapping claim	-	none	-	-	-	the waters round Pedra Branca and Middle Rocks: a maritime line in dispute
+48956	Overlapping claim Doumeira Islands: Eritrea / Djibouti	Overlapping claim	-	none	-	-	-	the Doumeira Islands: who holds them has not been checked; NOT CHECKED LIVE; accepted 2026-11-12 by Jens Nordmark (@nordmarj)
+50170	Overlapping claim: Qatar / Saudi Arabia / United Arab Emirates	Overlapping claim	-	none	-	-	-	a maritime line in dispute
+49002	Overlapping claim Ceuta: Spain / Morocco	Overlapping claim	ESP	held	B60	2026-10-08	wiki:en:6443@1376504463	held as disputed_areas.tsv's B60 (ES-CE): Ceuta's sea; its ground is ES-CE, a subdivision of ESP
+64460	Overlapping claim: Iraq / Iran	Overlapping claim	-	none	-	-	-	a maritime line in dispute
+49000	Overlapping claim Melilla: Spain / Morocco	Overlapping claim	ESP	held	B61	2026-10-08	wiki:en:20226@1376207986	held as disputed_areas.tsv's B61 (ES-ML): Melilla's sea; its ground is ES-ML, a subdivision of ESP
+48997	Overlapping claim Chafarinas Islands: Spain / Morocco	Overlapping claim	ESP	held	-	-	-	the Chafarinas' sea; a Spanish garrison holds the islands (plazas de soberania); NOT CHECKED LIVE; accepted 2026-11-12 by Jens Nordmark (@nordmarj)
+49001	Overlapping claim Alhucemas Islands: Spain / Morocco	Overlapping claim	ESP	held	-	-	-	the Alhucemas Islands' sea; a Spanish garrison holds them; NOT CHECKED LIVE; accepted 2026-11-12 by Jens Nordmark (@nordmarj)
+48999	Overlapping claim Peñón de Vélez de la Gomera: Spain / Morocco	Overlapping claim	ESP	held	-	-	-	the sea of the Penon de Velez de la Gomera; a Spanish garrison holds it; NOT CHECKED LIVE; accepted 2026-11-12 by Jens Nordmark (@nordmarj)
+48998	Overlapping claim Perejil Island: Spain / Morocco	Overlapping claim	-	none	-	-	-	Perejil: unoccupied by either since the 2002 status quo; NOT CHECKED LIVE; accepted 2026-11-12 by Jens Nordmark (@nordmarj)

@@ -1,0 +1,13 @@
+﻿country	word	#note
+LVA	novads	the Latvian for a municipality, as the ISO 3166-2 register writes it (`Jēkabpils novads`); seeded 2026-09-17 by Jens Nordmark (@nordmarj) from a review of the infobox capital refusals
+LVA	novada	the genitive `novads` takes in a Commons title - `Jēkabpils novada ģerbonis.svg`, `Madonas novada ģerbonis.svg`, `Smiltenes novada karogs.svg`. This one form is what cost five Latvian municipalities their own arms and flags on 2026-09-17
+LVA	novadu	the plural genitive, as a Commons category writes it (`Latvijas novadu ģerboņi`); listed with the other two so the inflection table is complete rather than exactly as long as today's list
+LVA	pilsēta	the Latvian for a city; Latvia's state cities are `valstspilsēta` and its files write `pilsētas`
+LVA	pilsētas	the genitive of `pilsēta`, the form a Commons title uses (`Daugavpils pilsētas ģerbonis`)
+SLV	departamento	the Spanish for a department, in the filename El Salvador's own departmental flags use - `Bandera del Departamento de Ahuachapán.PNG`, which the capital's article shows and which is the department's
+GTM	departamento	the same word in Guatemala's filenames (`Bandera del Departamento de Jalapa`); English `Department` is already in types.tsv and is what `Flag of Jalapa Department, Guatemala.svg` was kept by
+PRT	distrito	the Portuguese for a district, the tier Portugal's cards sit at; seen on Commons as `Bandeira do distrito de …`
+MKD	општина	the Macedonian for a municipality, as Commons titles the files (`Грб на општина …`); North Macedonia's English-titled files carry `Municipality` instead, which types.tsv already holds
+GRL	kommune	the Danish for a municipality, as Greenland's native names write it (`Kommune Kujalleq`); added 2026-10-03 so the mask check does not read the type word on a municipal flag as part of its name (2026-09-26 masks-cover-the-name ruling)
+GRL	kommunia	the Greenlandic for a municipality (`Qeqqata Kommunia`, `Avannaata Kommunia`); added 2026-10-03 so the mask check does not read the type word on a municipal flag as part of its name (2026-09-26 masks-cover-the-name ruling)
+GRL	kommuneqarfik	the Greenlandic for a municipality, as Sermersooq's name writes it (`Kommuneqarfik Sermersooq`); added 2026-10-03 so the mask check does not read the type word on a municipal flag as part of its name (2026-09-26 masks-cover-the-name ruling)

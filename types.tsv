@@ -1,0 +1,114 @@
+﻿category	english	qualifier	#note
+administrative area	dependency	dependency	Ascension is a dependency, like SHN's other two
+administrative atoll	administrative atoll	atoll	MDV: the Maldives' 19 administrative atolls, which do not all match a geographic one
+administrative subdivisions	administrative subdivision	subdivision	wp: term is right, GADM has it plural
+antarctic claim	antarctic claim	claim	added 2026-10-03 with the eight Antarctic claim cards (level 0): Natural Earth's own word for the feature, `Antarctic claim`; the card sentence-cases it back
+area	area	area	SLE: the Western Area, Freetown's, beside the four provinces; ISO's term and the country's own
+arrondissement	arrondissement	arrondissement	kept in English as-is
+atoll	atoll	atoll	
+autonomous city	autonomous city	city	Ceuta and Melilla; the official English term
+autonomous commune	autonomous commune	commune	Bangui
+autonomous community	autonomous community	autonomous community	Spain; the official English term
+autonomous district	autonomous district	district	Abidjan and Yamoussoukro
+autonomous island	autonomous island	island	Comoros, and Rodrigues
+autonomous monastic state	autonomous monastic state	monastic state	Mount Athos
+autonomous municipality	autonomous municipality	municipality	added 2026-09-20: Phnom Penh against its own seat; the autonomy is on the card in `category`.
+autonomous province	autonomous okrug	okrug	Russia's four are okrugs; GADM translates rather than transliterates
+autonomous region	autonomous region	autonomous region	
+autonomous republic	autonomous republic	republic	
+autonomous sector	autonomous sector	sector	Bissau
+autonomous territory	autonomous territory	territory	
+borough	borough	borough	
+canton	canton	canton	
+capital	capital	city	added 2026-09-30 for the category ruled 2026-09-30 by Jens Nordmark (@nordmarj) under the rule that a capital or city that is its own first-level unit takes the type its law gives it: Phnom Penh (the 2008 Organic Law's Capital) against its own seat. `city` as `capital city`'s row has it; `municipality`, which the answer carried under `autonomous municipality`, names the law's other class (krong), so it would contradict the card's category
+capital city	capital city	city	Budapest
+capital city district	capital city	city	Ashgabat
+capital district	capital district	district	
+capital metropolitan city	special city	city	wp: Seoul is a teukbyeolsi, a special city
+capital territory	capital territory	territory	
+centrally-governed city	centrally-governed city	municipality	added 2026-09-20: Vietnam's five. The collision is the unit against the settlement it is named for, and `city` does not separate those - both are cities - while `municipality` names the administrative unit, which is what English Wikipedia calls them. `city` also disappears entirely on `Ho Chi Minh City`, whose name already carries the word, leaving that card's question and answer identical.
+circuit	circuit	prefecture	wp: Hokkaido is a do, translated circuit
+city	city	city	
+city of republican significance	city of republican significance	city	added 2026-09-20: Astana, Almaty, Shymkent against their own names. `city` is what separates them from a region; the tier is on the card already, in `category`.
+city with special status	city with special status	city	added 2026-09-20: Kyiv and Sevastopol, each against its own oblast.
+commissary	department	department	STALE: Colombia's comisarias became departments in 1991
+commune	commune	commune	
+constituent country	constituent country	country	GBR: ISO gives England/Scotland/Wales `country` and Northern Ireland `province`
+country	country	country	
+county	county	county	
+department	department	department	
+dependency	dependency	dependency	
+direct-administered municipality	direct-administered municipality	municipality	added 2026-09-30 for the category ruled 2026-09-30 by Jens Nordmark (@nordmarj) under the rule that a capital or city that is its own first-level unit takes the type its law gives it: Beijing, Shanghai, Tianjin and Chongqing against their own names. `municipality` is the answer they carried before; the tier is on the card already, in `category`
+directly governed city	special city	city	wp: North Korea calls all of these special cities
+disputed territory	disputed territory	disputed territory	
+district	district	district	
+districts of republican subordination	region	region	wp: this is the unit's NAME, not its type; the type is region
+division	division	division	
+economic prefecture	economic prefecture	prefecture	Central African Republic
+emirate	emirate	emirate	
+entity	entity	entity	Bosnia's own official English term
+federal capital territory	federal capital territory	capital territory	PAK: Islamabad
+federal city	federal city	city	added 2026-09-20: Moscow and Saint Petersburg against Moscow and Leningrad oblasts.
+federal district	federal district	district	
+federal entity	federal entity	district	added 2026-09-20, ruled by Jens Nordmark (@nordmarj): Mexico City against its own name. `federal entity` is the constitutional class the card's category carries since the 2016 reform ended the Distrito Federal, and it is not a thing a learner pictures; `district` is what this answer has always said and what separates the entity from the city.
+federal territory	federal territory	territory	
+free state	free state	state	Bavaria; Saxony and Thuringia are also Freistaaten but GADM types them state
+governorate	governorate	governorate	
+group of islands	island group	island group	KIR: a real island group, unlike the `island group` row above which is Tonga's tier
+independent city	independent city	city	
+independent town	region	region	wp: Sudurnes is a region of Iceland, not a town - GADM is wrong
+indigenous region	comarca	comarca	PAN: the four comarcas indigenas of province rank; the Spanish term is the established English one, ISO glosses it `indigenous region`
+intendancy	department	department	STALE: Colombia's intendencias became departments in 1991
+island	island	island	
+island council	island council	island	wp: Cook Islands
+island group	administrative division	division	wp: Tonga calls its five administrative divisions
+kingdom	traditional kingdom	kingdom	wp: Wallis and Futuna
+krai	krai	krai	added 2026-09-20: Russia's krais collide with their own capitals - Krasnodar, Perm, Khabarovsk. `krai` is short, is what English sources call them, and is what the card's category says; `territory`, the dataset's gloss, said less and contradicted the card.
+local council	local council	council	MLT: wikidata calls these town/village/city, which is the settlement, not the tier
+metropolis	metropolis	prefecture	wp: Tokyo is a to; prefecture reads better on a card
+metropolitan autonomous city	special self-governing city	city	wp: Sejong
+metropolitan city	metropolitan city	city	wp
+metropolitan province	metropolitan province	province	added 2026-09-20: Harare and Bulawayo, each against the city it is named for. `province` is the distinguishing word; `metropolitan` is the part they share with the city.
+metropolitan region	metropolitan region	region	Chile
+municipality	municipality	municipality	
+national district	national district	district	Dominican Republic
+national park	national park	national park	
+oblast	oblast	oblast	UKR: ISO glosses it `region`; oblast is the established English term
+overseas collectivity	overseas collectivity	collectivity	added 2026-09-20: Saint Martin and the other French collectivities. `collectivity` is the noun English uses for them and is shorter than the full term the card carries.
+overseas territory	overseas territory	territory	added 2026-09-20 for the polity types of level 0: Gibraltar and the other British overseas territories: `territory` is the kind of place.
+pakistan administered area	administrative territory	territory	PAK: ISO's phrase describes the dispute, not the unit type
+parish	parish	parish	
+parish district	parish district	district	wp
+prefecture	prefecture	prefecture	wp
+province	province	province	
+quarter	district	district	wp: Saint Lucia's census says district; quarter is the FIPS/ISO term
+reef	reef	reef	
+region	region	region	
+regional corporation	regional corporation	region	added 2026-09-20: Trinidad's ten. The unit is named by its governing body (the exception where English names the unit by its council), but a qualifier answers *which kind of place*, and that is a region.
+republic	republic	republic	
+self-governing city	self-governing city	city	added 2026-09-20: Tbilisi against its own name.
+sovereign state	sovereign state	country	added 2026-09-20 under the polity-type ruling of 2026-09-20: the country cards. `Georgia (country)` against `Georgia (United States)` is the established answer (the rule on qualifiers), and a learner separating two Georgias needs `country`, not the polity type the card's own category now carries.
+special administrative area	special administrative area	city	added 2026-09-30 for the category ruled 2026-09-30 by Jens Nordmark (@nordmarj) under the rule that a capital or city that is its own first-level unit takes the type its law gives it: Bangkok against its own name. The law makes it a special local administration without the status of a province, so the `province` the dataset's word gave contradicted the card; `city`, as for Minsk, Astana and Kyiv
+special administrative region	special administrative region	region	Kaesong, Kumgangsan and Sinuiju: special zones, not ordinary units. Kaesong is a special city now (wp); the other two unverified
+special city	special city	city	wp
+special island authority	special island authority	territory	NZL: the Chatham Islands, a statutory term in New Zealand local government law
+special metropolitan city	special metropolitan city	city	added 2026-09-30 for the category ruled 2026-09-30 by Jens Nordmark (@nordmarj) under the rule of that day that a capital or city that is its own first-level unit taking the type its law gives it: Seoul against its own name, as `special city` and `metropolitan city` qualify. Jeonnam-Gwangju takes the same category and collides with nothing
+special municipality	special municipality	municipality	TWN: the six zhixiashi, directly administered by the central government
+special region	province	province	STALE: Xaisomboun became a province in 2013
+special status province	special status province	province	added 2026-09-30 for the category ruled 2026-09-30 by Jens Nordmark (@nordmarj) under the rule that a capital or city that is its own first-level unit takes the type its law gives it: N'Djamena against its own name. The ordinance makes the city a province with special status, so `province`; the dataset's word `region` would have answered with a type Chad's units no longer have
+state	state	state	
+state city	state city	city	LVA: valstspilseta, the 7 cities that are not part of a novads
+statistical region	statistical region	region	wp: legal and statistical, NUTS-3
+sub-region	sub-region	sub-region	Aland
+territorial unit	territorial unit	territorial unit	Moldova; Transnistria and Gagauzia
+territory	territory	territory	
+town	town	town	
+town council	town council	town	
+town district	town district	district	wp
+union territory	union territory	territory	Naypyidaw
+urban prefecture	urban prefecture	prefecture	wp: Kyoto and Osaka are fu
+village	village	village	added 2026-09-20: Guam's 16 first-level units are villages, and the collision is each village against its own namesake seat, so `village` is both the shorter word and the true one; `municipality`, which the dataset gives and which these answers carried until now, is the wrong tier's word.
+village district	village district	district	wp
+voivodeship	province	province	wp: province is standard; voivodeship is a rare calque
+unclaimed territory	unclaimed territory	unclaimed territory	added 2026-10-04 with Marie Byrd Land's card (level 0): English Wikipedia's 'the largest unclaimed territory on Earth' (wiki:en:1130847@1376503268); written like disputed territory; confirmed 2026-10-04 by Jens Nordmark (@nordmarj)
+islet	islet	islet	added 2026-10-04 with Rockall's card (level 0, drawn from Overture's land): Overture's class `islet` for the polygon and English Wikipedia's 'uninhabitable [[granite]] [[islet]]' (wiki:en:25655@1375999982); confirmed 2026-10-04 by Jens Nordmark (@nordmarj)

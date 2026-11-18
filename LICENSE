@@ -1,0 +1,33 @@
+World in Flashcards - data
+Copyright (c) 2026 Jens Nordmark
+
+DRAFT (2026-11-15), written for decision D2.1 of reports/data_licence_pass.md; not yet ruled.
+
+The database
+------------
+The tables in this repository, taken together as a database, are made available
+under the Open Database License (ODbL) v1.0:
+https://opendatacommons.org/licenses/odbl/1-0/
+
+Any rights in individual contents of the database are licensed under the
+Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0):
+https://creativecommons.org/licenses/by-sa/4.0/
+
+The full texts of both licences are in LICENSES/ODbL-1.0.txt and
+LICENSES/CC-BY-SA-4.0.txt.
+
+What this does not cover
+------------------------
+1. Quotations of third-party pages that are not openly licensed - government
+   sites, news outlets, other websites, and the text of FOTW Flags Of The World
+   (https://www.crwflags.com/fotw/flags/disclaim.html) - are included as
+   quotation, each with its source named beside it. They are not licensed by
+   us; reuse them only as quotation, and FOTW's text only for non-commercial,
+   non-political purposes, unaltered.
+2. Values and quotations from other datasets keep their own terms, which the
+   README lists with the attribution each requires. Data from OpenStreetMap
+   (via Overture Maps) is (c) OpenStreetMap contributors, under the ODbL.
+3. No boundary data is included. Codes of GADM units (GID_1) appear as keys
+   only; GADM's data is not redistributed here.
+4. The flags, emblems, maps and recordings the deck uses are not in this
+   repository and keep their own terms, named in each note's `source`.
