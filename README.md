@@ -10,21 +10,67 @@ error](#reporting-an-error)).
 
 ## The tables
 
-| file | holds |
-|---|---|
-| `notes.tsv` | each card's hand-entered fields (English and native names, capital, IPA, captions, languages, status, codes, currency, calling code, domain, capital coordinates) and `#why`, the reason for each value |
-| `entities.tsv` | the stable identity of every card: project key, code, the note GUID Anki uses, live or defunct |
-| `code_history.tsv` | every card code ever changed, with the ruling |
-| `gadm_iso.tsv` | which GADM unit each ISO-keyed card is drawn from (identifiers only) |
-| `capital_points.tsv` | each capital city's point and the source it was chosen from |
-| `questions.tsv`, `research.tsv` | open and settled questions, and rows waiting for a deeper pass |
-| `no_image.tsv`, `rejected.tsv`, `choices.tsv` | rulings on flags and emblems: none exists, a file refused, a file chosen |
-| `types.tsv`, `type_words.tsv` | what each unit type is called in English, and in its country's language |
-| `m49*.tsv` | the UN M49 regions used for the continent tags, and the placements M49 does not give |
-| `disputed_*.tsv` | who holds and who claims each disputed area |
-| the rest | the cards a map rule applies to, measured |
+Each file is one of four kinds: **decided** (a value or ruling a person or a reading made, with its reason; edit it
+to change the deck), **measured** (written by a generator tool from every card's rendered map; regenerated, never
+edited by hand), **reference** (a published list kept as given) or **bookkeeping** (the state of the work, which no
+card shows).
 
-All files are tab-separated UTF-8 with a byte-order mark, one row per line.
+**What a card says**
+
+| file | kind | holds |
+|---|---|---|
+| `notes.tsv` | decided | each card's hand-entered fields (English and native names, capital, IPA, captions, languages, status, category, codes, currency, calling code, domain, capital coordinates) and `#why`, the reason for each value |
+| `entities.tsv` | decided | the stable identity of every card: project key, code, the note GUID Anki uses, live or defunct |
+| `code_history.tsv` | decided | every card code ever changed: old and new code, date, reason, ruling, evidence |
+| `gadm_iso.tsv` | decided | which GADM unit each ISO-keyed card is drawn from, and the basis for the key (identifiers only) |
+| `defunct.tsv` | decided | units a boundary dataset still draws that no longer exist as drawn: their last values, successors and source; kept out of the deck |
+| `capital_points.tsv` | decided | each capital city's point, the source it was chosen from by rule R1, or the open question about it |
+| `audio.tsv`, `audio_eng.tsv` | decided | the one recording chosen for each half of a native or English place or capital name: the Commons file, its source, licence and author |
+| `types.tsv` | decided | what each unit type is called in English, and the qualifier a card adds when two answers collide |
+| `type_words.tsv` | decided | the same type words in the country's own language, in their inflected forms |
+| `m49.tsv` | reference | UN M49 as the UN Statistics Division publishes it: each country's region, for the continent tags |
+| `m49_placements.tsv`, `m49_subdivisions.tsv` | decided | cards M49 does not list, placed by an M49 country or region; subdivisions on another continent than their country |
+| `landlocked.tsv`, `un_nsgt.tsv` | reference | the landlocked and doubly landlocked countries, and the UN's non-self-governing territories, from the Wikipedia lists cited, joined on card codes: two feature tags |
+
+**Which flags and emblems a card gets**
+
+| file | kind | holds |
+|---|---|---|
+| `choices.tsv` | decided | the file chosen for a card's flag or emblem slot, and who chose it |
+| `rejected.tsv` | decided | files refused for a slot, so no later search brings them back |
+| `no_image.tsv` | decided | rulings that a unit has no flag or emblem of its own, with the evidence and its tier |
+| `masks.tsv` | decided | the boxes of lettering painted out of a picture so its question does not name the answer, keyed on the file's SHA-256 |
+| `mask_review.tsv` | decided | a person's or reader's verdict on each masked picture as drawn: `clean`, `name-legible`, `damaged` or `kept-unmasked` |
+| `fotw_links.tsv` | decided | a reader's link from a card to its page on FOTW Flags Of The World, where no code joins them |
+| `hotw_links.tsv` | decided | the same for Heraldry of the World; empty, as the site could not be read |
+| `geosiwk_hand.tsv` | decided | the ruling on each note of the model deck (Geography Stuff I Wanna Know) that no name could match to a card |
+
+**How the maps are drawn**
+
+| file | kind | holds |
+|---|---|---|
+| `disputed_areas.tsv` | decided | each disputed area: who holds it, who claims it, and how the cards draw it |
+| `disputed_units.tsv` | decided | the subdivision cards that are their country's claiming unit for a disputed area |
+| `disputed_seas.tsv` | decided | which card draws each overlapping or jointly administered sea zone (Marine Regions ids) |
+| `subdivision_land.tsv`, `subdivision_trim.tsv` | decided | countries whose subdivisions are cut to Natural Earth's land, or to the country card's own outline |
+| `subdivision_water.tsv` | decided | subdivision cards drawn less a lagoon or bay their dataset draws as land |
+| `subdivision_overture_land.tsv` | decided | atoll countries whose units are their region's whole area cut to Overture's land |
+| `added_lakes.tsv` | decided | lakes Natural Earth omits, added from Overture, and the cards that draw them |
+| `panel_water.tsv`, `panel_zoom.tsv` | decided | detail panels drawn with Overture's water, or with a closer zoom and Overture's coast |
+| `disputed_cards.tsv`, `ice_shelf_cards.tsv`, `outlying_cards.tsv`, `panel_ring_cards.tsv`, `frame_clip_cards.tsv`, `zone_hole_countries.tsv` | measured | the cards (or countries) a map rule changes - disputed areas and border lines, Antarctica's ice shelves, outlying parts and the locator, detail-panel rings, cut panel frames, zone holes filled as internal water; the list decides which cards the rule applies to |
+
+**The work itself**
+
+| file | kind | holds |
+|---|---|---|
+| `questions.tsv` | bookkeeping | open and settled questions on a card's field, with the candidates and the verdict |
+| `research.tsv` | bookkeeping | rows a reader flagged for a deeper pass, or as a unit no longer current |
+| `imported.tsv` | bookkeeping | every card field an import or a rule fill wrote; the coverage report counts these as imported, not checked |
+| `status.toml` | bookkeeping | how complete each country's fields are declared to be, per field group |
+| `pcgn_bad_rows.tsv` | bookkeeping | rows of the PCGN Toponymic Factfiles known to be wrong (an error in the factfile or in reading it), which the generator skips |
+| `unit_types.tsv` | bookkeeping | retired (2026-09-19) and frozen: the early research on what English calls each country's unit types; a card's `category` cell now decides |
+
+All `.tsv` files are tab-separated UTF-8 with a byte-order mark, one row per line; `status.toml` is TOML.
 
 ### Reading `#why`
 
