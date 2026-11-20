@@ -47008,6 +47008,10 @@ XAD	ccTld
 XAD	currency
 XAD	otherLanguages
 XAD	status
+XNI	capitalIPA
+XNI	language
+XNI	otherLanguages
+XNI	placeOri
 XQA	callingCode
 XQA	capitalCoord
 XQA	category

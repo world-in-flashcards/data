@@ -34,6 +34,7 @@ city with special status	city with special status	city	added 2026-09-20: Kyiv an
 commissary	department	department	STALE: Colombia's comisarias became departments in 1991
 commune	commune	commune	
 constituent country	constituent country	country	GBR: ISO gives England/Scotland/Wales `country` and Northern Ireland `province`
+constitutional province	constitutional province	province	added 2026-11-19, by hand, by an agent, for the category of PE-CAL (Callao; the Provincia Constitucional del Callao, wiki:en:294857@1375326589): Callao against its own capital. `province` is the distinguishing word, as for `metropolitan province` and `special status province`, and the answer it already gave from the dataset's word, `Callao (province)`
 country	country	country	
 county	county	county	
 department	department	department	
@@ -90,6 +91,7 @@ self-governing city	self-governing city	city	added 2026-09-20: Tbilisi against i
 sovereign state	sovereign state	country	added 2026-09-20 under the polity-type ruling of 2026-09-20: the country cards. `Georgia (country)` against `Georgia (United States)` is the established answer (the rule on qualifiers), and a learner separating two Georgias needs `country`, not the polity type the card's own category now carries.
 special administrative area	special administrative area	city	added 2026-09-30 for the category ruled 2026-09-30 by Jens Nordmark (@nordmarj) under the rule that a capital or city that is its own first-level unit takes the type its law gives it: Bangkok against its own name. The law makes it a special local administration without the status of a province, so the `province` the dataset's word gave contradicted the card; `city`, as for Minsk, Astana and Kyiv
 special administrative region	special administrative region	region	Kaesong, Kumgangsan and Sinuiju: special zones, not ordinary units. Kaesong is a special city now (wp); the other two unverified
+special capital region	special capital region	region	added 2026-11-19, by hand, by an agent, for the category of ID-JK (Jakarta, officially the Special Capital Region of Jakarta, Daerah Khusus Ibukota; wiki:en:16275@1377629165): Jakarta against its own capital. `region` is the noun of the official English name, as `special administrative region` takes `region`; the answer had been `Jakarta (district)`, from the dataset's word
 special city	special city	city	wp
 special island authority	special island authority	territory	NZL: the Chatham Islands, a statutory term in New Zealand local government law
 special metropolitan city	special metropolitan city	city	added 2026-09-30 for the category ruled 2026-09-30 by Jens Nordmark (@nordmarj) under the rule of that day that a capital or city that is its own first-level unit taking the type its law gives it: Seoul against its own name, as `special city` and `metropolitan city` qualify. Jeonnam-Gwangju takes the same category and collides with nothing

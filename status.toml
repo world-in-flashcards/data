@@ -2901,6 +2901,16 @@ status = "imported"
 facts = "imported"
 coordinates = "imported"
 
+[XNI]
+names = "checked"
+capital = "checked"
+language = "checked"
+category = "checked"
+status = "checked"
+facts = "checked"
+coordinates = "checked"
+free = "imported"
+
 [XQA]
 names = "checked"
 ipa = "imported"
