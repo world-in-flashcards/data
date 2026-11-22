@@ -1,1149 +1,1156 @@
 code	overlays	lines	measured
-AF-BAL		dashed 653 px (main); restyle 579 px (main)	2026-11-18
-AF-BAM		dashed 653 px (main); restyle 579 px (main)	2026-11-18
-AF-BDG		dashed 653 px (main); restyle 579 px (main)	2026-11-18
-AF-BDS		dashed 653 px (main); restyle 579 px (main)	2026-11-18
-AF-BGL		dashed 653 px (main); restyle 579 px (main)	2026-11-18
-AF-DAY		dashed 653 px (main); restyle 579 px (main)	2026-11-18
-AF-FRA		dashed 653 px (main); restyle 579 px (main)	2026-11-18
-AF-FYB		dashed 653 px (main); restyle 579 px (main)	2026-11-18
-AF-GHA		dashed 653 px (main); restyle 579 px (main)	2026-11-18
-AF-GHO		dashed 653 px (main); restyle 579 px (main)	2026-11-18
-AF-HEL		dashed 653 px (main); restyle 579 px (main)	2026-11-18
-AF-HER		dashed 653 px (main); restyle 579 px (main)	2026-11-18
-AF-JOW		dashed 653 px (main); restyle 579 px (main)	2026-11-18
-AF-KAB		dashed 653 px (main); restyle 579 px (main)	2026-11-18
-AF-KAN		dashed 653 px (main); restyle 579 px (main)	2026-11-18
-AF-KAP		dashed 653 px (main); restyle 579 px (main)	2026-11-18
-AF-KDZ		dashed 653 px (main); restyle 579 px (main)	2026-11-18
-AF-KHO		dashed 653 px (main); restyle 579 px (main)	2026-11-18
-AF-KNR		dashed 653 px (main); restyle 579 px (main)	2026-11-18
-AF-LAG		dashed 653 px (main); restyle 579 px (main)	2026-11-18
-AF-LOG		dashed 653 px (main); restyle 579 px (main)	2026-11-18
-AF-NAN		dashed 653 px (main); restyle 579 px (main)	2026-11-18
-AF-NIM		dashed 653 px (main); restyle 579 px (main)	2026-11-18
-AF-NUR		dashed 653 px (main); restyle 579 px (main)	2026-11-18
-AF-PAN		dashed 653 px (main); restyle 579 px (main)	2026-11-18
-AF-PAR		dashed 653 px (main); restyle 579 px (main)	2026-11-18
-AF-PIA		dashed 653 px (main); restyle 579 px (main)	2026-11-18
-AF-PKA		dashed 653 px (main); restyle 579 px (main)	2026-11-18
-AF-SAM		dashed 653 px (main); restyle 579 px (main)	2026-11-18
-AF-SAR		dashed 653 px (main); restyle 579 px (main)	2026-11-18
-AF-TAK		dashed 653 px (main); restyle 579 px (main)	2026-11-18
-AF-URU		dashed 653 px (main); restyle 579 px (main)	2026-11-18
-AF-WAR		dashed 653 px (main); restyle 579 px (main)	2026-11-18
-AF-ZAB		dashed 653 px (main); restyle 579 px (main)	2026-11-18
-AFG		dashed 688 px (main); restyle 526 px (main)	2026-11-18
-ALB		dashed 32 px (main); restyle 68 px (main)	2026-11-18
-AR-V	B12 claimed (main); B12 claimed (detail)		2026-11-18
-ARG	B12 claimed (main)		2026-11-18
-ARM		dashed 156 px (main); restyle 114 px (main)	2026-11-18
-AUT		dashed 89 px (main)	2026-11-18
-AZ-ABS		dashed 297 px (main)	2026-11-18
-AZ-AGA		dashed 297 px (main)	2026-11-18
-AZ-AGC		dashed 297 px (main)	2026-11-18
-AZ-AGD		dashed 297 px (main)	2026-11-18
-AZ-AGM		dashed 297 px (main)	2026-11-18
-AZ-AGS		dashed 297 px (main)	2026-11-18
-AZ-AGU		dashed 297 px (main)	2026-11-18
-AZ-AST		dashed 297 px (main)	2026-11-18
-AZ-BA		dashed 297 px (main)	2026-11-18
-AZ-BAL		dashed 297 px (main)	2026-11-18
-AZ-BAR		dashed 297 px (main)	2026-11-18
-AZ-BEY		dashed 297 px (main)	2026-11-18
-AZ-BIL		dashed 297 px (main)	2026-11-18
-AZ-CAB		dashed 297 px (main)	2026-11-18
-AZ-CAL		dashed 297 px (main)	2026-11-18
-AZ-DAS		dashed 297 px (main)	2026-11-18
-AZ-FUZ		dashed 297 px (main)	2026-11-18
-AZ-GA		dashed 297 px (main)	2026-11-18
-AZ-GAD		dashed 297 px (main)	2026-11-18
-AZ-GOR		dashed 297 px (main)	2026-11-18
-AZ-GOY		dashed 297 px (main)	2026-11-18
-AZ-GYG		dashed 297 px (main)	2026-11-18
-AZ-HAC		dashed 297 px (main)	2026-11-18
-AZ-IMI		dashed 297 px (main)	2026-11-18
-AZ-ISM		dashed 297 px (main)	2026-11-18
-AZ-KAL		dashed 297 px (main)	2026-11-18
-AZ-KUR		dashed 297 px (main)	2026-11-18
-AZ-LA		dashed 297 px (main)	2026-11-18
-AZ-LAC		dashed 297 px (main)	2026-11-18
-AZ-LAN		dashed 297 px (main)	2026-11-18
-AZ-LER		dashed 297 px (main)	2026-11-18
-AZ-MAS		dashed 297 px (main)	2026-11-18
-AZ-MI		dashed 297 px (main)	2026-11-18
-AZ-NA		dashed 297 px (main)	2026-11-18
-AZ-NEF		dashed 297 px (main)	2026-11-18
-AZ-NX		dashed 297 px (main)	2026-11-18
-AZ-OGU		dashed 297 px (main)	2026-11-18
-AZ-QAB		dashed 297 px (main)	2026-11-18
-AZ-QAX		dashed 297 px (main)	2026-11-18
-AZ-QAZ	O01 claimed (detail); O02 claimed (detail)	dashed 297 px (main)	2026-11-18
-AZ-QBA		dashed 297 px (main)	2026-11-18
-AZ-QBI		dashed 297 px (main)	2026-11-18
-AZ-QOB		dashed 297 px (main)	2026-11-18
-AZ-QUS		dashed 297 px (main)	2026-11-18
-AZ-SA		dashed 297 px (main)	2026-11-18
-AZ-SAB		dashed 297 px (main)	2026-11-18
-AZ-SAK		dashed 297 px (main)	2026-11-18
-AZ-SAL		dashed 297 px (main)	2026-11-18
-AZ-SAT		dashed 297 px (main)	2026-11-18
-AZ-SBN		dashed 297 px (main)	2026-11-18
-AZ-SIY		dashed 297 px (main)	2026-11-18
-AZ-SKR		dashed 297 px (main)	2026-11-18
-AZ-SM		dashed 297 px (main)	2026-11-18
-AZ-SMI		dashed 297 px (main)	2026-11-18
-AZ-SMX		dashed 297 px (main)	2026-11-18
-AZ-SR		dashed 297 px (main)	2026-11-18
-AZ-SUS		dashed 297 px (main)	2026-11-18
-AZ-TAR		dashed 297 px (main)	2026-11-18
-AZ-TOV		dashed 297 px (main)	2026-11-18
-AZ-UCA		dashed 297 px (main)	2026-11-18
-AZ-XA		dashed 297 px (main)	2026-11-18
-AZ-XAC		dashed 297 px (main)	2026-11-18
-AZ-XCI		dashed 297 px (main)	2026-11-18
-AZ-XIZ		dashed 297 px (main)	2026-11-18
-AZ-XVD		dashed 297 px (main)	2026-11-18
-AZ-YAR		dashed 297 px (main)	2026-11-18
-AZ-YE		dashed 297 px (main)	2026-11-18
-AZ-YEV		dashed 297 px (main)	2026-11-18
-AZ-ZAN		dashed 297 px (main)	2026-11-18
-AZ-ZAQ		dashed 297 px (main)	2026-11-18
-AZ-ZAR		dashed 297 px (main)	2026-11-18
-AZE		dashed 194 px (main); restyle 133 px (main); dashed 139 px (detail)	2026-11-18
-BD-A		dashed 241 px (main); restyle 22 px (main)	2026-11-18
-BD-B		dashed 241 px (main); restyle 22 px (main)	2026-11-18
-BD-C		dashed 241 px (main); restyle 22 px (main)	2026-11-18
-BD-D		dashed 241 px (main); restyle 22 px (main)	2026-11-18
-BD-E		dashed 241 px (main); restyle 22 px (main)	2026-11-18
-BD-F		dashed 241 px (main); restyle 22 px (main)	2026-11-18
-BD-G		dashed 241 px (main); restyle 22 px (main)	2026-11-18
-BD-H		dashed 241 px (main); restyle 22 px (main)	2026-11-18
-BDI		dashed 87 px (main); restyle 80 px (main)	2026-11-18
-BEN		dashed 67 px (main); restyle 87 px (main)	2026-11-18
-BFA		restyle 95 px (main)	2026-11-18
-BGD		solid 17 px (main); dashed 412 px (main); restyle 485 px (main); dashed 139 px (detail); restyle 57 px (detail)	2026-11-18
-BGR		dashed 157 px (main); restyle 153 px (main)	2026-11-18
-BHR		dashed 77 px (main); restyle 64 px (main)	2026-11-18
-BIH		dashed 42 px (main); restyle 103 px (main)	2026-11-18
-BLR		dashed 167 px (main); restyle 42 px (main)	2026-11-18
-BLZ	B51 held (main); B51 held (detail)		2026-11-18
-BRT		restyle 14 px (main); restyle 78 px (detail)	2026-11-18
-BT-11		solid 216 px (main); dashed 339 px (main); restyle 732 px (main); dashed 230 px (detail); restyle 90 px (detail)	2026-11-18
-BT-12		solid 216 px (main); dashed 339 px (main); restyle 732 px (main)	2026-11-18
-BT-13		solid 216 px (main); dashed 339 px (main); restyle 732 px (main)	2026-11-18
-BT-14		solid 216 px (main); dashed 339 px (main); restyle 732 px (main); dashed 154 px (detail); restyle 24 px (detail)	2026-11-18
-BT-15		solid 216 px (main); dashed 339 px (main); restyle 732 px (main)	2026-11-18
-BT-21		solid 216 px (main); dashed 339 px (main); restyle 732 px (main)	2026-11-18
-BT-22		solid 216 px (main); dashed 339 px (main); restyle 732 px (main)	2026-11-18
-BT-23		solid 216 px (main); dashed 339 px (main); restyle 732 px (main)	2026-11-18
-BT-24		solid 216 px (main); dashed 339 px (main); restyle 732 px (main)	2026-11-18
-BT-31		solid 216 px (main); dashed 339 px (main); restyle 732 px (main)	2026-11-18
-BT-32		solid 216 px (main); dashed 339 px (main); restyle 732 px (main)	2026-11-18
-BT-33		solid 216 px (main); dashed 339 px (main); restyle 732 px (main)	2026-11-18
-BT-34		solid 216 px (main); dashed 339 px (main); restyle 732 px (main)	2026-11-18
-BT-41		solid 216 px (main); dashed 339 px (main); restyle 732 px (main)	2026-11-18
-BT-42		solid 216 px (main); dashed 339 px (main); restyle 732 px (main)	2026-11-18
-BT-43		solid 216 px (main); dashed 339 px (main); restyle 732 px (main)	2026-11-18
-BT-44		solid 216 px (main); dashed 339 px (main); restyle 732 px (main)	2026-11-18
-BT-45		solid 216 px (main); dashed 339 px (main); restyle 732 px (main)	2026-11-18
-BT-GA		solid 216 px (main); dashed 339 px (main); restyle 732 px (main)	2026-11-18
-BT-TY		solid 216 px (main); dashed 339 px (main); restyle 732 px (main); restyle 149 px (detail)	2026-11-18
-BTN	B75 held (main); B75 held (detail)	solid 33 px (main); dashed 779 px (main); restyle 910 px (main); solid 61 px (detail); dashed 113 px (detail); restyle 228 px (detail)	2026-11-18
-CAF		dashed 86 px (main); restyle 51 px (main)	2026-11-18
-CF-AC		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-18
-CF-BB		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-18
-CF-BGF		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-18
-CF-BK		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-18
-CF-HK		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-18
-CF-HM		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-18
-CF-HS		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-18
-CF-KB		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-18
-CF-KG		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-18
-CF-LB		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-18
-CF-LP		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-18
-CF-MB		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-18
-CF-MP		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-18
-CF-MR		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-18
-CF-NM		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-18
-CF-OF		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-18
-CF-OP		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-18
-CF-SE		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-18
-CF-UK		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-18
-CF-VK		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-18
-CHN	B00 claimed (main); B07 held (main); B77 claimed (main)	solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-18
-CN-AH		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-18
-CN-BJ		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-18
-CN-CQ		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-18
-CN-FJ		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-18
-CN-GD		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-18
-CN-GS		solid 11 px (main); dashed 372 px (main); restyle 325 px (main); dashed 10 px (detail); restyle 139 px (detail)	2026-11-18
-CN-GX		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-18
-CN-GZ		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-18
-CN-HA		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-18
-CN-HB		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-18
-CN-HE		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-18
-CN-HI		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-18
-CN-HL		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-18
-CN-HN		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-18
-CN-JL		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-18
-CN-JS		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-18
-CN-JX		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-18
-CN-LN		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-18
-CN-NM		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-18
-CN-NX		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-18
-CN-QH		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-18
-CN-SC		solid 11 px (main); dashed 372 px (main); restyle 325 px (main); dashed 59 px (detail); restyle 104 px (detail)	2026-11-18
-CN-SD		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-18
-CN-SH		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-18
-CN-SN		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-18
-CN-SX		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-18
-CN-TJ		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-18
-CN-TW	CN-TW own-claimed (main); CN-TW own-claimed (detail)	solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-18
-CN-XJ		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-18
-CN-XZ		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-18
-CN-YN		solid 11 px (main); dashed 372 px (main); restyle 325 px (main); dashed 68 px (detail); restyle 121 px (detail)	2026-11-18
-CN-ZJ		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-18
-CNM		dashed 37 px (main); restyle 154 px (main); restyle 454 px (detail)	2026-11-18
-COD		dashed 23 px (main); restyle 54 px (main)	2026-11-18
-COG		dashed 33 px (main); restyle 18 px (main)	2026-11-18
-COM		dashed 23 px (main); restyle 36 px (main)	2026-11-18
-CPV		dashed 107 px (main); restyle 297 px (main)	2026-11-18
-CPV.19_1		restyle 280 px (main)	2026-11-18
-CU-14	B50 claimed (detail)		2026-11-18
-CV-BR		restyle 280 px (main)	2026-11-18
-CV-BV		restyle 280 px (main)	2026-11-18
-CV-CA		restyle 280 px (main)	2026-11-18
-CV-CF		restyle 280 px (main)	2026-11-18
-CV-CR		restyle 280 px (main)	2026-11-18
-CV-MA		restyle 280 px (main)	2026-11-18
-CV-MO		restyle 280 px (main)	2026-11-18
-CV-PA		restyle 280 px (main)	2026-11-18
-CV-PN		restyle 280 px (main)	2026-11-18
-CV-PR		restyle 280 px (main)	2026-11-18
-CV-RB		restyle 280 px (main)	2026-11-18
-CV-RG		restyle 280 px (main)	2026-11-18
-CV-RS		restyle 280 px (main)	2026-11-18
-CV-SD		restyle 280 px (main)	2026-11-18
-CV-SF		restyle 280 px (main)	2026-11-18
-CV-SL		restyle 280 px (main)	2026-11-18
-CV-SM		restyle 280 px (main)	2026-11-18
-CV-SO		restyle 280 px (main)	2026-11-18
-CV-SV		restyle 280 px (main)	2026-11-18
-CV-TA		restyle 280 px (main)	2026-11-18
-CV-TS		restyle 280 px (main)	2026-11-18
-CY-01	B20 claimed (main); B43 neutral (main)	restyle 981 px (main)	2026-11-18
-CY-02		restyle 1561 px (main)	2026-11-18
-CY-03	B43 neutral (main)	restyle 981 px (main)	2026-11-18
-CY-04	B20 claimed (main)	restyle 981 px (main)	2026-11-18
-CY-05		restyle 1561 px (main)	2026-11-18
-CY-06	B20 claimed (main)	restyle 981 px (main)	2026-11-18
-CYN		dashed 184 px (main); restyle 133 px (main); restyle 329 px (detail)	2026-11-18
-CYN.1_1		restyle 1347 px (main)	2026-11-18
-CYN.2_1		restyle 1347 px (main)	2026-11-18
-CYN.3_1		restyle 1347 px (main)	2026-11-18
-CYN.4_1		restyle 1347 px (main)	2026-11-18
-CYN.5_1		restyle 1347 px (main)	2026-11-18
-CYP	B20 claimed (main); B20 claimed (detail); B43 neutral (detail)	dashed 141 px (main); restyle 94 px (main); restyle 282 px (detail)	2026-11-18
-CZE		dashed 74 px (main); restyle 55 px (main)	2026-11-18
-DEU		dashed 24 px (main)	2026-11-18
-DJI		dashed 48 px (main); restyle 139 px (main)	2026-11-18
-DNK		dashed 60 px (main)	2026-11-18
-DZ-01		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-02		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-03		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-04		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-05		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-06		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-07		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-08		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-09		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-10		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-11		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-12		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-13		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-14		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-15		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-16		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-17		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-18		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-19		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-20		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-21		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-22		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-23		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-24		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-25		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-26		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-27		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-28		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-29		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-30		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-31		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-32		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-33		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-34		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-35		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-36		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-37		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-38		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-39		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-40		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-41		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-42		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-43		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-44		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-45		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-46		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-47		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-48		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-49		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-50		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-51		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-52		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-53		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-54		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-55		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-56		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-57		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-58		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-59		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-60		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-61		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-62		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-63		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-64		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-65		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-66		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-67		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-68		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZ-69		dashed 102 px (main); restyle 139 px (main)	2026-11-18
-DZA		dashed 114 px (main); restyle 167 px (main)	2026-11-18
-EG-ALX		dashed 36 px (main); restyle 41 px (main)	2026-11-18
-EG-ASN		dashed 36 px (main); restyle 41 px (main)	2026-11-18
-EG-AST		dashed 36 px (main); restyle 41 px (main)	2026-11-18
-EG-BA		dashed 36 px (main); restyle 41 px (main)	2026-11-18
-EG-BH		dashed 36 px (main); restyle 41 px (main)	2026-11-18
-EG-BNS		dashed 36 px (main); restyle 41 px (main)	2026-11-18
-EG-C		dashed 36 px (main); restyle 41 px (main)	2026-11-18
-EG-DK		dashed 36 px (main); restyle 41 px (main)	2026-11-18
-EG-DT		dashed 36 px (main); restyle 41 px (main)	2026-11-18
-EG-FYM		dashed 36 px (main); restyle 41 px (main)	2026-11-18
-EG-GH		dashed 36 px (main); restyle 41 px (main)	2026-11-18
-EG-GZ		dashed 36 px (main); restyle 41 px (main)	2026-11-18
-EG-IS		dashed 36 px (main); restyle 41 px (main)	2026-11-18
-EG-JS		dashed 36 px (main); restyle 41 px (main)	2026-11-18
-EG-KB		dashed 36 px (main); restyle 41 px (main)	2026-11-18
-EG-KFS		dashed 36 px (main); restyle 41 px (main)	2026-11-18
-EG-KN		dashed 36 px (main); restyle 41 px (main)	2026-11-18
-EG-LX		dashed 36 px (main); restyle 41 px (main)	2026-11-18
-EG-MN		dashed 36 px (main); restyle 41 px (main)	2026-11-18
-EG-MNF		dashed 36 px (main); restyle 41 px (main)	2026-11-18
-EG-MT		dashed 36 px (main); restyle 41 px (main)	2026-11-18
-EG-PTS		dashed 36 px (main); restyle 41 px (main)	2026-11-18
-EG-SHG		dashed 36 px (main); restyle 41 px (main)	2026-11-18
-EG-SHR		dashed 36 px (main); restyle 41 px (main)	2026-11-18
-EG-SIN		dashed 36 px (main); restyle 41 px (main)	2026-11-18
-EG-SUZ		dashed 36 px (main); restyle 41 px (main)	2026-11-18
-EG-WAD		dashed 36 px (main); restyle 41 px (main)	2026-11-18
-EGY	B93 held (main)	dashed 20 px (main); restyle 84 px (main)	2026-11-18
-ERI		dashed 107 px (main); restyle 207 px (main)	2026-11-18
-ES-CN		dashed 389 px (main); restyle 535 px (main)	2026-11-18
-ESH		dashed 122 px (main); restyle 351 px (main)	2026-11-18
-ESH.1_1		dashed 313 px (main); restyle 903 px (main)	2026-11-18
-ESH.2_1		dashed 313 px (main); restyle 903 px (main)	2026-11-18
-ESH.3_1		dashed 313 px (main); restyle 903 px (main)	2026-11-18
-ESH.4_1		dashed 313 px (main); restyle 903 px (main)	2026-11-18
-ET-AA		dashed 51 px (main); restyle 238 px (main)	2026-11-18
-ET-AF		dashed 51 px (main); restyle 238 px (main)	2026-11-18
-ET-AM		dashed 51 px (main); restyle 238 px (main)	2026-11-18
-ET-BE		dashed 51 px (main); restyle 238 px (main)	2026-11-18
-ET-CE		dashed 51 px (main); restyle 238 px (main)	2026-11-18
-ET-DD		dashed 51 px (main); restyle 238 px (main)	2026-11-18
-ET-GA		dashed 51 px (main); restyle 238 px (main)	2026-11-18
-ET-HA		dashed 51 px (main); restyle 238 px (main)	2026-11-18
-ET-OR		dashed 51 px (main); restyle 238 px (main)	2026-11-18
-ET-SE		dashed 51 px (main); restyle 238 px (main); dashed 49 px (detail); restyle 100 px (detail)	2026-11-18
-ET-SI		dashed 51 px (main); restyle 238 px (main)	2026-11-18
-ET-SO		dashed 51 px (main); restyle 238 px (main)	2026-11-18
-ET-SW		dashed 51 px (main); restyle 238 px (main); dashed 80 px (detail); restyle 127 px (detail)	2026-11-18
-ET-TI		dashed 51 px (main); restyle 238 px (main)	2026-11-18
-ETH		dashed 116 px (main); restyle 224 px (main)	2026-11-18
-FIN		dashed 20 px (main); restyle 25 px (main)	2026-11-18
-GE-AB	B35 claimed (main)	dashed 607 px (main)	2026-11-18
-GE-AJ		dashed 607 px (main)	2026-11-18
-GE-GU		dashed 607 px (main); dashed 41 px (detail)	2026-11-18
-GE-IM		dashed 607 px (main)	2026-11-18
-GE-KA		dashed 607 px (main)	2026-11-18
-GE-KK		dashed 607 px (main)	2026-11-18
-GE-MM	B37 claimed (main)	dashed 607 px (main)	2026-11-18
-GE-RL	B37 claimed (main)	dashed 607 px (main)	2026-11-18
-GE-SJ		dashed 607 px (main)	2026-11-18
-GE-SK	B37 claimed (main)	dashed 607 px (main)	2026-11-18
-GE-SZ		dashed 607 px (main)	2026-11-18
-GE-TB		dashed 607 px (main)	2026-11-18
-GEO	B35 claimed (main); B37 claimed (main)	dashed 241 px (main); restyle 158 px (main)	2026-11-18
-GHA		restyle 119 px (main)	2026-11-18
-GIB		dashed 113 px (main); restyle 241 px (main)	2026-11-18
-GRC		dashed 86 px (main); restyle 114 px (main)	2026-11-18
-GTM	B51 claimed (main); B51 claimed (detail)		2026-11-18
-GUF	B14 held (main); B14 held (detail)		2026-11-18
-GUY	B15 held (main); B56 held (main); B15 held (detail); B56 held (detail)		2026-11-18
-HRV		dashed 42 px (main); restyle 48 px (main)	2026-11-18
-HUN		dashed 71 px (main); restyle 52 px (main)	2026-11-18
-IL-D		dashed 93 px (main); restyle 68 px (main)	2026-11-18
-IL-HA		dashed 93 px (main); restyle 68 px (main)	2026-11-18
-IL-JM		dashed 93 px (main); restyle 68 px (main)	2026-11-18
-IL-M		dashed 93 px (main); restyle 68 px (main)	2026-11-18
-IL-TA		dashed 93 px (main); restyle 68 px (main)	2026-11-18
-IL-Z		dashed 93 px (main); restyle 68 px (main); dashed 172 px (detail); restyle 124 px (detail)	2026-11-18
-IN-AP		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-18
-IN-AR		solid 16 px (main); dashed 518 px (main); restyle 500 px (main); solid 22 px (detail); dashed 262 px (detail); restyle 418 px (detail)	2026-11-18
-IN-AS		solid 16 px (main); dashed 518 px (main); restyle 500 px (main); solid 32 px (detail); dashed 241 px (detail); restyle 391 px (detail)	2026-11-18
-IN-BR		solid 16 px (main); dashed 518 px (main); restyle 500 px (main); dashed 24 px (detail); restyle 12 px (detail)	2026-11-18
-IN-CG		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-18
-IN-CH		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-18
-IN-DH		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-18
-IN-DL		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-18
-IN-GA		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-18
-IN-GJ		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-18
-IN-HP		solid 16 px (main); dashed 518 px (main); restyle 500 px (main); solid 16 px (detail); dashed 522 px (detail); restyle 264 px (detail)	2026-11-18
-IN-HR		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-18
-IN-JH		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-18
-IN-JK	B09 claimed (main); B09 claimed (detail)	solid 15 px (main); dashed 489 px (main); restyle 462 px (main); dashed 694 px (detail); restyle 766 px (detail)	2026-11-18
-IN-KA		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-18
-IN-KL		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-18
-IN-LA	B06 claimed (main); B07 claimed (main); B08 claimed (main); B06 claimed (detail); B07 claimed (detail); B08 claimed (detail)	solid 15 px (main); dashed 489 px (main); restyle 462 px (main); dashed 767 px (detail); restyle 578 px (detail)	2026-11-18
-IN-LD		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-18
-IN-MH		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-18
-IN-ML		solid 16 px (main); dashed 518 px (main); restyle 500 px (main); dashed 162 px (detail)	2026-11-18
-IN-MN		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-18
-IN-MP		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-18
-IN-MZ		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-18
-IN-NL		solid 16 px (main); dashed 518 px (main); restyle 500 px (main); dashed 207 px (detail)	2026-11-18
-IN-OD		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-18
-IN-PB		solid 16 px (main); dashed 518 px (main); restyle 500 px (main); dashed 348 px (detail); restyle 153 px (detail)	2026-11-18
-IN-PY		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-18
-IN-RJ		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-18
-IN-SK		solid 16 px (main); dashed 518 px (main); restyle 500 px (main); dashed 131 px (detail); restyle 51 px (detail)	2026-11-18
-IN-TN		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-18
-IN-TR		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-18
-IN-TS		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-18
-IN-UK		solid 16 px (main); dashed 518 px (main); restyle 500 px (main); dashed 84 px (detail); restyle 114 px (detail)	2026-11-18
-IN-UP		solid 16 px (main); dashed 518 px (main); restyle 500 px (main); dashed 25 px (detail); restyle 43 px (detail)	2026-11-18
-IN-WB		solid 16 px (main); dashed 518 px (main); restyle 500 px (main); solid 33 px (detail); dashed 19 px (detail); restyle 81 px (detail)	2026-11-18
-IND	B00 held (main); B05 held (main); B06 claimed (main); B07 claimed (main); B08 claimed (main); B09 claimed (main); C01 held (main)	solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-18
-IOT		restyle 47 px (main)	2026-11-18
-IR-00		dashed 88 px (main)	2026-11-18
-IR-01		dashed 88 px (main)	2026-11-18
-IR-02		dashed 88 px (main)	2026-11-18
-IR-03		dashed 88 px (main)	2026-11-18
-IR-04		dashed 88 px (main)	2026-11-18
-IR-05		dashed 88 px (main)	2026-11-18
-IR-06		dashed 88 px (main)	2026-11-18
-IR-07		dashed 88 px (main)	2026-11-18
-IR-08		dashed 88 px (main)	2026-11-18
-IR-09		dashed 88 px (main)	2026-11-18
-IR-10		dashed 88 px (main)	2026-11-18
-IR-11		dashed 88 px (main)	2026-11-18
-IR-12		dashed 88 px (main)	2026-11-18
-IR-13		dashed 88 px (main)	2026-11-18
-IR-14		dashed 88 px (main)	2026-11-18
-IR-15		dashed 88 px (main)	2026-11-18
-IR-16		dashed 88 px (main)	2026-11-18
-IR-17		dashed 88 px (main)	2026-11-18
-IR-18		dashed 88 px (main)	2026-11-18
-IR-19		dashed 88 px (main)	2026-11-18
-IR-20		dashed 88 px (main)	2026-11-18
-IR-21		dashed 88 px (main)	2026-11-18
-IR-22		dashed 88 px (main)	2026-11-18
-IR-23		dashed 88 px (main)	2026-11-18
-IR-24		dashed 88 px (main)	2026-11-18
-IR-25		dashed 88 px (main)	2026-11-18
-IR-26		dashed 88 px (main)	2026-11-18
-IR-27		dashed 88 px (main)	2026-11-18
-IR-28		dashed 88 px (main)	2026-11-18
-IR-29		dashed 88 px (main)	2026-11-18
-IR-30		dashed 88 px (main)	2026-11-18
-IRN		dashed 105 px (main)	2026-11-18
-IRQ		dashed 116 px (main); restyle 115 px (main)	2026-11-18
-ISR	B16 held (detail)	dashed 97 px (main); restyle 68 px (main); dashed 40 px (detail); restyle 29 px (detail)	2026-11-18
-ITA		dashed 37 px (main)	2026-11-18
-JO-AJ		dashed 87 px (main); restyle 63 px (main)	2026-11-18
-JO-AM		dashed 87 px (main); restyle 63 px (main)	2026-11-18
-JO-AQ		dashed 87 px (main); restyle 63 px (main)	2026-11-18
-JO-AT		dashed 87 px (main); restyle 63 px (main)	2026-11-18
-JO-AZ		dashed 87 px (main); restyle 63 px (main); dashed 44 px (detail); restyle 24 px (detail)	2026-11-18
-JO-BA		dashed 87 px (main); restyle 63 px (main)	2026-11-18
-JO-IR		dashed 87 px (main); restyle 63 px (main); dashed 86 px (detail); restyle 27 px (detail)	2026-11-18
-JO-JA		dashed 87 px (main); restyle 63 px (main)	2026-11-18
-JO-KA		dashed 87 px (main); restyle 63 px (main)	2026-11-18
-JO-MA		dashed 87 px (main); restyle 63 px (main)	2026-11-18
-JO-MD		dashed 87 px (main); restyle 63 px (main)	2026-11-18
-JO-MN		dashed 87 px (main); restyle 63 px (main)	2026-11-18
-JOR		dashed 106 px (main); restyle 88 px (main); dashed 37 px (detail); restyle 27 px (detail)	2026-11-18
-KAB		dashed 508 px (main); restyle 381 px (main)	2026-11-18
-KAS		solid 30 px (main); dashed 798 px (main); restyle 665 px (main); dashed 313 px (detail); restyle 810 px (detail)	2026-11-18
-KAZ		dashed 355 px (main); restyle 87 px (main)	2026-11-18
-KE-01		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-02		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-03		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-04		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-05		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-06		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-07		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-08		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-09		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-10		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-11		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-12		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-13		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-14		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-15		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-16		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-17		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-18		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-19		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-20		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-21		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-22		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-23		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-24		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-25		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-26		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-27		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-28		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-29		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-30		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-31		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-32		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-33		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-34		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-35		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-36		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-37		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-38		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-39		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-40		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-41		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-42		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-43		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-44		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-45		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-46		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KE-47		dashed 65 px (main); restyle 103 px (main)	2026-11-18
-KEN	B17 held (main)	dashed 84 px (main); restyle 162 px (main)	2026-11-18
-KGZ		dashed 821 px (main); restyle 575 px (main)	2026-11-18
-KOS		dashed 56 px (main); restyle 107 px (main)	2026-11-18
-KWT		dashed 61 px (main); restyle 81 px (main)	2026-11-18
-KZ-10		dashed 355 px (main); restyle 87 px (main)	2026-11-18
-KZ-11		dashed 355 px (main); restyle 87 px (main)	2026-11-18
-KZ-15		dashed 355 px (main); restyle 87 px (main)	2026-11-18
-KZ-19		dashed 355 px (main); restyle 87 px (main)	2026-11-18
-KZ-23		dashed 355 px (main); restyle 87 px (main)	2026-11-18
-KZ-27		dashed 355 px (main); restyle 87 px (main)	2026-11-18
-KZ-31		dashed 355 px (main); restyle 87 px (main)	2026-11-18
-KZ-33		dashed 355 px (main); restyle 87 px (main)	2026-11-18
-KZ-35		dashed 355 px (main); restyle 87 px (main)	2026-11-18
-KZ-39		dashed 355 px (main); restyle 87 px (main)	2026-11-18
-KZ-43		dashed 355 px (main); restyle 87 px (main)	2026-11-18
-KZ-47		dashed 355 px (main); restyle 87 px (main)	2026-11-18
-KZ-55		dashed 355 px (main); restyle 87 px (main)	2026-11-18
-KZ-59		dashed 355 px (main); restyle 87 px (main)	2026-11-18
-KZ-61		dashed 355 px (main); restyle 87 px (main)	2026-11-18
-KZ-62		dashed 355 px (main); restyle 87 px (main)	2026-11-18
-KZ-63		dashed 355 px (main); restyle 87 px (main)	2026-11-18
-KZ-71		dashed 355 px (main); restyle 87 px (main)	2026-11-18
-KZ-75		dashed 355 px (main); restyle 87 px (main)	2026-11-18
-KZ-79		dashed 355 px (main); restyle 87 px (main)	2026-11-18
-LAO		solid 19 px (main); dashed 135 px (main); restyle 233 px (main)	2026-11-18
-LB-AK		dashed 207 px (main); restyle 162 px (main)	2026-11-18
-LB-AS		dashed 207 px (main); restyle 162 px (main)	2026-11-18
-LB-BA		dashed 207 px (main); restyle 162 px (main)	2026-11-18
-LB-BH		dashed 207 px (main); restyle 162 px (main)	2026-11-18
-LB-BI		dashed 207 px (main); restyle 162 px (main)	2026-11-18
-LB-JA		dashed 207 px (main); restyle 162 px (main); dashed 180 px (detail); restyle 48 px (detail)	2026-11-18
-LB-JL		dashed 207 px (main); restyle 162 px (main)	2026-11-18
-LB-KJ		dashed 207 px (main); restyle 162 px (main)	2026-11-18
-LB-NA		dashed 207 px (main); restyle 162 px (main)	2026-11-18
-LBN		dashed 121 px (main); restyle 96 px (main); dashed 95 px (detail); restyle 68 px (detail)	2026-11-18
-LBY		restyle 66 px (main)	2026-11-18
-LIE		dashed 29 px (main)	2026-11-18
-LKA		dashed 52 px (main)	2026-11-18
-LTU		dashed 93 px (main); restyle 45 px (main)	2026-11-18
-LVA		dashed 13 px (main)	2026-11-18
-MA-01		dashed 149 px (main); restyle 431 px (main)	2026-11-18
-MA-02		dashed 155 px (main); restyle 448 px (main)	2026-11-18
-MA-03		dashed 155 px (main); restyle 448 px (main)	2026-11-18
-MA-04		dashed 155 px (main); restyle 448 px (main)	2026-11-18
-MA-05		dashed 155 px (main); restyle 448 px (main)	2026-11-18
-MA-06		dashed 155 px (main); restyle 448 px (main)	2026-11-18
-MA-07		dashed 155 px (main); restyle 448 px (main)	2026-11-18
-MA-08		dashed 155 px (main); restyle 448 px (main)	2026-11-18
-MA-09		dashed 155 px (main); restyle 448 px (main); dashed 139 px (detail); restyle 28 px (detail)	2026-11-18
-MA-10		dashed 155 px (main); restyle 448 px (main); dashed 287 px (detail); restyle 323 px (detail)	2026-11-18
-MA-11	B28 claimed (main)	dashed 149 px (main); restyle 431 px (main)	2026-11-18
-MA-12	B28 claimed (main)	dashed 149 px (main); restyle 431 px (main)	2026-11-18
-MAR	B19 held (main); B28 claimed (main)	dashed 112 px (main); restyle 322 px (main)	2026-11-18
-MD-AN		dashed 409 px (main); dashed 693 px (detail)	2026-11-18
-MD-BA		dashed 409 px (main)	2026-11-18
-MD-BR		dashed 409 px (main)	2026-11-18
-MD-BS		dashed 409 px (main)	2026-11-18
-MD-CA		dashed 409 px (main)	2026-11-18
-MD-CL		dashed 409 px (main)	2026-11-18
-MD-CM		dashed 409 px (main)	2026-11-18
-MD-CR		dashed 409 px (main); dashed 667 px (detail)	2026-11-18
-MD-CS		dashed 409 px (main); dashed 332 px (detail)	2026-11-18
-MD-CT		dashed 409 px (main)	2026-11-18
-MD-CU		dashed 409 px (main); dashed 312 px (detail)	2026-11-18
-MD-DO		dashed 409 px (main)	2026-11-18
-MD-DR		dashed 409 px (main)	2026-11-18
-MD-ED		dashed 409 px (main)	2026-11-18
-MD-FA		dashed 409 px (main)	2026-11-18
-MD-FL		dashed 409 px (main); dashed 93 px (detail)	2026-11-18
-MD-GA		dashed 409 px (main); dashed 32 px (detail)	2026-11-18
-MD-GL		dashed 409 px (main)	2026-11-18
-MD-HI		dashed 409 px (main)	2026-11-18
-MD-IA		dashed 409 px (main); dashed 390 px (detail)	2026-11-18
-MD-LE		dashed 409 px (main)	2026-11-18
-MD-NI		dashed 409 px (main)	2026-11-18
-MD-OC		dashed 409 px (main)	2026-11-18
-MD-OR		dashed 409 px (main); dashed 428 px (detail)	2026-11-18
-MD-RE		dashed 409 px (main); dashed 215 px (detail)	2026-11-18
-MD-RI		dashed 409 px (main)	2026-11-18
-MD-SD		dashed 409 px (main); dashed 302 px (detail)	2026-11-18
-MD-SI		dashed 409 px (main); dashed 19 px (detail)	2026-11-18
-MD-SN	B36 claimed (main)	dashed 409 px (main)	2026-11-18
-MD-SO		dashed 409 px (main); dashed 75 px (detail)	2026-11-18
-MD-ST		dashed 409 px (main)	2026-11-18
-MD-SV		dashed 409 px (main); dashed 298 px (detail)	2026-11-18
-MD-TA		dashed 409 px (main)	2026-11-18
-MD-TE		dashed 409 px (main)	2026-11-18
-MD-UN		dashed 409 px (main)	2026-11-18
-MDA	B36 claimed (detail)	dashed 133 px (main); restyle 97 px (main); dashed 173 px (detail)	2026-11-18
-MDA.15_1	B36 claimed (main); B36 claimed (detail)	dashed 409 px (main); dashed 568 px (detail)	2026-11-18
-MDA.4_1		dashed 409 px (main); dashed 753 px (detail)	2026-11-18
-MKD		dashed 82 px (main); restyle 136 px (main)	2026-11-18
-ML-1		dashed 125 px (main); restyle 379 px (main)	2026-11-18
-ML-10		dashed 125 px (main); restyle 379 px (main)	2026-11-18
-ML-11		dashed 125 px (main); restyle 379 px (main)	2026-11-18
-ML-12		dashed 125 px (main); restyle 379 px (main)	2026-11-18
-ML-13		dashed 125 px (main); restyle 379 px (main)	2026-11-18
-ML-14		dashed 125 px (main); restyle 379 px (main)	2026-11-18
-ML-15		dashed 125 px (main); restyle 379 px (main)	2026-11-18
-ML-16		dashed 125 px (main); restyle 379 px (main)	2026-11-18
-ML-17		dashed 125 px (main); restyle 379 px (main)	2026-11-18
-ML-18		dashed 125 px (main); restyle 379 px (main)	2026-11-18
-ML-19		dashed 125 px (main); restyle 379 px (main)	2026-11-18
-ML-2		dashed 125 px (main); restyle 379 px (main)	2026-11-18
-ML-3		dashed 125 px (main); restyle 379 px (main)	2026-11-18
-ML-4		dashed 125 px (main); restyle 379 px (main)	2026-11-18
-ML-5		dashed 125 px (main); restyle 379 px (main)	2026-11-18
-ML-6		dashed 125 px (main); restyle 379 px (main)	2026-11-18
-ML-7		dashed 125 px (main); restyle 379 px (main)	2026-11-18
-ML-8		dashed 125 px (main); restyle 379 px (main)	2026-11-18
-ML-9		dashed 125 px (main); restyle 379 px (main)	2026-11-18
-ML-BKO		dashed 125 px (main); restyle 379 px (main)	2026-11-18
-MLI		dashed 119 px (main); restyle 342 px (main)	2026-11-18
-MM-01		solid 23 px (main); dashed 174 px (main); restyle 283 px (main); dashed 236 px (detail); restyle 188 px (detail)	2026-11-18
-MM-02		solid 23 px (main); dashed 174 px (main); restyle 283 px (main)	2026-11-18
-MM-03		solid 23 px (main); dashed 174 px (main); restyle 283 px (main)	2026-11-18
-MM-04		solid 23 px (main); dashed 174 px (main); restyle 283 px (main)	2026-11-18
-MM-05		solid 23 px (main); dashed 174 px (main); restyle 283 px (main)	2026-11-18
-MM-06		solid 23 px (main); dashed 174 px (main); restyle 283 px (main)	2026-11-18
-MM-07		solid 23 px (main); dashed 174 px (main); restyle 283 px (main)	2026-11-18
-MM-11		solid 23 px (main); dashed 174 px (main); restyle 283 px (main); dashed 226 px (detail); restyle 316 px (detail)	2026-11-18
-MM-12		solid 23 px (main); dashed 174 px (main); restyle 283 px (main)	2026-11-18
-MM-13		solid 23 px (main); dashed 174 px (main); restyle 283 px (main)	2026-11-18
-MM-14		solid 23 px (main); dashed 174 px (main); restyle 283 px (main)	2026-11-18
-MM-15		solid 23 px (main); dashed 174 px (main); restyle 283 px (main)	2026-11-18
-MM-16		solid 23 px (main); dashed 174 px (main); restyle 283 px (main)	2026-11-18
-MM-17		solid 23 px (main); dashed 174 px (main); restyle 283 px (main)	2026-11-18
-MMR		solid 15 px (main); dashed 102 px (main); restyle 175 px (main)	2026-11-18
-MMR.10_1		solid 23 px (main); dashed 174 px (main); restyle 283 px (main)	2026-11-18
-MNE		dashed 36 px (main); restyle 88 px (main)	2026-11-18
-MR-01		dashed 178 px (main); restyle 514 px (main)	2026-11-18
-MR-02		dashed 178 px (main); restyle 514 px (main)	2026-11-18
-MR-03		dashed 178 px (main); restyle 514 px (main)	2026-11-18
-MR-04		dashed 178 px (main); restyle 514 px (main)	2026-11-18
-MR-05		dashed 178 px (main); restyle 514 px (main)	2026-11-18
-MR-06		dashed 178 px (main); restyle 514 px (main)	2026-11-18
-MR-07		dashed 178 px (main); restyle 514 px (main)	2026-11-18
-MR-08		dashed 178 px (main); restyle 514 px (main); restyle 284 px (detail)	2026-11-18
-MR-09		dashed 178 px (main); restyle 514 px (main)	2026-11-18
-MR-10		dashed 178 px (main); restyle 514 px (main)	2026-11-18
-MR-11		dashed 178 px (main); restyle 514 px (main)	2026-11-18
-MR-12		dashed 178 px (main); restyle 514 px (main); restyle 259 px (detail)	2026-11-18
-MR-13		dashed 178 px (main); restyle 514 px (main)	2026-11-18
-MR-14		dashed 178 px (main); restyle 514 px (main)	2026-11-18
-MR-15		dashed 178 px (main); restyle 514 px (main)	2026-11-18
-MRT		dashed 104 px (main); restyle 301 px (main)	2026-11-18
-MUS		restyle 16 px (main)	2026-11-18
-MWI		dashed 21 px (main); restyle 34 px (main)	2026-11-18
-MYS	C04 held (main)		2026-11-18
-NP-P1		dashed 188 px (main); restyle 164 px (main)	2026-11-18
-NP-P2		dashed 188 px (main); restyle 164 px (main)	2026-11-18
-NP-P3		dashed 188 px (main); restyle 164 px (main)	2026-11-18
-NP-P4		dashed 188 px (main); restyle 164 px (main)	2026-11-18
-NP-P5		dashed 188 px (main); restyle 164 px (main)	2026-11-18
-NP-P6		dashed 188 px (main); restyle 164 px (main)	2026-11-18
-NP-P7		dashed 188 px (main); restyle 164 px (main)	2026-11-18
-NPL		solid 32 px (main); dashed 1094 px (main); restyle 1032 px (main)	2026-11-18
-OMN		restyle 80 px (main)	2026-11-18
-PAK	B05 claimed (main); B08 held (main); B09 held (main); C01 claimed (main)	dashed 578 px (main); restyle 442 px (main)	2026-11-18
-PHL	C04 claimed (main)		2026-11-18
-PK-BA		dashed 785 px (main); restyle 618 px (main)	2026-11-18
-PK-GB	B45 claimed (main); B45 claimed (detail)	dashed 842 px (main); restyle 635 px (main); dashed 814 px (detail); restyle 681 px (detail)	2026-11-18
-PK-IS		dashed 785 px (main); restyle 618 px (main)	2026-11-18
-PK-JK		dashed 785 px (main); restyle 618 px (main); dashed 655 px (detail); restyle 669 px (detail)	2026-11-18
-PK-KP		dashed 785 px (main); restyle 618 px (main)	2026-11-18
-PK-PB		dashed 785 px (main); restyle 618 px (main)	2026-11-18
-PK-SD		dashed 785 px (main); restyle 618 px (main)	2026-11-18
-POL		dashed 44 px (main); restyle 40 px (main)	2026-11-18
-PRT		dashed 75 px (main); restyle 206 px (main)	2026-11-18
-PS-BTH	B98 claimed (detail)	dashed 30 px (main)	2026-11-18
-PS-DEB		dashed 30 px (main)	2026-11-18
-PS-GZA		dashed 30 px (main)	2026-11-18
-PS-HBN		dashed 30 px (main)	2026-11-18
-PS-JEM	B98 claimed (main); B98 claimed (detail)	dashed 30 px (main)	2026-11-18
-PS-JEN		dashed 30 px (main)	2026-11-18
-PS-JRH		dashed 30 px (main)	2026-11-18
-PS-KYS		dashed 30 px (main)	2026-11-18
-PS-NBS		dashed 30 px (main)	2026-11-18
-PS-NGZ		dashed 30 px (main)	2026-11-18
-PS-QQA		dashed 30 px (main)	2026-11-18
-PS-RBH		dashed 30 px (main)	2026-11-18
-PS-RFH		dashed 30 px (main)	2026-11-18
-PS-SLT		dashed 30 px (main)	2026-11-18
-PS-TBS		dashed 30 px (main)	2026-11-18
-PS-TKM		dashed 30 px (main)	2026-11-18
-PSE	B98 claimed (detail)	dashed 105 px (main); restyle 104 px (main); dashed 30 px (detail)	2026-11-18
-PSE.1_1		dashed 30 px (main)	2026-11-18
-PSE.2_1	B98 claimed (main)	dashed 30 px (main)	2026-11-18
-PT-20		dashed 127 px (main); restyle 149 px (main)	2026-11-18
-PT-30		dashed 232 px (main); restyle 155 px (main)	2026-11-18
-QAT		dashed 77 px (main); restyle 64 px (main)	2026-11-18
-RO-AB		dashed 240 px (main)	2026-11-18
-RO-AG		dashed 240 px (main)	2026-11-18
-RO-AR		dashed 240 px (main)	2026-11-18
-RO-B		dashed 240 px (main)	2026-11-18
-RO-BC		dashed 240 px (main)	2026-11-18
-RO-BH		dashed 240 px (main)	2026-11-18
-RO-BN		dashed 240 px (main)	2026-11-18
-RO-BR		dashed 240 px (main)	2026-11-18
-RO-BT		dashed 240 px (main)	2026-11-18
-RO-BV		dashed 240 px (main)	2026-11-18
-RO-BZ		dashed 240 px (main)	2026-11-18
-RO-CJ		dashed 240 px (main)	2026-11-18
-RO-CL		dashed 240 px (main)	2026-11-18
-RO-CS		dashed 240 px (main)	2026-11-18
-RO-CT		dashed 240 px (main)	2026-11-18
-RO-CV		dashed 240 px (main)	2026-11-18
-RO-DB		dashed 240 px (main)	2026-11-18
-RO-DJ		dashed 240 px (main)	2026-11-18
-RO-GJ		dashed 240 px (main)	2026-11-18
-RO-GL		dashed 240 px (main)	2026-11-18
-RO-GR		dashed 240 px (main)	2026-11-18
-RO-HD		dashed 240 px (main)	2026-11-18
-RO-HR		dashed 240 px (main)	2026-11-18
-RO-IF		dashed 240 px (main)	2026-11-18
-RO-IL		dashed 240 px (main)	2026-11-18
-RO-IS		dashed 240 px (main)	2026-11-18
-RO-MH		dashed 240 px (main)	2026-11-18
-RO-MM		dashed 240 px (main)	2026-11-18
-RO-MS		dashed 240 px (main)	2026-11-18
-RO-NT		dashed 240 px (main)	2026-11-18
-RO-OT		dashed 240 px (main)	2026-11-18
-RO-PH		dashed 240 px (main)	2026-11-18
-RO-SB		dashed 240 px (main)	2026-11-18
-RO-SJ		dashed 240 px (main)	2026-11-18
-RO-SM		dashed 240 px (main)	2026-11-18
-RO-SV		dashed 240 px (main)	2026-11-18
-RO-TL		dashed 240 px (main)	2026-11-18
-RO-TM		dashed 240 px (main)	2026-11-18
-RO-TR		dashed 240 px (main)	2026-11-18
-RO-VL		dashed 240 px (main)	2026-11-18
-RO-VN		dashed 240 px (main)	2026-11-18
-RO-VS		dashed 240 px (main)	2026-11-18
-ROU		dashed 99 px (main); restyle 86 px (main)	2026-11-18
-RU-AD		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-AL		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-ALT		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-AMU		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-ARK		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-AST		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-BA		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-BEL		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-BRY		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-BU		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-CE		dashed 263 px (main); restyle 173 px (main); dashed 115 px (detail)	2026-11-18
-RU-CHE		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-CHU		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-CU		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-DA		dashed 263 px (main); restyle 173 px (main); dashed 157 px (detail)	2026-11-18
-RU-DON	RU-DON own-claimed (main); RU-DON own-claimed (detail)	dashed 147 px (main); restyle 76 px (main)	2026-11-18
-RU-HRS	RU-HRS own-claimed (main); RU-HRS own-claimed (detail)	dashed 147 px (main); restyle 76 px (main); restyle 121 px (detail)	2026-11-18
-RU-IN		dashed 263 px (main); restyle 173 px (main); dashed 80 px (detail)	2026-11-18
-RU-IRK		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-IVA		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-KAM		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-KB		dashed 263 px (main); restyle 173 px (main); dashed 160 px (detail)	2026-11-18
-RU-KC		dashed 263 px (main); restyle 173 px (main); dashed 90 px (detail)	2026-11-18
-RU-KDA		dashed 263 px (main); restyle 173 px (main); dashed 58 px (detail)	2026-11-18
-RU-KEM		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-KGD		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-KGN		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-KHA		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-KHM		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-KIR		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-KK		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-KL		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-KLU		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-KO		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-KOS		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-KR		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-KRS		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-KRY	RU-KRY own-held (main); RU-KRY own-held (detail)	dashed 147 px (main); restyle 76 px (main); restyle 108 px (detail)	2026-11-18
-RU-KYA		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-LEN		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-LIP		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-LUG	RU-LUG own-claimed (main); RU-LUG own-claimed (detail)	dashed 147 px (main); restyle 76 px (main)	2026-11-18
-RU-MAG		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-ME		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-MO		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-MOS		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-MUR		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-NEN		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-NGR		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-NIZ		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-NVS		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-OMS		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-ORE		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-ORL		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-PER		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-PNZ		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-PRI		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-PSK		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-ROS		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-RYA		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-SA		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-SAK		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-SAM		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-SAR		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-SE		dashed 263 px (main); restyle 173 px (main); dashed 199 px (detail)	2026-11-18
-RU-SMO		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-SPE		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-STA		dashed 263 px (main); restyle 173 px (main); dashed 114 px (detail)	2026-11-18
-RU-SVE		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-SVS	RU-SVS own-held (main); RU-SVS own-held (detail)	dashed 147 px (main); restyle 76 px (main)	2026-11-18
-RU-TA		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-TAM		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-TOM		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-TUL		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-TVE		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-TY		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-TYU		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-UD		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-ULY		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-VGG		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-VLA		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-VLG		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-VOR		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-YAN		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-YAR		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-YEV		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-ZAB		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RU-ZAP	RU-ZAP own-claimed (main); RU-ZAP own-claimed (detail)	dashed 147 px (main); restyle 76 px (main); restyle 150 px (detail)	2026-11-18
-RUS	B89 held (main); K01 claimed (main); K02 claimed (main); K03 claimed (main); K04 claimed (main)	dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RUS.43_1		dashed 263 px (main); restyle 173 px (main)	2026-11-18
-RWA		dashed 107 px (main); restyle 98 px (main)	2026-11-18
-SA-01		dashed 22 px (main); restyle 41 px (main)	2026-11-18
-SA-02		dashed 22 px (main); restyle 41 px (main)	2026-11-18
-SA-03		dashed 22 px (main); restyle 41 px (main)	2026-11-18
-SA-04		dashed 22 px (main); restyle 41 px (main)	2026-11-18
-SA-05		dashed 22 px (main); restyle 41 px (main)	2026-11-18
-SA-06		dashed 22 px (main); restyle 41 px (main)	2026-11-18
-SA-07		dashed 22 px (main); restyle 41 px (main)	2026-11-18
-SA-08		dashed 22 px (main); restyle 41 px (main)	2026-11-18
-SA-09		dashed 22 px (main); restyle 41 px (main)	2026-11-18
-SA-10		dashed 22 px (main); restyle 41 px (main)	2026-11-18
-SA-11		dashed 22 px (main); restyle 41 px (main)	2026-11-18
-SA-12		dashed 22 px (main); restyle 41 px (main); restyle 26 px (detail)	2026-11-18
-SA-14		dashed 22 px (main); restyle 41 px (main)	2026-11-18
-SAU		dashed 21 px (main); restyle 89 px (main)	2026-11-18
-SC-01		dashed 35 px (main); restyle 55 px (main)	2026-11-18
-SC-02		dashed 35 px (main); restyle 55 px (main)	2026-11-18
-SC-03		dashed 35 px (main); restyle 55 px (main)	2026-11-18
-SC-04		dashed 35 px (main); restyle 55 px (main)	2026-11-18
-SC-05		dashed 35 px (main); restyle 55 px (main)	2026-11-18
-SC-06		dashed 35 px (main); restyle 55 px (main)	2026-11-18
-SC-07		dashed 35 px (main); restyle 55 px (main)	2026-11-18
-SC-08		dashed 35 px (main); restyle 55 px (main)	2026-11-18
-SC-09		dashed 35 px (main); restyle 55 px (main)	2026-11-18
-SC-10		dashed 35 px (main); restyle 55 px (main)	2026-11-18
-SC-11		dashed 35 px (main); restyle 55 px (main)	2026-11-18
-SC-12		dashed 35 px (main); restyle 55 px (main)	2026-11-18
-SC-13		dashed 35 px (main); restyle 55 px (main)	2026-11-18
-SC-14		dashed 35 px (main); restyle 55 px (main)	2026-11-18
-SC-15		dashed 35 px (main); restyle 55 px (main)	2026-11-18
-SC-16		dashed 35 px (main); restyle 55 px (main)	2026-11-18
-SC-17		dashed 35 px (main); restyle 55 px (main)	2026-11-18
-SC-18		dashed 35 px (main); restyle 55 px (main)	2026-11-18
-SC-19		dashed 35 px (main); restyle 55 px (main)	2026-11-18
-SC-20		dashed 35 px (main); restyle 55 px (main)	2026-11-18
-SC-21		dashed 35 px (main); restyle 55 px (main)	2026-11-18
-SC-22		dashed 35 px (main); restyle 55 px (main)	2026-11-18
-SC-23		dashed 35 px (main); restyle 55 px (main)	2026-11-18
-SC-24		dashed 35 px (main); restyle 55 px (main)	2026-11-18
-SC-25		dashed 35 px (main); restyle 55 px (main)	2026-11-18
-SC-26		dashed 35 px (main); restyle 55 px (main)	2026-11-18
-SC-27		dashed 35 px (main); restyle 55 px (main)	2026-11-18
-SD-DC		dashed 91 px (main); restyle 65 px (main)	2026-11-18
-SD-DE		dashed 91 px (main); restyle 65 px (main); solid 12 px (detail); dashed 156 px (detail); restyle 93 px (detail)	2026-11-18
-SD-DN		dashed 91 px (main); restyle 65 px (main)	2026-11-18
-SD-DS		dashed 91 px (main); restyle 65 px (main)	2026-11-18
-SD-DW		dashed 91 px (main); restyle 65 px (main)	2026-11-18
-SD-GD		dashed 91 px (main); restyle 65 px (main)	2026-11-18
-SD-GK	B13 neutral (main)	dashed 86 px (main); restyle 62 px (main)	2026-11-18
-SD-GZ		dashed 91 px (main); restyle 65 px (main)	2026-11-18
-SD-KA		dashed 91 px (main); restyle 65 px (main)	2026-11-18
-SD-KH		dashed 91 px (main); restyle 65 px (main)	2026-11-18
-SD-KN		dashed 91 px (main); restyle 65 px (main)	2026-11-18
-SD-KS		dashed 91 px (main); restyle 65 px (main)	2026-11-18
-SD-NB		dashed 91 px (main); restyle 65 px (main)	2026-11-18
-SD-NO		dashed 91 px (main); restyle 65 px (main)	2026-11-18
-SD-NR		dashed 91 px (main); restyle 65 px (main)	2026-11-18
-SD-NW		dashed 91 px (main); restyle 65 px (main)	2026-11-18
-SD-RS	B93 claimed (main)	dashed 86 px (main); restyle 62 px (main)	2026-11-18
-SD-SI		dashed 91 px (main); restyle 65 px (main)	2026-11-18
-SDN	B13 neutral (main); B93 claimed (main)	dashed 110 px (main); restyle 102 px (main)	2026-11-18
-SEN		restyle 245 px (main)	2026-11-18
-SLE		restyle 86 px (main)	2026-11-18
-SMR		dashed 41 px (main)	2026-11-18
-SO-AW	B30 claimed (main); B30 claimed (detail)	restyle 142 px (main)	2026-11-18
-SO-BK		restyle 142 px (main)	2026-11-18
-SO-BN		restyle 142 px (main)	2026-11-18
-SO-BR		restyle 142 px (main); restyle 224 px (detail)	2026-11-18
-SO-BY		restyle 142 px (main)	2026-11-18
-SO-GA		restyle 142 px (main)	2026-11-18
-SO-GE		restyle 142 px (main)	2026-11-18
-SO-HI		restyle 142 px (main)	2026-11-18
-SO-JD		restyle 142 px (main)	2026-11-18
-SO-JH		restyle 142 px (main)	2026-11-18
-SO-MU		restyle 142 px (main); restyle 40 px (detail)	2026-11-18
-SO-NU		restyle 142 px (main); restyle 221 px (detail)	2026-11-18
-SO-SA	B30 claimed (main); B30 claimed (detail)	restyle 142 px (main); restyle 269 px (detail)	2026-11-18
-SO-SD		restyle 142 px (main)	2026-11-18
-SO-SH		restyle 142 px (main)	2026-11-18
-SO-SO	B30 claimed (main); B30 claimed (detail)	restyle 142 px (main); restyle 269 px (detail)	2026-11-18
-SO-TO	B30 claimed (main); B30 claimed (detail)	restyle 142 px (main)	2026-11-18
-SO-WO	B30 claimed (main); B30 claimed (detail)	restyle 142 px (main)	2026-11-18
-SOL		dashed 46 px (main); restyle 217 px (main)	2026-11-18
-SOM	B30 claimed (main)	dashed 26 px (main); restyle 122 px (main)	2026-11-18
-SRB	B57 claimed (main); B57 claimed (detail)	dashed 39 px (main); restyle 94 px (main)	2026-11-18
-SS-BN		solid 11 px (main); dashed 201 px (main); restyle 185 px (main); dashed 161 px (detail); restyle 93 px (detail)	2026-11-18
-SS-BW		solid 11 px (main); dashed 201 px (main); restyle 185 px (main)	2026-11-18
-SS-EC		solid 11 px (main); dashed 201 px (main); restyle 185 px (main)	2026-11-18
-SS-EE		solid 11 px (main); dashed 201 px (main); restyle 185 px (main)	2026-11-18
-SS-EW		solid 11 px (main); dashed 201 px (main); restyle 185 px (main)	2026-11-18
-SS-GP		solid 11 px (main); dashed 201 px (main); restyle 185 px (main)	2026-11-18
-SS-JG		solid 11 px (main); dashed 201 px (main); restyle 185 px (main)	2026-11-18
-SS-LK		solid 11 px (main); dashed 201 px (main); restyle 185 px (main)	2026-11-18
-SS-NU		solid 11 px (main); dashed 201 px (main); restyle 185 px (main)	2026-11-18
-SS-RW		solid 11 px (main); dashed 201 px (main); restyle 185 px (main); solid 21 px (detail); dashed 144 px (detail); restyle 101 px (detail)	2026-11-18
-SS-UY		solid 11 px (main); dashed 201 px (main); restyle 185 px (main); solid 16 px (detail); dashed 200 px (detail); restyle 118 px (detail)	2026-11-18
-SS-WR		solid 11 px (main); dashed 201 px (main); restyle 185 px (main); solid 14 px (detail); dashed 79 px (detail); restyle 109 px (detail)	2026-11-18
-SSD	B13 neutral (main); B17 claimed (main)	dashed 119 px (main); restyle 109 px (main)	2026-11-18
-SUR	B14 claimed (main); B15 claimed (main); B14 claimed (detail); B15 claimed (detail)		2026-11-18
-SVK		dashed 92 px (main); restyle 60 px (main)	2026-11-18
-SVN		dashed 67 px (main); restyle 31 px (main)	2026-11-18
-SWE		dashed 20 px (main); restyle 25 px (main)	2026-11-18
-SY-DR		dashed 71 px (main); restyle 51 px (main); dashed 164 px (detail); restyle 119 px (detail)	2026-11-18
-SY-DY		dashed 71 px (main); restyle 51 px (main)	2026-11-18
-SY-HA		dashed 71 px (main); restyle 51 px (main)	2026-11-18
-SY-HI		dashed 71 px (main); restyle 51 px (main)	2026-11-18
-SY-HL		dashed 71 px (main); restyle 51 px (main)	2026-11-18
-SY-HM		dashed 71 px (main); restyle 51 px (main)	2026-11-18
-SY-ID		dashed 71 px (main); restyle 51 px (main)	2026-11-18
-SY-LA		dashed 71 px (main); restyle 51 px (main)	2026-11-18
-SY-QU	B16 claimed (main); B16 claimed (detail); B49 claimed (detail)	dashed 70 px (main); restyle 51 px (main); dashed 213 px (detail); restyle 154 px (detail)	2026-11-18
-SY-RA		dashed 71 px (main); restyle 51 px (main)	2026-11-18
-SY-RD		dashed 71 px (main); restyle 51 px (main)	2026-11-18
-SY-SU		dashed 71 px (main); restyle 51 px (main)	2026-11-18
-SY-TA		dashed 71 px (main); restyle 51 px (main)	2026-11-18
-SYR		dashed 163 px (main); restyle 119 px (main)	2026-11-18
-SYR.5_1		dashed 71 px (main); restyle 51 px (main)	2026-11-18
-TCD		dashed 48 px (main); restyle 28 px (main)	2026-11-18
-TGO		dashed 76 px (main); restyle 119 px (main)	2026-11-18
-THA		solid 15 px (main); dashed 102 px (main); restyle 176 px (main)	2026-11-18
-TJ-DU		dashed 415 px (main); restyle 136 px (main)	2026-11-18
-TJ-GB		dashed 415 px (main); restyle 136 px (main)	2026-11-18
-TJ-KT		dashed 415 px (main); restyle 136 px (main)	2026-11-18
-TJ-RA		dashed 415 px (main); restyle 136 px (main)	2026-11-18
-TJ-SU		dashed 415 px (main); restyle 136 px (main)	2026-11-18
-TJK		dashed 739 px (main); restyle 557 px (main)	2026-11-18
-TKM		dashed 435 px (main); restyle 267 px (main)	2026-11-18
-TR-01		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-02		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-03		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-04		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-05		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-06		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-07		dashed 227 px (main); restyle 148 px (main); restyle 153 px (detail)	2026-11-18
-TR-08		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-09		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-10		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-11		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-12		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-13		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-14		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-15		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-16		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-17		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-18		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-19		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-20		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-21		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-22		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-23		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-24		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-25		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-26		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-27		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-28		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-29		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-30		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-31		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-32		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-33		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-34		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-35		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-36		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-37		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-38		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-39		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-40		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-41		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-42		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-43		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-44		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-45		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-46		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-47		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-48		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-49		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-50		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-51		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-52		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-53		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-54		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-55		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-56		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-57		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-58		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-59		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-60		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-61		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-62		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-63		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-64		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-65		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-66		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-67		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-68		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-69		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-70		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-71		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-72		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-73		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-74		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-75		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-76		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-77		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-78		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-79		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-80		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TR-81		dashed 227 px (main); restyle 148 px (main)	2026-11-18
-TUN		dashed 14 px (main)	2026-11-18
-TUR		dashed 210 px (main); restyle 198 px (main)	2026-11-18
-TZA		dashed 33 px (main); restyle 52 px (main)	2026-11-18
-UA-05		dashed 198 px (main); restyle 89 px (main); dashed 56 px (detail)	2026-11-18
-UA-07		dashed 198 px (main); restyle 89 px (main)	2026-11-18
-UA-09		dashed 198 px (main); restyle 89 px (main)	2026-11-18
-UA-12		dashed 198 px (main); restyle 89 px (main)	2026-11-18
-UA-14		dashed 198 px (main); restyle 89 px (main)	2026-11-18
-UA-18		dashed 198 px (main); restyle 89 px (main)	2026-11-18
-UA-21		dashed 198 px (main); restyle 89 px (main)	2026-11-18
-UA-23		dashed 198 px (main); restyle 89 px (main); restyle 150 px (detail)	2026-11-18
-UA-26		dashed 198 px (main); restyle 89 px (main)	2026-11-18
-UA-30		dashed 198 px (main); restyle 89 px (main)	2026-11-18
-UA-32		dashed 198 px (main); restyle 89 px (main)	2026-11-18
-UA-35		dashed 198 px (main); restyle 89 px (main); dashed 174 px (detail)	2026-11-18
-UA-40	B89 claimed (main); B89 claimed (detail)	dashed 195 px (main); restyle 83 px (main)	2026-11-18
-UA-43	B89 claimed (main); B89 claimed (detail)	dashed 195 px (main); restyle 83 px (main); restyle 108 px (detail)	2026-11-18
-UA-46		dashed 198 px (main); restyle 89 px (main)	2026-11-18
-UA-48		dashed 198 px (main); restyle 89 px (main); dashed 61 px (detail); restyle 31 px (detail)	2026-11-18
-UA-51		dashed 198 px (main); restyle 89 px (main)	2026-11-18
-UA-53		dashed 198 px (main); restyle 89 px (main)	2026-11-18
-UA-56		dashed 198 px (main); restyle 89 px (main)	2026-11-18
-UA-59		dashed 198 px (main); restyle 89 px (main)	2026-11-18
-UA-61		dashed 198 px (main); restyle 89 px (main)	2026-11-18
-UA-63		dashed 198 px (main); restyle 89 px (main)	2026-11-18
-UA-65		dashed 198 px (main); restyle 89 px (main); restyle 121 px (detail)	2026-11-18
-UA-68		dashed 198 px (main); restyle 89 px (main); dashed 21 px (detail)	2026-11-18
-UA-71		dashed 198 px (main); restyle 89 px (main); dashed 17 px (detail)	2026-11-18
-UA-74		dashed 198 px (main); restyle 89 px (main)	2026-11-18
-UA-77		dashed 198 px (main); restyle 89 px (main)	2026-11-18
-UG-C		dashed 111 px (main); restyle 176 px (main)	2026-11-18
-UG-E		dashed 111 px (main); restyle 176 px (main)	2026-11-18
-UG-N		dashed 111 px (main); restyle 176 px (main)	2026-11-18
-UG-W		dashed 111 px (main); restyle 176 px (main)	2026-11-18
-UGA		dashed 94 px (main); restyle 86 px (main)	2026-11-18
-UKR	B89 claimed (main)	dashed 209 px (main); restyle 53 px (main)	2026-11-18
-UZ-AN		dashed 299 px (main); restyle 83 px (main)	2026-11-18
-UZ-BU		dashed 299 px (main); restyle 83 px (main)	2026-11-18
-UZ-FA		dashed 299 px (main); restyle 83 px (main)	2026-11-18
-UZ-JI		dashed 299 px (main); restyle 83 px (main)	2026-11-18
-UZ-NG		dashed 299 px (main); restyle 83 px (main)	2026-11-18
-UZ-NW		dashed 299 px (main); restyle 83 px (main)	2026-11-18
-UZ-QA		dashed 299 px (main); restyle 83 px (main)	2026-11-18
-UZ-QR		dashed 299 px (main); restyle 83 px (main)	2026-11-18
-UZ-SA		dashed 299 px (main); restyle 83 px (main)	2026-11-18
-UZ-SI		dashed 299 px (main); restyle 83 px (main)	2026-11-18
-UZ-SU		dashed 299 px (main); restyle 83 px (main)	2026-11-18
-UZ-TK		dashed 299 px (main); restyle 83 px (main)	2026-11-18
-UZ-TO		dashed 299 px (main); restyle 83 px (main)	2026-11-18
-UZ-XO		dashed 299 px (main); restyle 83 px (main)	2026-11-18
-UZB		dashed 767 px (main); restyle 578 px (main)	2026-11-18
-VAT		dashed 41 px (main)	2026-11-18
-VE-GE	VE-GE own-claimed (main)		2026-11-18
-VEN	B56 claimed (main)		2026-11-18
-VNM		dashed 102 px (main); restyle 159 px (main)	2026-11-18
-XAB		dashed 205 px (main); restyle 141 px (main); dashed 139 px (detail)	2026-11-18
-XAD		dashed 169 px (main); restyle 112 px (main); restyle 560 px (detail)	2026-11-18
-XSH	B19 claimed (main)	dashed 123 px (main); restyle 356 px (main)	2026-11-18
-XSO		dashed 164 px (main); restyle 119 px (main); dashed 742 px (detail)	2026-11-18
-XTR		dashed 104 px (main); restyle 73 px (main); dashed 327 px (detail)	2026-11-18
-YE-AB		restyle 68 px (main)	2026-11-18
-YE-AD		restyle 68 px (main)	2026-11-18
-YE-AM		restyle 68 px (main)	2026-11-18
-YE-BA		restyle 68 px (main)	2026-11-18
-YE-DA		restyle 68 px (main)	2026-11-18
-YE-DH		restyle 68 px (main)	2026-11-18
-YE-HD		restyle 68 px (main)	2026-11-18
-YE-HJ		restyle 68 px (main)	2026-11-18
-YE-HU		restyle 68 px (main)	2026-11-18
-YE-IB		restyle 68 px (main)	2026-11-18
-YE-JA		restyle 68 px (main)	2026-11-18
-YE-LA		restyle 68 px (main)	2026-11-18
-YE-MA		restyle 68 px (main)	2026-11-18
-YE-MR		restyle 68 px (main)	2026-11-18
-YE-MW		restyle 68 px (main)	2026-11-18
-YE-RA		restyle 68 px (main)	2026-11-18
-YE-SA		restyle 68 px (main)	2026-11-18
-YE-SD		restyle 68 px (main)	2026-11-18
-YE-SH		restyle 68 px (main)	2026-11-18
-YE-SN		restyle 68 px (main)	2026-11-18
-YE-SU		restyle 68 px (main)	2026-11-18
-YE-TA		restyle 68 px (main)	2026-11-18
-YEM		restyle 142 px (main)	2026-11-18
+AF-BAL		dashed 653 px (main); restyle 579 px (main)	2026-11-20
+AF-BAM		dashed 653 px (main); restyle 579 px (main)	2026-11-20
+AF-BDG		dashed 653 px (main); restyle 579 px (main)	2026-11-20
+AF-BDS		dashed 653 px (main); restyle 579 px (main)	2026-11-20
+AF-BGL		dashed 653 px (main); restyle 579 px (main)	2026-11-20
+AF-DAY		dashed 653 px (main); restyle 579 px (main)	2026-11-20
+AF-FRA		dashed 653 px (main); restyle 579 px (main)	2026-11-20
+AF-FYB		dashed 653 px (main); restyle 579 px (main)	2026-11-20
+AF-GHA		dashed 653 px (main); restyle 579 px (main)	2026-11-20
+AF-GHO		dashed 653 px (main); restyle 579 px (main)	2026-11-20
+AF-HEL		dashed 653 px (main); restyle 579 px (main)	2026-11-20
+AF-HER		dashed 653 px (main); restyle 579 px (main)	2026-11-20
+AF-JOW		dashed 653 px (main); restyle 579 px (main)	2026-11-20
+AF-KAB		dashed 653 px (main); restyle 579 px (main)	2026-11-20
+AF-KAN		dashed 653 px (main); restyle 579 px (main)	2026-11-20
+AF-KAP		dashed 653 px (main); restyle 579 px (main)	2026-11-20
+AF-KDZ		dashed 653 px (main); restyle 579 px (main)	2026-11-20
+AF-KHO		dashed 653 px (main); restyle 579 px (main)	2026-11-20
+AF-KNR		dashed 653 px (main); restyle 579 px (main)	2026-11-20
+AF-LAG		dashed 653 px (main); restyle 579 px (main)	2026-11-20
+AF-LOG		dashed 653 px (main); restyle 579 px (main)	2026-11-20
+AF-NAN		dashed 653 px (main); restyle 579 px (main)	2026-11-20
+AF-NIM		dashed 653 px (main); restyle 579 px (main)	2026-11-20
+AF-NUR		dashed 653 px (main); restyle 579 px (main)	2026-11-20
+AF-PAN		dashed 653 px (main); restyle 579 px (main)	2026-11-20
+AF-PAR		dashed 653 px (main); restyle 579 px (main)	2026-11-20
+AF-PIA		dashed 653 px (main); restyle 579 px (main)	2026-11-20
+AF-PKA		dashed 653 px (main); restyle 579 px (main)	2026-11-20
+AF-SAM		dashed 653 px (main); restyle 579 px (main)	2026-11-20
+AF-SAR		dashed 653 px (main); restyle 579 px (main)	2026-11-20
+AF-TAK		dashed 653 px (main); restyle 579 px (main)	2026-11-20
+AF-URU		dashed 653 px (main); restyle 579 px (main)	2026-11-20
+AF-WAR		dashed 653 px (main); restyle 579 px (main)	2026-11-20
+AF-ZAB		dashed 653 px (main); restyle 579 px (main)	2026-11-20
+AFG		dashed 688 px (main); restyle 526 px (main)	2026-11-20
+ALB		dashed 32 px (main); restyle 68 px (main)	2026-11-20
+AM-GR	O04 claimed/paint (main)		2026-11-20
+AR-V	B12 claimed (main); B12 claimed (detail)		2026-11-20
+ARG	B12 claimed (main)		2026-11-20
+ARM		dashed 156 px (main); restyle 114 px (main)	2026-11-20
+AUT		dashed 89 px (main)	2026-11-20
+AZ-ABS		dashed 297 px (main)	2026-11-20
+AZ-AGA		dashed 297 px (main)	2026-11-20
+AZ-AGC		dashed 297 px (main)	2026-11-20
+AZ-AGD		dashed 297 px (main)	2026-11-20
+AZ-AGM		dashed 297 px (main)	2026-11-20
+AZ-AGS		dashed 297 px (main)	2026-11-20
+AZ-AGU		dashed 297 px (main)	2026-11-20
+AZ-AST		dashed 297 px (main)	2026-11-20
+AZ-BA		dashed 297 px (main)	2026-11-20
+AZ-BAL		dashed 297 px (main)	2026-11-20
+AZ-BAR		dashed 297 px (main)	2026-11-20
+AZ-BEY		dashed 297 px (main)	2026-11-20
+AZ-BIL		dashed 297 px (main)	2026-11-20
+AZ-CAB		dashed 297 px (main)	2026-11-20
+AZ-CAL		dashed 297 px (main)	2026-11-20
+AZ-DAS		dashed 297 px (main)	2026-11-20
+AZ-FUZ		dashed 297 px (main)	2026-11-20
+AZ-GA		dashed 297 px (main)	2026-11-20
+AZ-GAD		dashed 297 px (main)	2026-11-20
+AZ-GOR		dashed 297 px (main)	2026-11-20
+AZ-GOY		dashed 297 px (main)	2026-11-20
+AZ-GYG		dashed 297 px (main)	2026-11-20
+AZ-HAC		dashed 297 px (main)	2026-11-20
+AZ-IMI		dashed 297 px (main)	2026-11-20
+AZ-ISM		dashed 297 px (main)	2026-11-20
+AZ-KAL		dashed 297 px (main)	2026-11-20
+AZ-KUR		dashed 297 px (main)	2026-11-20
+AZ-LA		dashed 297 px (main)	2026-11-20
+AZ-LAC		dashed 297 px (main)	2026-11-20
+AZ-LAN		dashed 297 px (main)	2026-11-20
+AZ-LER		dashed 297 px (main)	2026-11-20
+AZ-MAS		dashed 297 px (main)	2026-11-20
+AZ-MI		dashed 297 px (main)	2026-11-20
+AZ-NA		dashed 297 px (main)	2026-11-20
+AZ-NEF		dashed 297 px (main)	2026-11-20
+AZ-NX	O03 claimed/paint (main); O03 claimed/paint (detail)	dashed 297 px (main)	2026-11-20
+AZ-OGU		dashed 297 px (main)	2026-11-20
+AZ-QAB		dashed 297 px (main)	2026-11-20
+AZ-QAX		dashed 297 px (main)	2026-11-20
+AZ-QAZ	O01 claimed/paint (main); O02 claimed/paint (main); O01 claimed (detail); O02 claimed (detail)	dashed 297 px (main)	2026-11-20
+AZ-QBA		dashed 297 px (main)	2026-11-20
+AZ-QBI		dashed 297 px (main)	2026-11-20
+AZ-QOB		dashed 297 px (main)	2026-11-20
+AZ-QUS		dashed 297 px (main)	2026-11-20
+AZ-SA		dashed 297 px (main)	2026-11-20
+AZ-SAB		dashed 297 px (main)	2026-11-20
+AZ-SAK		dashed 297 px (main)	2026-11-20
+AZ-SAL		dashed 297 px (main)	2026-11-20
+AZ-SAT		dashed 297 px (main)	2026-11-20
+AZ-SBN		dashed 297 px (main)	2026-11-20
+AZ-SIY		dashed 297 px (main)	2026-11-20
+AZ-SKR		dashed 297 px (main)	2026-11-20
+AZ-SM		dashed 297 px (main)	2026-11-20
+AZ-SMI		dashed 297 px (main)	2026-11-20
+AZ-SMX		dashed 297 px (main)	2026-11-20
+AZ-SR		dashed 297 px (main)	2026-11-20
+AZ-SUS		dashed 297 px (main)	2026-11-20
+AZ-TAR		dashed 297 px (main)	2026-11-20
+AZ-TOV		dashed 297 px (main)	2026-11-20
+AZ-UCA		dashed 297 px (main)	2026-11-20
+AZ-XA		dashed 297 px (main)	2026-11-20
+AZ-XAC		dashed 297 px (main)	2026-11-20
+AZ-XCI		dashed 297 px (main)	2026-11-20
+AZ-XIZ		dashed 297 px (main)	2026-11-20
+AZ-XVD		dashed 297 px (main)	2026-11-20
+AZ-YAR		dashed 297 px (main)	2026-11-20
+AZ-YE		dashed 297 px (main)	2026-11-20
+AZ-YEV		dashed 297 px (main)	2026-11-20
+AZ-ZAN		dashed 297 px (main)	2026-11-20
+AZ-ZAQ		dashed 297 px (main)	2026-11-20
+AZ-ZAR		dashed 297 px (main)	2026-11-20
+AZE	O01 claimed/paint (main); O02 claimed/paint (main); O01 claimed/paint (detail); O02 claimed/paint (detail)	dashed 194 px (main); restyle 133 px (main); dashed 139 px (detail)	2026-11-20
+BD-A		dashed 241 px (main); restyle 22 px (main)	2026-11-20
+BD-B		dashed 241 px (main); restyle 22 px (main)	2026-11-20
+BD-C		dashed 241 px (main); restyle 22 px (main)	2026-11-20
+BD-D		dashed 241 px (main); restyle 22 px (main)	2026-11-20
+BD-E		dashed 241 px (main); restyle 22 px (main)	2026-11-20
+BD-F		dashed 241 px (main); restyle 22 px (main)	2026-11-20
+BD-G		dashed 241 px (main); restyle 22 px (main)	2026-11-20
+BD-H		dashed 241 px (main); restyle 22 px (main)	2026-11-20
+BDI		dashed 87 px (main); restyle 80 px (main)	2026-11-20
+BEN		dashed 67 px (main); restyle 87 px (main)	2026-11-20
+BFA		restyle 95 px (main)	2026-11-20
+BGD		solid 17 px (main); dashed 412 px (main); restyle 485 px (main); dashed 139 px (detail); restyle 57 px (detail)	2026-11-20
+BGR		dashed 157 px (main); restyle 153 px (main)	2026-11-20
+BHR		dashed 77 px (main); restyle 64 px (main)	2026-11-20
+BIH		dashed 42 px (main); restyle 103 px (main)	2026-11-20
+BLR		dashed 167 px (main); restyle 42 px (main)	2026-11-20
+BLZ	B51 held (main); B51 held (detail)		2026-11-20
+BRT		restyle 14 px (main); restyle 78 px (detail)	2026-11-20
+BT-11		solid 216 px (main); dashed 339 px (main); restyle 732 px (main); dashed 230 px (detail); restyle 90 px (detail)	2026-11-20
+BT-12		solid 216 px (main); dashed 339 px (main); restyle 732 px (main)	2026-11-20
+BT-13		solid 216 px (main); dashed 339 px (main); restyle 732 px (main)	2026-11-20
+BT-14		solid 216 px (main); dashed 339 px (main); restyle 732 px (main); dashed 154 px (detail); restyle 24 px (detail)	2026-11-20
+BT-15		solid 216 px (main); dashed 339 px (main); restyle 732 px (main)	2026-11-20
+BT-21		solid 216 px (main); dashed 339 px (main); restyle 732 px (main)	2026-11-20
+BT-22		solid 216 px (main); dashed 339 px (main); restyle 732 px (main)	2026-11-20
+BT-23		solid 216 px (main); dashed 339 px (main); restyle 732 px (main)	2026-11-20
+BT-24		solid 216 px (main); dashed 339 px (main); restyle 732 px (main)	2026-11-20
+BT-31		solid 216 px (main); dashed 339 px (main); restyle 732 px (main)	2026-11-20
+BT-32		solid 216 px (main); dashed 339 px (main); restyle 732 px (main)	2026-11-20
+BT-33		solid 216 px (main); dashed 339 px (main); restyle 732 px (main)	2026-11-20
+BT-34		solid 216 px (main); dashed 339 px (main); restyle 732 px (main)	2026-11-20
+BT-41		solid 216 px (main); dashed 339 px (main); restyle 732 px (main)	2026-11-20
+BT-42		solid 216 px (main); dashed 339 px (main); restyle 732 px (main)	2026-11-20
+BT-43		solid 216 px (main); dashed 339 px (main); restyle 732 px (main)	2026-11-20
+BT-44		solid 216 px (main); dashed 339 px (main); restyle 732 px (main)	2026-11-20
+BT-45		solid 216 px (main); dashed 339 px (main); restyle 732 px (main)	2026-11-20
+BT-GA		solid 216 px (main); dashed 339 px (main); restyle 732 px (main)	2026-11-20
+BT-TY		solid 216 px (main); dashed 339 px (main); restyle 732 px (main); restyle 149 px (detail)	2026-11-20
+BTN	B75 held (main); B75 held (detail)	solid 33 px (main); dashed 779 px (main); restyle 910 px (main); solid 61 px (detail); dashed 113 px (detail); restyle 228 px (detail)	2026-11-20
+CAF		dashed 86 px (main); restyle 51 px (main)	2026-11-20
+CF-AC		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-20
+CF-BB		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-20
+CF-BGF		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-20
+CF-BK		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-20
+CF-HK		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-20
+CF-HM		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-20
+CF-HS		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-20
+CF-KB		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-20
+CF-KG		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-20
+CF-LB		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-20
+CF-LP		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-20
+CF-MB		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-20
+CF-MP		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-20
+CF-MR		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-20
+CF-NM		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-20
+CF-OF		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-20
+CF-OP		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-20
+CF-SE		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-20
+CF-UK		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-20
+CF-VK		solid 10 px (main); dashed 130 px (main); restyle 77 px (main)	2026-11-20
+CHN	B00 claimed (main); B01 claimed/paint (main); B02 claimed/paint (main); B03 claimed/paint (main); B04 claimed/paint (main); B07 held (main); B75 claimed/paint (main); B77 claimed (main)	solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-20
+CN-AH		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-20
+CN-BJ		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-20
+CN-CQ		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-20
+CN-FJ		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-20
+CN-GD		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-20
+CN-GS		solid 11 px (main); dashed 372 px (main); restyle 325 px (main); dashed 10 px (detail); restyle 139 px (detail)	2026-11-20
+CN-GX		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-20
+CN-GZ		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-20
+CN-HA		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-20
+CN-HB		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-20
+CN-HE		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-20
+CN-HI		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-20
+CN-HL		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-20
+CN-HN		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-20
+CN-JL		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-20
+CN-JS		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-20
+CN-JX		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-20
+CN-LN		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-20
+CN-NM		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-20
+CN-NX		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-20
+CN-QH		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-20
+CN-SC		solid 11 px (main); dashed 372 px (main); restyle 325 px (main); dashed 59 px (detail); restyle 104 px (detail)	2026-11-20
+CN-SD		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-20
+CN-SH		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-20
+CN-SN		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-20
+CN-SX		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-20
+CN-TJ		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-20
+CN-TW	CN-TW own-claimed (main); CN-TW own-claimed (detail)	solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-20
+CN-XJ		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-20
+CN-XZ		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-20
+CN-YN		solid 11 px (main); dashed 372 px (main); restyle 325 px (main); dashed 68 px (detail); restyle 121 px (detail)	2026-11-20
+CN-ZJ		solid 11 px (main); dashed 372 px (main); restyle 325 px (main)	2026-11-20
+CNM		dashed 37 px (main); restyle 154 px (main); restyle 454 px (detail)	2026-11-20
+COD		dashed 23 px (main); restyle 54 px (main)	2026-11-20
+COG		dashed 33 px (main); restyle 18 px (main)	2026-11-20
+COM		dashed 23 px (main); restyle 36 px (main)	2026-11-20
+CPV		dashed 107 px (main); restyle 297 px (main)	2026-11-20
+CPV.19_1		restyle 280 px (main)	2026-11-20
+CU-14	B50 claimed/paint (main); B50 claimed (detail)		2026-11-20
+CUB	B50 claimed/paint (main)		2026-11-20
+CV-BR		restyle 280 px (main)	2026-11-20
+CV-BV		restyle 280 px (main)	2026-11-20
+CV-CA		restyle 280 px (main)	2026-11-20
+CV-CF		restyle 280 px (main)	2026-11-20
+CV-CR		restyle 280 px (main)	2026-11-20
+CV-MA		restyle 280 px (main)	2026-11-20
+CV-MO		restyle 280 px (main)	2026-11-20
+CV-PA		restyle 280 px (main)	2026-11-20
+CV-PN		restyle 280 px (main)	2026-11-20
+CV-PR		restyle 280 px (main)	2026-11-20
+CV-RB		restyle 280 px (main)	2026-11-20
+CV-RG		restyle 280 px (main)	2026-11-20
+CV-RS		restyle 280 px (main)	2026-11-20
+CV-SD		restyle 280 px (main)	2026-11-20
+CV-SF		restyle 280 px (main)	2026-11-20
+CV-SL		restyle 280 px (main)	2026-11-20
+CV-SM		restyle 280 px (main)	2026-11-20
+CV-SO		restyle 280 px (main)	2026-11-20
+CV-SV		restyle 280 px (main)	2026-11-20
+CV-TA		restyle 280 px (main)	2026-11-20
+CV-TS		restyle 280 px (main)	2026-11-20
+CY-01	B20 claimed (main); B43 neutral (main)	restyle 981 px (main)	2026-11-20
+CY-02		restyle 1561 px (main)	2026-11-20
+CY-03	B43 neutral (main)	restyle 981 px (main)	2026-11-20
+CY-04	B20 claimed (main)	restyle 981 px (main)	2026-11-20
+CY-05		restyle 1561 px (main)	2026-11-20
+CY-06	B20 claimed (main)	restyle 981 px (main)	2026-11-20
+CYN		dashed 184 px (main); restyle 133 px (main); restyle 329 px (detail)	2026-11-20
+CYN.1_1		restyle 1347 px (main)	2026-11-20
+CYN.2_1		restyle 1347 px (main)	2026-11-20
+CYN.3_1		restyle 1347 px (main)	2026-11-20
+CYN.4_1		restyle 1347 px (main)	2026-11-20
+CYN.5_1		restyle 1347 px (main)	2026-11-20
+CYP	B20 claimed (main); B43 neutral/paint (main); B20 claimed (detail); B43 neutral (detail)	dashed 141 px (main); restyle 94 px (main); restyle 282 px (detail)	2026-11-20
+CZE		dashed 74 px (main); restyle 55 px (main)	2026-11-20
+DEU		dashed 24 px (main)	2026-11-20
+DJI		dashed 48 px (main); restyle 139 px (main)	2026-11-20
+DNK		dashed 60 px (main)	2026-11-20
+DZ-01		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-02		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-03		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-04		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-05		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-06		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-07		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-08		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-09		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-10		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-11		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-12		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-13		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-14		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-15		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-16		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-17		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-18		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-19		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-20		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-21		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-22		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-23		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-24		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-25		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-26		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-27		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-28		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-29		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-30		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-31		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-32		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-33		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-34		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-35		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-36		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-37		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-38		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-39		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-40		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-41		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-42		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-43		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-44		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-45		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-46		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-47		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-48		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-49		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-50		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-51		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-52		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-53		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-54		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-55		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-56		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-57		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-58		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-59		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-60		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-61		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-62		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-63		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-64		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-65		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-66		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-67		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-68		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZ-69		dashed 102 px (main); restyle 139 px (main)	2026-11-20
+DZA		dashed 114 px (main); restyle 167 px (main)	2026-11-20
+EG-ALX		dashed 36 px (main); restyle 41 px (main)	2026-11-20
+EG-ASN		dashed 36 px (main); restyle 41 px (main)	2026-11-20
+EG-AST		dashed 36 px (main); restyle 41 px (main)	2026-11-20
+EG-BA		dashed 36 px (main); restyle 41 px (main)	2026-11-20
+EG-BH		dashed 36 px (main); restyle 41 px (main)	2026-11-20
+EG-BNS		dashed 36 px (main); restyle 41 px (main)	2026-11-20
+EG-C		dashed 36 px (main); restyle 41 px (main)	2026-11-20
+EG-DK		dashed 36 px (main); restyle 41 px (main)	2026-11-20
+EG-DT		dashed 36 px (main); restyle 41 px (main)	2026-11-20
+EG-FYM		dashed 36 px (main); restyle 41 px (main)	2026-11-20
+EG-GH		dashed 36 px (main); restyle 41 px (main)	2026-11-20
+EG-GZ		dashed 36 px (main); restyle 41 px (main)	2026-11-20
+EG-IS		dashed 36 px (main); restyle 41 px (main)	2026-11-20
+EG-JS		dashed 36 px (main); restyle 41 px (main)	2026-11-20
+EG-KB		dashed 36 px (main); restyle 41 px (main)	2026-11-20
+EG-KFS		dashed 36 px (main); restyle 41 px (main)	2026-11-20
+EG-KN		dashed 36 px (main); restyle 41 px (main)	2026-11-20
+EG-LX		dashed 36 px (main); restyle 41 px (main)	2026-11-20
+EG-MN		dashed 36 px (main); restyle 41 px (main)	2026-11-20
+EG-MNF		dashed 36 px (main); restyle 41 px (main)	2026-11-20
+EG-MT		dashed 36 px (main); restyle 41 px (main)	2026-11-20
+EG-PTS		dashed 36 px (main); restyle 41 px (main)	2026-11-20
+EG-SHG		dashed 36 px (main); restyle 41 px (main)	2026-11-20
+EG-SHR		dashed 36 px (main); restyle 41 px (main)	2026-11-20
+EG-SIN		dashed 36 px (main); restyle 41 px (main)	2026-11-20
+EG-SUZ		dashed 36 px (main); restyle 41 px (main)	2026-11-20
+EG-WAD		dashed 36 px (main); restyle 41 px (main)	2026-11-20
+EGY	B93 held (main)	dashed 20 px (main); restyle 84 px (main)	2026-11-20
+ERI		dashed 107 px (main); restyle 207 px (main)	2026-11-20
+ES-CN		dashed 389 px (main); restyle 535 px (main)	2026-11-20
+ESH		dashed 122 px (main); restyle 351 px (main)	2026-11-20
+ESH.1_1	B28 claimed (main)	dashed 313 px (main); restyle 903 px (main)	2026-11-20
+ESH.2_1	B28 claimed (main)	dashed 313 px (main); restyle 903 px (main)	2026-11-20
+ESH.3_1		dashed 313 px (main); restyle 903 px (main)	2026-11-20
+ESH.4_1	B28 claimed (main)	dashed 313 px (main); restyle 903 px (main)	2026-11-20
+ESP	B62 neutral/paint (main)		2026-11-20
+ET-AA		dashed 51 px (main); restyle 238 px (main)	2026-11-20
+ET-AF		dashed 51 px (main); restyle 238 px (main)	2026-11-20
+ET-AM		dashed 51 px (main); restyle 238 px (main)	2026-11-20
+ET-BE		dashed 51 px (main); restyle 238 px (main)	2026-11-20
+ET-CE		dashed 51 px (main); restyle 238 px (main)	2026-11-20
+ET-DD		dashed 51 px (main); restyle 238 px (main)	2026-11-20
+ET-GA		dashed 51 px (main); restyle 238 px (main)	2026-11-20
+ET-HA		dashed 51 px (main); restyle 238 px (main)	2026-11-20
+ET-OR		dashed 51 px (main); restyle 238 px (main)	2026-11-20
+ET-SE		dashed 51 px (main); restyle 238 px (main); dashed 49 px (detail); restyle 100 px (detail)	2026-11-20
+ET-SI		dashed 51 px (main); restyle 238 px (main)	2026-11-20
+ET-SO		dashed 51 px (main); restyle 238 px (main)	2026-11-20
+ET-SW		dashed 51 px (main); restyle 238 px (main); dashed 80 px (detail); restyle 127 px (detail)	2026-11-20
+ET-TI		dashed 51 px (main); restyle 238 px (main)	2026-11-20
+ETH		dashed 116 px (main); restyle 224 px (main)	2026-11-20
+FIN		dashed 20 px (main); restyle 25 px (main)	2026-11-20
+GE-AB	B35 claimed (main)	dashed 607 px (main)	2026-11-20
+GE-AJ		dashed 607 px (main)	2026-11-20
+GE-GU		dashed 607 px (main); dashed 41 px (detail)	2026-11-20
+GE-IM		dashed 607 px (main)	2026-11-20
+GE-KA		dashed 607 px (main)	2026-11-20
+GE-KK		dashed 607 px (main)	2026-11-20
+GE-MM	B37 claimed (main)	dashed 607 px (main)	2026-11-20
+GE-RL	B37 claimed (main)	dashed 607 px (main)	2026-11-20
+GE-SJ		dashed 607 px (main)	2026-11-20
+GE-SK	B37 claimed (main)	dashed 607 px (main)	2026-11-20
+GE-SZ		dashed 607 px (main)	2026-11-20
+GE-TB		dashed 607 px (main)	2026-11-20
+GEO	B35 claimed (main); B37 claimed (main)	dashed 241 px (main); restyle 158 px (main)	2026-11-20
+GHA		restyle 119 px (main)	2026-11-20
+GIB		dashed 113 px (main); restyle 241 px (main)	2026-11-20
+GRC		dashed 86 px (main); restyle 114 px (main)	2026-11-20
+GTM	B51 claimed (main); B51 claimed (detail)		2026-11-20
+GUF	B14 held (main); B14 held (detail)		2026-11-20
+GUY	B15 held (main); B56 held (main); B15 held (detail); B56 held (detail)		2026-11-20
+HR-16	B95 claimed/paint (main); B96 claimed/paint (main); B95 claimed/paint (detail); B96 claimed/paint (detail)		2026-11-20
+HRV		dashed 42 px (main); restyle 48 px (main)	2026-11-20
+HUN		dashed 71 px (main); restyle 52 px (main)	2026-11-20
+IL-D		dashed 93 px (main); restyle 68 px (main)	2026-11-20
+IL-HA		dashed 93 px (main); restyle 68 px (main)	2026-11-20
+IL-JM		dashed 93 px (main); restyle 68 px (main)	2026-11-20
+IL-M		dashed 93 px (main); restyle 68 px (main)	2026-11-20
+IL-TA		dashed 93 px (main); restyle 68 px (main)	2026-11-20
+IL-Z		dashed 93 px (main); restyle 68 px (main); dashed 172 px (detail); restyle 124 px (detail)	2026-11-20
+IN-AP		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-20
+IN-AR		solid 16 px (main); dashed 518 px (main); restyle 500 px (main); solid 22 px (detail); dashed 262 px (detail); restyle 418 px (detail)	2026-11-20
+IN-AS		solid 16 px (main); dashed 518 px (main); restyle 500 px (main); solid 32 px (detail); dashed 241 px (detail); restyle 391 px (detail)	2026-11-20
+IN-BR		solid 16 px (main); dashed 518 px (main); restyle 500 px (main); dashed 24 px (detail); restyle 12 px (detail)	2026-11-20
+IN-CG		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-20
+IN-CH		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-20
+IN-DH		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-20
+IN-DL		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-20
+IN-GA		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-20
+IN-GJ		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-20
+IN-HP		solid 16 px (main); dashed 518 px (main); restyle 500 px (main); solid 16 px (detail); dashed 522 px (detail); restyle 264 px (detail)	2026-11-20
+IN-HR		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-20
+IN-JH		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-20
+IN-JK	B09 claimed (main); B09 claimed (detail)	solid 15 px (main); dashed 489 px (main); restyle 462 px (main); dashed 694 px (detail); restyle 766 px (detail)	2026-11-20
+IN-KA		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-20
+IN-KL		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-20
+IN-LA	B06 claimed (main); B07 claimed (main); B08 claimed (main); B06 claimed (detail); B07 claimed (detail); B08 claimed (detail)	solid 15 px (main); dashed 489 px (main); restyle 462 px (main); dashed 767 px (detail); restyle 578 px (detail)	2026-11-20
+IN-LD		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-20
+IN-MH		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-20
+IN-ML		solid 16 px (main); dashed 518 px (main); restyle 500 px (main); dashed 162 px (detail)	2026-11-20
+IN-MN		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-20
+IN-MP		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-20
+IN-MZ		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-20
+IN-NL		solid 16 px (main); dashed 518 px (main); restyle 500 px (main); dashed 207 px (detail)	2026-11-20
+IN-OD		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-20
+IN-PB		solid 16 px (main); dashed 518 px (main); restyle 500 px (main); dashed 348 px (detail); restyle 153 px (detail)	2026-11-20
+IN-PY		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-20
+IN-RJ		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-20
+IN-SK		solid 16 px (main); dashed 518 px (main); restyle 500 px (main); dashed 131 px (detail); restyle 51 px (detail)	2026-11-20
+IN-TN		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-20
+IN-TR		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-20
+IN-TS		solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-20
+IN-UK		solid 16 px (main); dashed 518 px (main); restyle 500 px (main); dashed 84 px (detail); restyle 114 px (detail)	2026-11-20
+IN-UP		solid 16 px (main); dashed 518 px (main); restyle 500 px (main); dashed 25 px (detail); restyle 43 px (detail)	2026-11-20
+IN-WB		solid 16 px (main); dashed 518 px (main); restyle 500 px (main); solid 33 px (detail); dashed 19 px (detail); restyle 81 px (detail)	2026-11-20
+IND	B00 held (main); B05 held (main); B06 claimed (main); B07 claimed (main); B08 claimed (main); B09 claimed (main); C01 held (main)	solid 16 px (main); dashed 518 px (main); restyle 500 px (main)	2026-11-20
+IOT		restyle 47 px (main)	2026-11-20
+IR-00		dashed 88 px (main)	2026-11-20
+IR-01		dashed 88 px (main)	2026-11-20
+IR-02		dashed 88 px (main)	2026-11-20
+IR-03		dashed 88 px (main)	2026-11-20
+IR-04		dashed 88 px (main)	2026-11-20
+IR-05		dashed 88 px (main)	2026-11-20
+IR-06		dashed 88 px (main)	2026-11-20
+IR-07		dashed 88 px (main)	2026-11-20
+IR-08		dashed 88 px (main)	2026-11-20
+IR-09		dashed 88 px (main)	2026-11-20
+IR-10		dashed 88 px (main)	2026-11-20
+IR-11		dashed 88 px (main)	2026-11-20
+IR-12		dashed 88 px (main)	2026-11-20
+IR-13		dashed 88 px (main)	2026-11-20
+IR-14		dashed 88 px (main)	2026-11-20
+IR-15		dashed 88 px (main)	2026-11-20
+IR-16		dashed 88 px (main)	2026-11-20
+IR-17		dashed 88 px (main)	2026-11-20
+IR-18		dashed 88 px (main)	2026-11-20
+IR-19		dashed 88 px (main)	2026-11-20
+IR-20		dashed 88 px (main)	2026-11-20
+IR-21		dashed 88 px (main)	2026-11-20
+IR-22		dashed 88 px (main)	2026-11-20
+IR-23		dashed 88 px (main)	2026-11-20
+IR-24		dashed 88 px (main)	2026-11-20
+IR-25		dashed 88 px (main)	2026-11-20
+IR-26		dashed 88 px (main)	2026-11-20
+IR-27		dashed 88 px (main)	2026-11-20
+IR-28		dashed 88 px (main)	2026-11-20
+IR-29		dashed 88 px (main)	2026-11-20
+IR-30		dashed 88 px (main)	2026-11-20
+IRN		dashed 105 px (main)	2026-11-20
+IRQ		dashed 116 px (main); restyle 115 px (main)	2026-11-20
+ISR	B16 held (detail)	dashed 97 px (main); restyle 68 px (main); dashed 40 px (detail); restyle 29 px (detail)	2026-11-20
+ITA		dashed 37 px (main)	2026-11-20
+JO-AJ		dashed 87 px (main); restyle 63 px (main)	2026-11-20
+JO-AM		dashed 87 px (main); restyle 63 px (main)	2026-11-20
+JO-AQ		dashed 87 px (main); restyle 63 px (main)	2026-11-20
+JO-AT		dashed 87 px (main); restyle 63 px (main)	2026-11-20
+JO-AZ		dashed 87 px (main); restyle 63 px (main); dashed 44 px (detail); restyle 24 px (detail)	2026-11-20
+JO-BA		dashed 87 px (main); restyle 63 px (main)	2026-11-20
+JO-IR		dashed 87 px (main); restyle 63 px (main); dashed 86 px (detail); restyle 27 px (detail)	2026-11-20
+JO-JA		dashed 87 px (main); restyle 63 px (main)	2026-11-20
+JO-KA		dashed 87 px (main); restyle 63 px (main)	2026-11-20
+JO-MA		dashed 87 px (main); restyle 63 px (main)	2026-11-20
+JO-MD		dashed 87 px (main); restyle 63 px (main)	2026-11-20
+JO-MN		dashed 87 px (main); restyle 63 px (main)	2026-11-20
+JOR		dashed 106 px (main); restyle 88 px (main); dashed 37 px (detail); restyle 27 px (detail)	2026-11-20
+JP-01	B29 claimed (main); B29 claimed (detail)		2026-11-21
+KAB		dashed 508 px (main); restyle 381 px (main)	2026-11-20
+KAS		solid 30 px (main); dashed 798 px (main); restyle 665 px (main); dashed 313 px (detail); restyle 810 px (detail)	2026-11-20
+KAZ		dashed 355 px (main); restyle 87 px (main)	2026-11-20
+KE-01		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-02		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-03		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-04		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-05		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-06		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-07		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-08		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-09		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-10		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-11		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-12		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-13		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-14		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-15		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-16		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-17		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-18		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-19		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-20		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-21		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-22		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-23		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-24		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-25		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-26		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-27		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-28		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-29		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-30		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-31		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-32		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-33		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-34		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-35		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-36		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-37		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-38		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-39		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-40		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-41		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-42		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-43		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-44		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-45		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-46		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KE-47		dashed 65 px (main); restyle 103 px (main)	2026-11-20
+KEN	B17 held (main)	dashed 84 px (main); restyle 162 px (main)	2026-11-20
+KGZ		dashed 821 px (main); restyle 575 px (main)	2026-11-20
+KOS		dashed 56 px (main); restyle 107 px (main)	2026-11-20
+KWT		dashed 61 px (main); restyle 81 px (main)	2026-11-20
+KZ-10		dashed 355 px (main); restyle 87 px (main)	2026-11-20
+KZ-11		dashed 355 px (main); restyle 87 px (main)	2026-11-20
+KZ-15		dashed 355 px (main); restyle 87 px (main)	2026-11-20
+KZ-19		dashed 355 px (main); restyle 87 px (main)	2026-11-20
+KZ-23		dashed 355 px (main); restyle 87 px (main)	2026-11-20
+KZ-27		dashed 355 px (main); restyle 87 px (main)	2026-11-20
+KZ-31		dashed 355 px (main); restyle 87 px (main)	2026-11-20
+KZ-33		dashed 355 px (main); restyle 87 px (main)	2026-11-20
+KZ-35		dashed 355 px (main); restyle 87 px (main)	2026-11-20
+KZ-39		dashed 355 px (main); restyle 87 px (main)	2026-11-20
+KZ-43		dashed 355 px (main); restyle 87 px (main)	2026-11-20
+KZ-47		dashed 355 px (main); restyle 87 px (main)	2026-11-20
+KZ-55		dashed 355 px (main); restyle 87 px (main)	2026-11-20
+KZ-59		dashed 355 px (main); restyle 87 px (main)	2026-11-20
+KZ-61		dashed 355 px (main); restyle 87 px (main)	2026-11-20
+KZ-62		dashed 355 px (main); restyle 87 px (main)	2026-11-20
+KZ-63		dashed 355 px (main); restyle 87 px (main)	2026-11-20
+KZ-71		dashed 355 px (main); restyle 87 px (main)	2026-11-20
+KZ-75		dashed 355 px (main); restyle 87 px (main)	2026-11-20
+KZ-79		dashed 355 px (main); restyle 87 px (main)	2026-11-20
+LAO		solid 19 px (main); dashed 135 px (main); restyle 233 px (main)	2026-11-20
+LB-AK		dashed 207 px (main); restyle 162 px (main)	2026-11-20
+LB-AS		dashed 207 px (main); restyle 162 px (main)	2026-11-20
+LB-BA		dashed 207 px (main); restyle 162 px (main)	2026-11-20
+LB-BH		dashed 207 px (main); restyle 162 px (main)	2026-11-20
+LB-BI		dashed 207 px (main); restyle 162 px (main)	2026-11-20
+LB-JA		dashed 207 px (main); restyle 162 px (main); dashed 180 px (detail); restyle 48 px (detail)	2026-11-20
+LB-JL		dashed 207 px (main); restyle 162 px (main)	2026-11-20
+LB-KJ		dashed 207 px (main); restyle 162 px (main)	2026-11-20
+LB-NA	B58 claimed/paint (main)	dashed 207 px (main); restyle 162 px (main)	2026-11-20
+LBN	B58 claimed/paint (main); B58 claimed/paint (detail)	dashed 121 px (main); restyle 96 px (main); dashed 95 px (detail); restyle 68 px (detail)	2026-11-20
+LBY		restyle 66 px (main)	2026-11-20
+LIE		dashed 29 px (main)	2026-11-20
+LKA		dashed 52 px (main)	2026-11-20
+LTU		dashed 93 px (main); restyle 45 px (main)	2026-11-20
+LVA		dashed 13 px (main)	2026-11-20
+MA-01	B60 claimed/paint (main); B60 claimed/paint (detail)	dashed 149 px (main); restyle 431 px (main)	2026-11-20
+MA-02		dashed 155 px (main); restyle 448 px (main)	2026-11-20
+MA-03		dashed 155 px (main); restyle 448 px (main)	2026-11-20
+MA-04		dashed 155 px (main); restyle 448 px (main)	2026-11-20
+MA-05		dashed 155 px (main); restyle 448 px (main)	2026-11-20
+MA-06		dashed 155 px (main); restyle 448 px (main)	2026-11-20
+MA-07		dashed 155 px (main); restyle 448 px (main)	2026-11-20
+MA-08		dashed 155 px (main); restyle 448 px (main)	2026-11-20
+MA-09		dashed 155 px (main); restyle 448 px (main); dashed 139 px (detail); restyle 28 px (detail)	2026-11-20
+MA-10		dashed 155 px (main); restyle 448 px (main); dashed 287 px (detail); restyle 323 px (detail)	2026-11-20
+MA-11	B28 claimed (main)	dashed 149 px (main); restyle 431 px (main)	2026-11-20
+MA-12	B28 claimed (main)	dashed 149 px (main); restyle 431 px (main)	2026-11-20
+MAR	B19 held (main); B28 claimed (main)	dashed 112 px (main); restyle 322 px (main)	2026-11-20
+MD-AN		dashed 409 px (main); dashed 693 px (detail)	2026-11-20
+MD-BA		dashed 409 px (main)	2026-11-20
+MD-BR		dashed 409 px (main)	2026-11-20
+MD-BS		dashed 409 px (main)	2026-11-20
+MD-CA		dashed 409 px (main)	2026-11-20
+MD-CL		dashed 409 px (main)	2026-11-20
+MD-CM		dashed 409 px (main)	2026-11-20
+MD-CR		dashed 409 px (main); dashed 667 px (detail)	2026-11-20
+MD-CS		dashed 409 px (main); dashed 332 px (detail)	2026-11-20
+MD-CT		dashed 409 px (main)	2026-11-20
+MD-CU		dashed 409 px (main); dashed 312 px (detail)	2026-11-20
+MD-DO		dashed 409 px (main)	2026-11-20
+MD-DR		dashed 409 px (main)	2026-11-20
+MD-ED		dashed 409 px (main)	2026-11-20
+MD-FA		dashed 409 px (main)	2026-11-20
+MD-FL		dashed 409 px (main); dashed 93 px (detail)	2026-11-20
+MD-GA		dashed 409 px (main); dashed 32 px (detail)	2026-11-20
+MD-GL		dashed 409 px (main)	2026-11-20
+MD-HI		dashed 409 px (main)	2026-11-20
+MD-IA		dashed 409 px (main); dashed 390 px (detail)	2026-11-20
+MD-LE		dashed 409 px (main)	2026-11-20
+MD-NI		dashed 409 px (main)	2026-11-20
+MD-OC		dashed 409 px (main)	2026-11-20
+MD-OR		dashed 409 px (main); dashed 428 px (detail)	2026-11-20
+MD-RE		dashed 409 px (main); dashed 215 px (detail)	2026-11-20
+MD-RI		dashed 409 px (main)	2026-11-20
+MD-SD		dashed 409 px (main); dashed 302 px (detail)	2026-11-20
+MD-SI		dashed 409 px (main); dashed 19 px (detail)	2026-11-20
+MD-SN	B36 claimed (main)	dashed 409 px (main)	2026-11-20
+MD-SO		dashed 409 px (main); dashed 75 px (detail)	2026-11-20
+MD-ST		dashed 409 px (main)	2026-11-20
+MD-SV		dashed 409 px (main); dashed 298 px (detail)	2026-11-20
+MD-TA		dashed 409 px (main)	2026-11-20
+MD-TE		dashed 409 px (main)	2026-11-20
+MD-UN		dashed 409 px (main)	2026-11-20
+MDA	B36 claimed/paint (main); B36 claimed (detail)	dashed 133 px (main); restyle 97 px (main); dashed 173 px (detail)	2026-11-20
+MDA.15_1	B36 claimed (main); B36 claimed (detail)	dashed 409 px (main); dashed 568 px (detail)	2026-11-20
+MDA.4_1		dashed 409 px (main); dashed 753 px (detail)	2026-11-20
+MKD		dashed 82 px (main); restyle 136 px (main)	2026-11-20
+ML-1		dashed 125 px (main); restyle 379 px (main)	2026-11-20
+ML-10		dashed 125 px (main); restyle 379 px (main)	2026-11-20
+ML-11		dashed 125 px (main); restyle 379 px (main)	2026-11-20
+ML-12		dashed 125 px (main); restyle 379 px (main)	2026-11-20
+ML-13		dashed 125 px (main); restyle 379 px (main)	2026-11-20
+ML-14		dashed 125 px (main); restyle 379 px (main)	2026-11-20
+ML-15		dashed 125 px (main); restyle 379 px (main)	2026-11-20
+ML-16		dashed 125 px (main); restyle 379 px (main)	2026-11-20
+ML-17		dashed 125 px (main); restyle 379 px (main)	2026-11-20
+ML-18		dashed 125 px (main); restyle 379 px (main)	2026-11-20
+ML-19		dashed 125 px (main); restyle 379 px (main)	2026-11-20
+ML-2		dashed 125 px (main); restyle 379 px (main)	2026-11-20
+ML-3		dashed 125 px (main); restyle 379 px (main)	2026-11-20
+ML-4		dashed 125 px (main); restyle 379 px (main)	2026-11-20
+ML-5		dashed 125 px (main); restyle 379 px (main)	2026-11-20
+ML-6		dashed 125 px (main); restyle 379 px (main)	2026-11-20
+ML-7		dashed 125 px (main); restyle 379 px (main)	2026-11-20
+ML-8		dashed 125 px (main); restyle 379 px (main)	2026-11-20
+ML-9		dashed 125 px (main); restyle 379 px (main)	2026-11-20
+ML-BKO		dashed 125 px (main); restyle 379 px (main)	2026-11-20
+MLI		dashed 119 px (main); restyle 342 px (main)	2026-11-20
+MM-01		solid 23 px (main); dashed 174 px (main); restyle 283 px (main); dashed 236 px (detail); restyle 188 px (detail)	2026-11-20
+MM-02		solid 23 px (main); dashed 174 px (main); restyle 283 px (main)	2026-11-20
+MM-03		solid 23 px (main); dashed 174 px (main); restyle 283 px (main)	2026-11-20
+MM-04		solid 23 px (main); dashed 174 px (main); restyle 283 px (main)	2026-11-20
+MM-05		solid 23 px (main); dashed 174 px (main); restyle 283 px (main)	2026-11-20
+MM-06		solid 23 px (main); dashed 174 px (main); restyle 283 px (main)	2026-11-20
+MM-07		solid 23 px (main); dashed 174 px (main); restyle 283 px (main)	2026-11-20
+MM-11		solid 23 px (main); dashed 174 px (main); restyle 283 px (main); dashed 226 px (detail); restyle 316 px (detail)	2026-11-20
+MM-12		solid 23 px (main); dashed 174 px (main); restyle 283 px (main)	2026-11-20
+MM-13		solid 23 px (main); dashed 174 px (main); restyle 283 px (main)	2026-11-20
+MM-14		solid 23 px (main); dashed 174 px (main); restyle 283 px (main)	2026-11-20
+MM-15		solid 23 px (main); dashed 174 px (main); restyle 283 px (main)	2026-11-20
+MM-16		solid 23 px (main); dashed 174 px (main); restyle 283 px (main)	2026-11-20
+MM-17		solid 23 px (main); dashed 174 px (main); restyle 283 px (main)	2026-11-20
+MMR		solid 15 px (main); dashed 102 px (main); restyle 175 px (main)	2026-11-20
+MMR.10_1		solid 23 px (main); dashed 174 px (main); restyle 283 px (main)	2026-11-20
+MNE		dashed 36 px (main); restyle 88 px (main)	2026-11-20
+MR-01		dashed 178 px (main); restyle 514 px (main)	2026-11-20
+MR-02		dashed 178 px (main); restyle 514 px (main)	2026-11-20
+MR-03		dashed 178 px (main); restyle 514 px (main)	2026-11-20
+MR-04		dashed 178 px (main); restyle 514 px (main)	2026-11-20
+MR-05		dashed 178 px (main); restyle 514 px (main)	2026-11-20
+MR-06		dashed 178 px (main); restyle 514 px (main)	2026-11-20
+MR-07		dashed 178 px (main); restyle 514 px (main)	2026-11-20
+MR-08		dashed 178 px (main); restyle 514 px (main); restyle 284 px (detail)	2026-11-20
+MR-09		dashed 178 px (main); restyle 514 px (main)	2026-11-20
+MR-10		dashed 178 px (main); restyle 514 px (main)	2026-11-20
+MR-11		dashed 178 px (main); restyle 514 px (main)	2026-11-20
+MR-12		dashed 178 px (main); restyle 514 px (main); restyle 259 px (detail)	2026-11-20
+MR-13		dashed 178 px (main); restyle 514 px (main)	2026-11-20
+MR-14		dashed 178 px (main); restyle 514 px (main)	2026-11-20
+MR-15		dashed 178 px (main); restyle 514 px (main)	2026-11-20
+MRT		dashed 104 px (main); restyle 301 px (main)	2026-11-20
+MUS		restyle 16 px (main)	2026-11-20
+MWI		dashed 21 px (main); restyle 34 px (main)	2026-11-20
+MYS	C04 held (main)		2026-11-20
+NP-P1		dashed 188 px (main); restyle 164 px (main)	2026-11-20
+NP-P2		dashed 188 px (main); restyle 164 px (main)	2026-11-20
+NP-P3		dashed 188 px (main); restyle 164 px (main)	2026-11-20
+NP-P4		dashed 188 px (main); restyle 164 px (main)	2026-11-20
+NP-P5		dashed 188 px (main); restyle 164 px (main)	2026-11-20
+NP-P6		dashed 188 px (main); restyle 164 px (main)	2026-11-20
+NP-P7	B88 claimed/paint (main)	dashed 188 px (main); restyle 164 px (main)	2026-11-20
+NPL	B88 claimed/paint (main)	solid 32 px (main); dashed 1094 px (main); restyle 1032 px (main)	2026-11-20
+OMN		restyle 80 px (main)	2026-11-20
+PAK	B05 claimed (main); B08 held (main); B09 held (main); C01 claimed (main)	dashed 578 px (main); restyle 442 px (main)	2026-11-20
+PHL	C04 claimed (main)		2026-11-20
+PK-BA		dashed 785 px (main); restyle 618 px (main)	2026-11-20
+PK-GB	B45 claimed (main); B45 claimed (detail)	dashed 842 px (main); restyle 635 px (main); dashed 814 px (detail); restyle 681 px (detail)	2026-11-20
+PK-IS		dashed 785 px (main); restyle 618 px (main)	2026-11-20
+PK-JK		dashed 785 px (main); restyle 618 px (main); dashed 655 px (detail); restyle 669 px (detail)	2026-11-20
+PK-KP		dashed 785 px (main); restyle 618 px (main)	2026-11-20
+PK-PB		dashed 785 px (main); restyle 618 px (main)	2026-11-20
+PK-SD		dashed 785 px (main); restyle 618 px (main)	2026-11-20
+POL		dashed 44 px (main); restyle 40 px (main)	2026-11-20
+PRT	B67 claimed/paint (detail)	dashed 75 px (main); restyle 206 px (main)	2026-11-20
+PS-BTH	B98 claimed/paint (main); B98 claimed (detail)	dashed 30 px (main)	2026-11-20
+PS-DEB		dashed 30 px (main)	2026-11-20
+PS-GZA		dashed 30 px (main)	2026-11-20
+PS-HBN		dashed 30 px (main)	2026-11-20
+PS-JEM	B98 claimed (main); B98 claimed (detail)	dashed 30 px (main)	2026-11-20
+PS-JEN		dashed 30 px (main)	2026-11-20
+PS-JRH		dashed 30 px (main)	2026-11-20
+PS-KYS		dashed 30 px (main)	2026-11-20
+PS-NBS		dashed 30 px (main)	2026-11-20
+PS-NGZ		dashed 30 px (main)	2026-11-20
+PS-QQA		dashed 30 px (main)	2026-11-20
+PS-RBH		dashed 30 px (main)	2026-11-20
+PS-RFH		dashed 30 px (main)	2026-11-20
+PS-SLT		dashed 30 px (main)	2026-11-20
+PS-TBS		dashed 30 px (main)	2026-11-20
+PS-TKM		dashed 30 px (main)	2026-11-20
+PSE	B98 claimed/paint (main); B98 claimed (detail)	dashed 105 px (main); restyle 104 px (main); dashed 30 px (detail)	2026-11-20
+PSE.1_1		dashed 30 px (main)	2026-11-20
+PSE.2_1	B98 claimed (main)	dashed 30 px (main)	2026-11-20
+PT-20		dashed 127 px (main); restyle 149 px (main)	2026-11-20
+PT-30		dashed 232 px (main); restyle 155 px (main)	2026-11-20
+QAT		dashed 77 px (main); restyle 64 px (main)	2026-11-20
+RO-AB		dashed 240 px (main)	2026-11-20
+RO-AG		dashed 240 px (main)	2026-11-20
+RO-AR		dashed 240 px (main)	2026-11-20
+RO-B		dashed 240 px (main)	2026-11-20
+RO-BC		dashed 240 px (main)	2026-11-20
+RO-BH		dashed 240 px (main)	2026-11-20
+RO-BN		dashed 240 px (main)	2026-11-20
+RO-BR		dashed 240 px (main)	2026-11-20
+RO-BT		dashed 240 px (main)	2026-11-20
+RO-BV		dashed 240 px (main)	2026-11-20
+RO-BZ		dashed 240 px (main)	2026-11-20
+RO-CJ		dashed 240 px (main)	2026-11-20
+RO-CL		dashed 240 px (main)	2026-11-20
+RO-CS		dashed 240 px (main)	2026-11-20
+RO-CT		dashed 240 px (main)	2026-11-20
+RO-CV		dashed 240 px (main)	2026-11-20
+RO-DB		dashed 240 px (main)	2026-11-20
+RO-DJ		dashed 240 px (main)	2026-11-20
+RO-GJ		dashed 240 px (main)	2026-11-20
+RO-GL		dashed 240 px (main)	2026-11-20
+RO-GR		dashed 240 px (main)	2026-11-20
+RO-HD		dashed 240 px (main)	2026-11-20
+RO-HR		dashed 240 px (main)	2026-11-20
+RO-IF		dashed 240 px (main)	2026-11-20
+RO-IL		dashed 240 px (main)	2026-11-20
+RO-IS		dashed 240 px (main)	2026-11-20
+RO-MH		dashed 240 px (main)	2026-11-20
+RO-MM		dashed 240 px (main)	2026-11-20
+RO-MS		dashed 240 px (main)	2026-11-20
+RO-NT		dashed 240 px (main)	2026-11-20
+RO-OT		dashed 240 px (main)	2026-11-20
+RO-PH		dashed 240 px (main)	2026-11-20
+RO-SB		dashed 240 px (main)	2026-11-20
+RO-SJ		dashed 240 px (main)	2026-11-20
+RO-SM		dashed 240 px (main)	2026-11-20
+RO-SV		dashed 240 px (main)	2026-11-20
+RO-TL		dashed 240 px (main)	2026-11-20
+RO-TM		dashed 240 px (main)	2026-11-20
+RO-TR		dashed 240 px (main)	2026-11-20
+RO-VL		dashed 240 px (main)	2026-11-20
+RO-VN		dashed 240 px (main)	2026-11-20
+RO-VS		dashed 240 px (main)	2026-11-20
+ROU		dashed 99 px (main); restyle 86 px (main)	2026-11-20
+RU-AD		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-AL		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-ALT		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-AMU		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-ARK		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-AST		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-BA		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-BEL		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-BRY		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-BU		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-CE		dashed 263 px (main); restyle 173 px (main); dashed 115 px (detail)	2026-11-20
+RU-CHE		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-CHU		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-CU		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-DA		dashed 263 px (main); restyle 173 px (main); dashed 157 px (detail)	2026-11-20
+RU-DON	RU-DON own-claimed (main); RU-DON own-claimed (detail)	dashed 147 px (main); restyle 76 px (main)	2026-11-20
+RU-HRS	RU-HRS own-claimed (main); RU-HRS own-claimed (detail)	dashed 147 px (main); restyle 76 px (main); restyle 121 px (detail)	2026-11-20
+RU-IN		dashed 263 px (main); restyle 173 px (main); dashed 80 px (detail)	2026-11-20
+RU-IRK		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-IVA		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-KAM		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-KB		dashed 263 px (main); restyle 173 px (main); dashed 160 px (detail)	2026-11-20
+RU-KC		dashed 263 px (main); restyle 173 px (main); dashed 90 px (detail)	2026-11-20
+RU-KDA		dashed 263 px (main); restyle 173 px (main); dashed 58 px (detail)	2026-11-20
+RU-KEM		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-KGD		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-KGN		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-KHA		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-KHM		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-KIR		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-KK		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-KL		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-KLU		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-KO		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-KOS		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-KR		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-KRS		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-KRY	RU-KRY own-held (main); RU-KRY own-held (detail)	dashed 147 px (main); restyle 76 px (main); restyle 108 px (detail)	2026-11-20
+RU-KYA		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-LEN		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-LIP		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-LUG	RU-LUG own-claimed (main); RU-LUG own-claimed (detail)	dashed 147 px (main); restyle 76 px (main)	2026-11-20
+RU-MAG		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-ME		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-MO		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-MOS		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-MUR		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-NEN		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-NGR		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-NIZ		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-NVS		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-OMS		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-ORE		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-ORL		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-PER		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-PNZ		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-PRI		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-PSK		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-ROS		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-RYA		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-SA		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-SAK		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-SAM		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-SAR		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-SE		dashed 263 px (main); restyle 173 px (main); dashed 199 px (detail)	2026-11-20
+RU-SMO		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-SPE		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-STA		dashed 263 px (main); restyle 173 px (main); dashed 114 px (detail)	2026-11-20
+RU-SVE		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-SVS	RU-SVS own-held (main); RU-SVS own-held (detail)	dashed 147 px (main); restyle 76 px (main)	2026-11-20
+RU-TA		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-TAM		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-TOM		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-TUL		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-TVE		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-TY		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-TYU		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-UD		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-ULY		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-VGG		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-VLA		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-VLG		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-VOR		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-YAN		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-YAR		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-YEV		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-ZAB		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RU-ZAP	RU-ZAP own-claimed (main); RU-ZAP own-claimed (detail)	dashed 147 px (main); restyle 76 px (main); restyle 150 px (detail)	2026-11-20
+RUS	B89 held (main); K01 claimed (main); K02 claimed (main); K03 claimed (main); K04 claimed (main)	dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RUS.43_1		dashed 263 px (main); restyle 173 px (main)	2026-11-20
+RWA		dashed 107 px (main); restyle 98 px (main)	2026-11-20
+SA-01		dashed 22 px (main); restyle 41 px (main)	2026-11-20
+SA-02		dashed 22 px (main); restyle 41 px (main)	2026-11-20
+SA-03		dashed 22 px (main); restyle 41 px (main)	2026-11-20
+SA-04		dashed 22 px (main); restyle 41 px (main)	2026-11-20
+SA-05		dashed 22 px (main); restyle 41 px (main)	2026-11-20
+SA-06		dashed 22 px (main); restyle 41 px (main)	2026-11-20
+SA-07		dashed 22 px (main); restyle 41 px (main)	2026-11-20
+SA-08		dashed 22 px (main); restyle 41 px (main)	2026-11-20
+SA-09		dashed 22 px (main); restyle 41 px (main)	2026-11-20
+SA-10		dashed 22 px (main); restyle 41 px (main)	2026-11-20
+SA-11		dashed 22 px (main); restyle 41 px (main)	2026-11-20
+SA-12		dashed 22 px (main); restyle 41 px (main); restyle 26 px (detail)	2026-11-20
+SA-14		dashed 22 px (main); restyle 41 px (main)	2026-11-20
+SAU		dashed 21 px (main); restyle 89 px (main)	2026-11-20
+SC-01		dashed 35 px (main); restyle 55 px (main)	2026-11-20
+SC-02		dashed 35 px (main); restyle 55 px (main)	2026-11-20
+SC-03		dashed 35 px (main); restyle 55 px (main)	2026-11-20
+SC-04		dashed 35 px (main); restyle 55 px (main)	2026-11-20
+SC-05		dashed 35 px (main); restyle 55 px (main)	2026-11-20
+SC-06		dashed 35 px (main); restyle 55 px (main)	2026-11-20
+SC-07		dashed 35 px (main); restyle 55 px (main)	2026-11-20
+SC-08		dashed 35 px (main); restyle 55 px (main)	2026-11-20
+SC-09		dashed 35 px (main); restyle 55 px (main)	2026-11-20
+SC-10		dashed 35 px (main); restyle 55 px (main)	2026-11-20
+SC-11		dashed 35 px (main); restyle 55 px (main)	2026-11-20
+SC-12		dashed 35 px (main); restyle 55 px (main)	2026-11-20
+SC-13		dashed 35 px (main); restyle 55 px (main)	2026-11-20
+SC-14		dashed 35 px (main); restyle 55 px (main)	2026-11-20
+SC-15		dashed 35 px (main); restyle 55 px (main)	2026-11-20
+SC-16		dashed 35 px (main); restyle 55 px (main)	2026-11-20
+SC-17		dashed 35 px (main); restyle 55 px (main)	2026-11-20
+SC-18		dashed 35 px (main); restyle 55 px (main)	2026-11-20
+SC-19		dashed 35 px (main); restyle 55 px (main)	2026-11-20
+SC-20		dashed 35 px (main); restyle 55 px (main)	2026-11-20
+SC-21		dashed 35 px (main); restyle 55 px (main)	2026-11-20
+SC-22		dashed 35 px (main); restyle 55 px (main)	2026-11-20
+SC-23		dashed 35 px (main); restyle 55 px (main)	2026-11-20
+SC-24		dashed 35 px (main); restyle 55 px (main)	2026-11-20
+SC-25		dashed 35 px (main); restyle 55 px (main)	2026-11-20
+SC-26		dashed 35 px (main); restyle 55 px (main)	2026-11-20
+SC-27		dashed 35 px (main); restyle 55 px (main)	2026-11-20
+SD-DC		dashed 91 px (main); restyle 65 px (main)	2026-11-20
+SD-DE		dashed 91 px (main); restyle 65 px (main); solid 12 px (detail); dashed 156 px (detail); restyle 93 px (detail)	2026-11-20
+SD-DN		dashed 91 px (main); restyle 65 px (main)	2026-11-20
+SD-DS		dashed 91 px (main); restyle 65 px (main)	2026-11-20
+SD-DW		dashed 91 px (main); restyle 65 px (main)	2026-11-20
+SD-GD		dashed 91 px (main); restyle 65 px (main)	2026-11-20
+SD-GK	B13 neutral (main)	dashed 86 px (main); restyle 62 px (main)	2026-11-20
+SD-GZ		dashed 91 px (main); restyle 65 px (main)	2026-11-20
+SD-KA		dashed 91 px (main); restyle 65 px (main)	2026-11-20
+SD-KH		dashed 91 px (main); restyle 65 px (main)	2026-11-20
+SD-KN		dashed 91 px (main); restyle 65 px (main)	2026-11-20
+SD-KS		dashed 91 px (main); restyle 65 px (main)	2026-11-20
+SD-NB		dashed 91 px (main); restyle 65 px (main)	2026-11-20
+SD-NO		dashed 91 px (main); restyle 65 px (main)	2026-11-20
+SD-NR		dashed 91 px (main); restyle 65 px (main)	2026-11-20
+SD-NW		dashed 91 px (main); restyle 65 px (main)	2026-11-20
+SD-RS	B93 claimed (main)	dashed 86 px (main); restyle 62 px (main)	2026-11-20
+SD-SI		dashed 91 px (main); restyle 65 px (main)	2026-11-20
+SDN	B13 neutral (main); B93 claimed (main)	dashed 110 px (main); restyle 102 px (main)	2026-11-20
+SEN		restyle 245 px (main)	2026-11-20
+SLE		restyle 86 px (main)	2026-11-20
+SMR		dashed 41 px (main)	2026-11-20
+SO-AW	B30 claimed (main); B30 claimed (detail)	restyle 142 px (main)	2026-11-20
+SO-BK		restyle 142 px (main)	2026-11-20
+SO-BN		restyle 142 px (main)	2026-11-20
+SO-BR		restyle 142 px (main); restyle 224 px (detail)	2026-11-20
+SO-BY		restyle 142 px (main)	2026-11-20
+SO-GA		restyle 142 px (main)	2026-11-20
+SO-GE		restyle 142 px (main)	2026-11-20
+SO-HI		restyle 142 px (main)	2026-11-20
+SO-JD		restyle 142 px (main)	2026-11-20
+SO-JH		restyle 142 px (main)	2026-11-20
+SO-MU		restyle 142 px (main); restyle 40 px (detail)	2026-11-20
+SO-NU		restyle 142 px (main); restyle 221 px (detail)	2026-11-20
+SO-SA	B30 claimed (main); B30 claimed (detail)	restyle 142 px (main); restyle 269 px (detail)	2026-11-20
+SO-SD		restyle 142 px (main)	2026-11-20
+SO-SH		restyle 142 px (main)	2026-11-20
+SO-SO	B30 claimed (main); B30 claimed (detail)	restyle 142 px (main); restyle 269 px (detail)	2026-11-20
+SO-TO	B30 claimed (main); B30 claimed (detail)	restyle 142 px (main)	2026-11-20
+SO-WO	B30 claimed (main); B30 claimed (detail)	restyle 142 px (main)	2026-11-20
+SOL		dashed 46 px (main); restyle 217 px (main)	2026-11-20
+SOM	B30 claimed (main)	dashed 26 px (main); restyle 122 px (main)	2026-11-20
+SRB	B57 claimed (main); B57 claimed (detail)	dashed 39 px (main); restyle 94 px (main)	2026-11-20
+SS-BN		solid 11 px (main); dashed 201 px (main); restyle 185 px (main); dashed 161 px (detail); restyle 93 px (detail)	2026-11-20
+SS-BW		solid 11 px (main); dashed 201 px (main); restyle 185 px (main)	2026-11-20
+SS-EC		solid 11 px (main); dashed 201 px (main); restyle 185 px (main)	2026-11-20
+SS-EE		solid 11 px (main); dashed 201 px (main); restyle 185 px (main)	2026-11-20
+SS-EW		solid 11 px (main); dashed 201 px (main); restyle 185 px (main)	2026-11-20
+SS-GP		solid 11 px (main); dashed 201 px (main); restyle 185 px (main)	2026-11-20
+SS-JG		solid 11 px (main); dashed 201 px (main); restyle 185 px (main)	2026-11-20
+SS-LK		solid 11 px (main); dashed 201 px (main); restyle 185 px (main)	2026-11-20
+SS-NU		solid 11 px (main); dashed 201 px (main); restyle 185 px (main)	2026-11-20
+SS-RW		solid 11 px (main); dashed 201 px (main); restyle 185 px (main); solid 21 px (detail); dashed 144 px (detail); restyle 101 px (detail)	2026-11-20
+SS-UY		solid 11 px (main); dashed 201 px (main); restyle 185 px (main); solid 16 px (detail); dashed 200 px (detail); restyle 118 px (detail)	2026-11-20
+SS-WR		solid 11 px (main); dashed 201 px (main); restyle 185 px (main); solid 14 px (detail); dashed 79 px (detail); restyle 109 px (detail)	2026-11-20
+SSD	B13 neutral (main); B17 claimed (main)	dashed 119 px (main); restyle 109 px (main)	2026-11-20
+SUR	B14 claimed (main); B15 claimed (main); B14 claimed (detail); B15 claimed (detail)		2026-11-20
+SVK		dashed 92 px (main); restyle 60 px (main)	2026-11-20
+SVN		dashed 67 px (main); restyle 31 px (main)	2026-11-20
+SWE		dashed 20 px (main); restyle 25 px (main)	2026-11-20
+SY-DR		dashed 71 px (main); restyle 51 px (main); dashed 164 px (detail); restyle 119 px (detail)	2026-11-20
+SY-DY		dashed 71 px (main); restyle 51 px (main)	2026-11-20
+SY-HA		dashed 71 px (main); restyle 51 px (main)	2026-11-20
+SY-HI		dashed 71 px (main); restyle 51 px (main)	2026-11-20
+SY-HL		dashed 71 px (main); restyle 51 px (main)	2026-11-20
+SY-HM		dashed 71 px (main); restyle 51 px (main)	2026-11-20
+SY-ID		dashed 71 px (main); restyle 51 px (main)	2026-11-20
+SY-LA		dashed 71 px (main); restyle 51 px (main)	2026-11-20
+SY-QU	B16 claimed (main); B49 claimed/paint (main); B16 claimed (detail); B49 claimed (detail)	dashed 70 px (main); restyle 51 px (main); dashed 213 px (detail); restyle 154 px (detail)	2026-11-20
+SY-RA		dashed 71 px (main); restyle 51 px (main)	2026-11-20
+SY-RD		dashed 71 px (main); restyle 51 px (main)	2026-11-20
+SY-SU		dashed 71 px (main); restyle 51 px (main)	2026-11-20
+SY-TA		dashed 71 px (main); restyle 51 px (main)	2026-11-20
+SYR	B16 claimed/paint (main); B49 claimed/paint (main)	dashed 163 px (main); restyle 119 px (main)	2026-11-20
+SYR.5_1		dashed 71 px (main); restyle 51 px (main)	2026-11-20
+TCD		dashed 48 px (main); restyle 28 px (main)	2026-11-20
+TGO		dashed 76 px (main); restyle 119 px (main)	2026-11-20
+THA		solid 15 px (main); dashed 102 px (main); restyle 176 px (main)	2026-11-20
+TJ-DU		dashed 415 px (main); restyle 136 px (main)	2026-11-20
+TJ-GB		dashed 415 px (main); restyle 136 px (main)	2026-11-20
+TJ-KT		dashed 415 px (main); restyle 136 px (main)	2026-11-20
+TJ-RA		dashed 415 px (main); restyle 136 px (main)	2026-11-20
+TJ-SU		dashed 415 px (main); restyle 136 px (main)	2026-11-20
+TJK		dashed 739 px (main); restyle 557 px (main)	2026-11-20
+TKM		dashed 435 px (main); restyle 267 px (main)	2026-11-20
+TR-01		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-02		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-03		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-04		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-05		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-06		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-07		dashed 227 px (main); restyle 148 px (main); restyle 153 px (detail)	2026-11-20
+TR-08		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-09		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-10		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-11		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-12		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-13		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-14		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-15		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-16		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-17		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-18		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-19		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-20		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-21		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-22		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-23		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-24		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-25		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-26		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-27		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-28		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-29		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-30		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-31		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-32		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-33		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-34		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-35		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-36		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-37		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-38		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-39		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-40		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-41		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-42		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-43		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-44		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-45		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-46		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-47		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-48		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-49		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-50		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-51		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-52		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-53		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-54		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-55		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-56		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-57		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-58		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-59		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-60		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-61		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-62		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-63		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-64		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-65		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-66		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-67		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-68		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-69		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-70		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-71		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-72		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-73		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-74		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-75		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-76		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-77		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-78		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-79		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-80		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TR-81		dashed 227 px (main); restyle 148 px (main)	2026-11-20
+TUN		dashed 14 px (main)	2026-11-20
+TUR		dashed 210 px (main); restyle 198 px (main)	2026-11-20
+TZA		dashed 33 px (main); restyle 52 px (main)	2026-11-20
+UA-05		dashed 198 px (main); restyle 89 px (main); dashed 56 px (detail)	2026-11-20
+UA-07		dashed 198 px (main); restyle 89 px (main)	2026-11-20
+UA-09		dashed 198 px (main); restyle 89 px (main)	2026-11-20
+UA-12		dashed 198 px (main); restyle 89 px (main)	2026-11-20
+UA-14		dashed 198 px (main); restyle 89 px (main)	2026-11-20
+UA-18		dashed 198 px (main); restyle 89 px (main)	2026-11-20
+UA-21		dashed 198 px (main); restyle 89 px (main)	2026-11-20
+UA-23		dashed 198 px (main); restyle 89 px (main); restyle 150 px (detail)	2026-11-20
+UA-26		dashed 198 px (main); restyle 89 px (main)	2026-11-20
+UA-30		dashed 198 px (main); restyle 89 px (main)	2026-11-20
+UA-32		dashed 198 px (main); restyle 89 px (main)	2026-11-20
+UA-35		dashed 198 px (main); restyle 89 px (main); dashed 174 px (detail)	2026-11-20
+UA-40	B89 claimed (main); B89 claimed (detail)	dashed 195 px (main); restyle 83 px (main)	2026-11-20
+UA-43	B89 claimed (main); B89 claimed (detail)	dashed 195 px (main); restyle 83 px (main); restyle 108 px (detail)	2026-11-20
+UA-46		dashed 198 px (main); restyle 89 px (main)	2026-11-20
+UA-48		dashed 198 px (main); restyle 89 px (main); dashed 61 px (detail); restyle 31 px (detail)	2026-11-20
+UA-51		dashed 198 px (main); restyle 89 px (main)	2026-11-20
+UA-53		dashed 198 px (main); restyle 89 px (main)	2026-11-20
+UA-56		dashed 198 px (main); restyle 89 px (main)	2026-11-20
+UA-59		dashed 198 px (main); restyle 89 px (main)	2026-11-20
+UA-61		dashed 198 px (main); restyle 89 px (main)	2026-11-20
+UA-63		dashed 198 px (main); restyle 89 px (main)	2026-11-20
+UA-65		dashed 198 px (main); restyle 89 px (main); restyle 121 px (detail)	2026-11-20
+UA-68		dashed 198 px (main); restyle 89 px (main); dashed 21 px (detail)	2026-11-20
+UA-71		dashed 198 px (main); restyle 89 px (main); dashed 17 px (detail)	2026-11-20
+UA-74		dashed 198 px (main); restyle 89 px (main)	2026-11-20
+UA-77		dashed 198 px (main); restyle 89 px (main)	2026-11-20
+UG-C		dashed 111 px (main); restyle 176 px (main)	2026-11-20
+UG-E		dashed 111 px (main); restyle 176 px (main)	2026-11-20
+UG-N		dashed 111 px (main); restyle 176 px (main)	2026-11-20
+UG-W		dashed 111 px (main); restyle 176 px (main)	2026-11-20
+UGA		dashed 94 px (main); restyle 86 px (main)	2026-11-20
+UKR	B89 claimed (main)	dashed 209 px (main); restyle 53 px (main)	2026-11-20
+URY	B92 claimed/paint (main)		2026-11-20
+UY-AR	B85 claimed/paint (main)		2026-11-20
+UZ-AN		dashed 299 px (main); restyle 83 px (main)	2026-11-20
+UZ-BU		dashed 299 px (main); restyle 83 px (main)	2026-11-20
+UZ-FA		dashed 299 px (main); restyle 83 px (main)	2026-11-20
+UZ-JI		dashed 299 px (main); restyle 83 px (main)	2026-11-20
+UZ-NG		dashed 299 px (main); restyle 83 px (main)	2026-11-20
+UZ-NW		dashed 299 px (main); restyle 83 px (main)	2026-11-20
+UZ-QA		dashed 299 px (main); restyle 83 px (main)	2026-11-20
+UZ-QR		dashed 299 px (main); restyle 83 px (main)	2026-11-20
+UZ-SA		dashed 299 px (main); restyle 83 px (main)	2026-11-20
+UZ-SI		dashed 299 px (main); restyle 83 px (main)	2026-11-20
+UZ-SU		dashed 299 px (main); restyle 83 px (main)	2026-11-20
+UZ-TK		dashed 299 px (main); restyle 83 px (main)	2026-11-20
+UZ-TO		dashed 299 px (main); restyle 83 px (main)	2026-11-20
+UZ-XO		dashed 299 px (main); restyle 83 px (main)	2026-11-20
+UZB		dashed 767 px (main); restyle 578 px (main)	2026-11-20
+VAT		dashed 41 px (main)	2026-11-20
+VE-GE	VE-GE own-claimed (main)		2026-11-20
+VEN	B56 claimed (main)		2026-11-20
+VNM		dashed 102 px (main); restyle 159 px (main)	2026-11-20
+XAB		dashed 205 px (main); restyle 141 px (main); dashed 139 px (detail)	2026-11-20
+XAD		dashed 169 px (main); restyle 112 px (main); restyle 560 px (detail)	2026-11-20
+XSH	B19 claimed (main)	dashed 123 px (main); restyle 356 px (main)	2026-11-20
+XSO		dashed 164 px (main); restyle 119 px (main); dashed 742 px (detail)	2026-11-20
+XTR		dashed 104 px (main); restyle 73 px (main); dashed 327 px (detail)	2026-11-20
+YE-AB		restyle 68 px (main)	2026-11-20
+YE-AD		restyle 68 px (main)	2026-11-20
+YE-AM		restyle 68 px (main)	2026-11-20
+YE-BA		restyle 68 px (main)	2026-11-20
+YE-DA		restyle 68 px (main)	2026-11-20
+YE-DH		restyle 68 px (main)	2026-11-20
+YE-HD		restyle 68 px (main)	2026-11-20
+YE-HJ		restyle 68 px (main)	2026-11-20
+YE-HU		restyle 68 px (main)	2026-11-20
+YE-IB		restyle 68 px (main)	2026-11-20
+YE-JA		restyle 68 px (main)	2026-11-20
+YE-LA		restyle 68 px (main)	2026-11-20
+YE-MA		restyle 68 px (main)	2026-11-20
+YE-MR		restyle 68 px (main)	2026-11-20
+YE-MW		restyle 68 px (main)	2026-11-20
+YE-RA		restyle 68 px (main)	2026-11-20
+YE-SA		restyle 68 px (main)	2026-11-20
+YE-SD		restyle 68 px (main)	2026-11-20
+YE-SH		restyle 68 px (main)	2026-11-20
+YE-SN		restyle 68 px (main)	2026-11-20
+YE-SU		restyle 68 px (main)	2026-11-20
+YE-TA		restyle 68 px (main)	2026-11-20
+YEM		restyle 142 px (main)	2026-11-20

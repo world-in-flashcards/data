@@ -50,14 +50,14 @@ card shows).
 | file | kind | holds |
 |---|---|---|
 | `disputed_areas.tsv` | decided | each disputed area: who holds it, who claims it, and how the cards draw it |
-| `disputed_units.tsv` | decided | the subdivision cards that are their country's claiming unit for a disputed area |
+| `disputed_units.tsv` | decided | the subdivision cards that are their country's claiming unit for a disputed area; `acts_for` names the claimant a unit acts for where that is not its own country (Western Sahara's provinces, for Morocco, east of the Berm) |
 | `disputed_seas.tsv` | decided | which card draws each overlapping or jointly administered sea zone (Marine Regions ids) |
 | `subdivision_land.tsv`, `subdivision_trim.tsv` | decided | countries whose subdivisions are cut to Natural Earth's land, or to the country card's own outline |
 | `subdivision_water.tsv` | decided | subdivision cards drawn less a lagoon or bay their dataset draws as land |
 | `subdivision_overture_land.tsv` | decided | atoll countries whose units are their region's whole area cut to Overture's land |
 | `added_lakes.tsv` | decided | lakes Natural Earth omits, added from Overture, and the cards that draw them |
-| `panel_water.tsv`, `panel_zoom.tsv` | decided | detail panels drawn with Overture's water, or with a closer zoom and Overture's coast |
-| `disputed_cards.tsv`, `ice_shelf_cards.tsv`, `outlying_cards.tsv`, `panel_ring_cards.tsv`, `frame_clip_cards.tsv`, `zone_hole_countries.tsv` | measured | the cards (or countries) a map rule changes - disputed areas and border lines, Antarctica's ice shelves, outlying parts and the locator, detail-panel rings, cut panel frames, zone holes filled as internal water; the list decides which cards the rule applies to |
+| `panel_water.tsv`, `panel_zoom.tsv` | decided | detail panels drawn with Overture's water, or with a closer zoom and Overture's coast (a floor for every card too small to read with no useful panel, and Overture's reefs for the atolls) |
+| `disputed_cards.tsv`, `ice_shelf_cards.tsv`, `outlying_cards.tsv`, `panel_ring_cards.tsv`, `frame_clip_cards.tsv`, `frame_ring_cards.tsv`, `overlay_above_cards.tsv`, `locator_floor_cards.tsv`, `zone_hole_countries.tsv`, `gap_lake_countries.tsv`, `claimed_ground_countries.tsv`, `odd_tile_maps.tsv`, `weak_panel_cards.tsv`, `archipelago_sea_countries.tsv` | measured | the cards (or countries, or question maps) a map rule changes - disputed areas and border lines, Antarctica's ice shelves, outlying parts and the locator, detail-panel rings, cut panel frames, the ring drawn where a detail frame would be smaller than it or the panel no finer than the map, lines above the highlight redrawn on a shared map's overlay, the locator widened to at least 1.5 times the main map, zone holes filled as internal water, parent-gap rows a lake covers whole, ground a country's units draw but it does not hold drawn grey on their siblings, the question maps where a card odd one out on its tile moves, detail panels declined as no finer than 1.5 times the map and ringing nothing, and the archipelagos whose subdivision cards tint their country's sea; the list decides which cards the rule applies to |
 
 **The work itself**
 
