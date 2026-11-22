@@ -130,7 +130,7 @@ Each value's `#why` names its sources. Reuse of the tables must carry these attr
   (https://www.un.org/en/about-us/terms-of-use). <!-- D8: ruled 2026-11-16 by Jens Nordmark (@nordmarj) -->
 - **Wikidata** - CC0. **Natural Earth** - public domain.
 - **GADM** - unit codes (GID_1) as keys, and a few names and type words quoted as evidence; GADM's data itself is
-  not included (https://gadm.org/, free for academic and other non-commercial use).
+  not included (https://gadm.org/).
 - **ISO 3166** - codes as identifiers.
 - **Geography Stuff I Wanna Know** by AlmePond (https://github.com/AlmePond/Geography_Stuff_I_Wanna_Know) - the
   Anki deck that inspired this one and served as its model: its note schema and its design. It is also a minor data
