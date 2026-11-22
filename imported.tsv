@@ -212,6 +212,7 @@ AF-BDS	placeOri
 AF-BDS	status
 AF-BGL	callingCode
 AF-BGL	capitalCoord
+AF-BGL	capitalEng
 AF-BGL	capitalOri
 AF-BGL	category
 AF-BGL	ccTld
@@ -395,6 +396,7 @@ AF-LAG	placeOri
 AF-LAG	status
 AF-LOG	callingCode
 AF-LOG	capitalCoord
+AF-LOG	capitalEng
 AF-LOG	category
 AF-LOG	ccTld
 AF-LOG	currency
@@ -2865,6 +2867,7 @@ AZ-TOV	placeIPA
 AZ-TOV	status
 AZ-UCA	callingCode
 AZ-UCA	capitalCoord
+AZ-UCA	capitalEng
 AZ-UCA	capitalIPA
 AZ-UCA	category
 AZ-UCA	ccTld
@@ -5301,6 +5304,7 @@ BS-RI	placeIPA
 BS-RI	status
 BS-SA	callingCode
 BS-SA	capitalCoord
+BS-SA	capitalEng
 BS-SA	category
 BS-SA	ccTld
 BS-SA	currency
@@ -13808,6 +13812,7 @@ GB-NIR	category
 GB-NIR	ccTld
 GB-NIR	currency
 GB-NIR	descFlag1
+GB-NIR	descFlag2
 GB-NIR	language
 GB-NIR	otherLanguages
 GB-NIR	placeEng
@@ -14539,11 +14544,13 @@ GLP.2_1	placeOri
 GLP.2_1	status
 GM-B	callingCode
 GM-B	capitalCoord
+GM-B	capitalIPA
 GM-B	category
 GM-B	ccTld
 GM-B	currency
 GM-B	language
 GM-B	otherLanguages
+GM-B	placeIPA
 GM-B	status
 GM-L	callingCode
 GM-L	capitalCoord
@@ -19830,6 +19837,7 @@ JO-AZ	placeOri
 JO-AZ	status
 JO-BA	callingCode
 JO-BA	capitalCoord
+JO-BA	capitalEng
 JO-BA	capitalIPA
 JO-BA	category
 JO-BA	ccTld
@@ -21583,6 +21591,8 @@ KHM	status
 KI-G	callingCode
 KI-G	capitalCoord
 KI-G	capitalEng
+KI-G	capitalIPA
+KI-G	capitalOri
 KI-G	category
 KI-G	ccTld
 KI-G	currency
@@ -24398,6 +24408,7 @@ LY-JG	placeOri
 LY-JG	status
 LY-JI	callingCode
 LY-JI	capitalCoord
+LY-JI	capitalEng
 LY-JI	capitalIPA
 LY-JI	category
 LY-JI	ccTld
@@ -27777,6 +27788,7 @@ MR-13	placeOri
 MR-13	status
 MR-14	callingCode
 MR-14	capitalCoord
+MR-14	capitalEng
 MR-14	category
 MR-14	ccTld
 MR-14	currency
@@ -30830,6 +30842,7 @@ NG-OS	status
 NG-OY	callingCode
 NG-OY	capitalCoord
 NG-OY	capitalEng
+NG-OY	capitalIPA
 NG-OY	category
 NG-OY	ccTld
 NG-OY	currency
@@ -32020,6 +32033,7 @@ OM-BS	placeOri
 OM-BS	status
 OM-BU	callingCode
 OM-BU	capitalCoord
+OM-BU	capitalEng
 OM-BU	capitalIPA
 OM-BU	category
 OM-BU	ccTld
@@ -37762,6 +37776,7 @@ SC-11	status
 SC-12	callingCode
 SC-12	capitalCoord
 SC-12	capitalEng
+SC-12	capitalIPA
 SC-12	capitalOri
 SC-12	category
 SC-12	ccTld
@@ -38092,6 +38107,7 @@ SD-RS	placeOri
 SD-RS	status
 SD-SI	callingCode
 SD-SI	capitalCoord
+SD-SI	capitalEng
 SD-SI	category
 SD-SI	ccTld
 SD-SI	currency
@@ -39141,6 +39157,7 @@ SO-MU	otherLanguages
 SO-MU	status
 SO-NU	callingCode
 SO-NU	capitalCoord
+SO-NU	capitalEng
 SO-NU	category
 SO-NU	ccTld
 SO-NU	currency
@@ -43541,6 +43558,7 @@ TW-KHH	otherLanguages
 TW-KHH	status
 TW-KIN	callingCode
 TW-KIN	capitalCoord
+TW-KIN	capitalEng
 TW-KIN	capitalIPA
 TW-KIN	category
 TW-KIN	ccTld
@@ -43548,6 +43566,7 @@ TW-KIN	currency
 TW-KIN	otherLanguages
 TW-KIN	status
 TW-LIE	callingCode
+TW-LIE	capitalEng
 TW-LIE	capitalIPA
 TW-LIE	category
 TW-LIE	ccTld
@@ -43643,6 +43662,7 @@ TW-TXG	otherLanguages
 TW-TXG	status
 TW-YUN	callingCode
 TW-YUN	capitalCoord
+TW-YUN	capitalEng
 TW-YUN	category
 TW-YUN	ccTld
 TW-YUN	currency
@@ -46562,6 +46582,7 @@ VN-34	placeOri
 VN-34	status
 VN-35	callingCode
 VN-35	capitalCoord
+VN-35	capitalEng
 VN-35	category
 VN-35	ccTld
 VN-35	currency
@@ -46882,6 +46903,7 @@ WS-AA	ccTld
 WS-AA	currency
 WS-AA	language
 WS-AA	otherLanguages
+WS-AA	placeEng
 WS-AA	placeOri
 WS-AA	status
 WS-AL	callingCode
@@ -46912,6 +46934,8 @@ WS-FA	ccTld
 WS-FA	currency
 WS-FA	language
 WS-FA	otherLanguages
+WS-FA	placeEng
+WS-FA	placeOri
 WS-FA	status
 WS-GE	callingCode
 WS-GE	capitalCoord
@@ -46920,6 +46944,8 @@ WS-GE	ccTld
 WS-GE	currency
 WS-GE	language
 WS-GE	otherLanguages
+WS-GE	placeEng
+WS-GE	placeOri
 WS-GE	status
 WS-GI	callingCode
 WS-GI	capitalCoord
@@ -46929,6 +46955,7 @@ WS-GI	currency
 WS-GI	language
 WS-GI	otherLanguages
 WS-GI	placeEng
+WS-GI	placeOri
 WS-GI	status
 WS-PA	callingCode
 WS-PA	capitalCoord
@@ -46945,6 +46972,8 @@ WS-SA	ccTld
 WS-SA	currency
 WS-SA	language
 WS-SA	otherLanguages
+WS-SA	placeEng
+WS-SA	placeOri
 WS-SA	status
 WS-TU	callingCode
 WS-TU	capitalCoord
@@ -46963,6 +46992,8 @@ WS-VF	ccTld
 WS-VF	currency
 WS-VF	language
 WS-VF	otherLanguages
+WS-VF	placeEng
+WS-VF	placeOri
 WS-VF	status
 WS-VS	callingCode
 WS-VS	capitalCoord
@@ -47573,6 +47604,7 @@ ZA-WC	currency
 ZA-WC	language
 ZA-WC	otherLanguages
 ZA-WC	placeEng
+ZA-WC	placeIPA
 ZA-WC	placeOri
 ZA-WC	status
 ZAF	callingCode

@@ -27,6 +27,7 @@ capital district	capital district	district
 capital metropolitan city	special city	city	wp: Seoul is a teukbyeolsi, a special city
 capital territory	capital territory	territory	
 centrally-governed city	centrally-governed city	municipality	added 2026-09-20: Vietnam's five. The collision is the unit against the settlement it is named for, and `city` does not separate those - both are cities - while `municipality` names the administrative unit, which is what English Wikipedia calls them. `city` also disappears entirely on `Ho Chi Minh City`, whose name already carries the word, leaving that card's question and answer identical.
+chartered city	chartered city	city	added 2026-11-22: Addis Ababa and Dire Dawa against their own names, as `federal city` and `city with special status` (the inspection of 2026-11-22 found their capital -> place cards answering themselves)
 circuit	circuit	prefecture	wp: Hokkaido is a do, translated circuit
 city	city	city	
 city of republican significance	city of republican significance	city	added 2026-09-20: Astana, Almaty, Shymkent against their own names. `city` is what separates them from a region; the tier is on the card already, in `category`.
@@ -87,6 +88,7 @@ reef	reef	reef
 region	region	region	
 regional corporation	regional corporation	region	added 2026-09-20: Trinidad's ten. The unit is named by its governing body (the exception where English names the unit by its council), but a qualifier answers *which kind of place*, and that is a region.
 republic	republic	republic	
+self-declared state	self-declared state	state	added 2026-11-22: Abkhazia's country card (XAB) against the Autonomous Republic of Abkhazia, Georgia's card (GE-AB): `Abkhazia (state)` and `Abkhazia (Georgia)` (the Abkhazia ruling of 2026-11-22, by Jens Nordmark (@nordmarj)). `state` is the kind of place the card shows; the other self-declared states share no name with another card, so they take none
 self-governing city	self-governing city	city	added 2026-09-20: Tbilisi against its own name.
 sovereign state	sovereign state	country	added 2026-09-20 under the polity-type ruling of 2026-09-20: the country cards. `Georgia (country)` against `Georgia (United States)` is the established answer (the rule on qualifiers), and a learner separating two Georgias needs `country`, not the polity type the card's own category now carries.
 special administrative area	special administrative area	city	added 2026-09-30 for the category ruled 2026-09-30 by Jens Nordmark (@nordmarj) under the rule that a capital or city that is its own first-level unit takes the type its law gives it: Bangkok against its own name. The law makes it a special local administration without the status of a province, so the `province` the dataset's word gave contradicted the card; `city`, as for Minsk, Astana and Kyiv

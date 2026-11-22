@@ -351,6 +351,13 @@ Settled 2026-09-07. A qualifier is derived, not typed.
 - **A trailing qualifier such as `Georgia (country)` is part of the answer.**
 - What each type's qualifier says is set in `types.tsv`. Mexico City's qualifier is `district` (ruled
   2026-09-20 by Jens Nordmark (@nordmarj)). A qualifier that vanishes leaves a card with no unique answer.
+- <a id="abkhazia-ruling"></a>**The Abkhazia ruling** (2026-11-22, by Jens Nordmark (@nordmarj)). A de facto
+  state's country card that shares its name with a card of the state claiming it takes a type qualifier, as
+  `Georgia (country)` does: `self-declared state` has the qualifier `state` in `types.tsv`, so Abkhazia's card
+  answers `Abkhazia (state)` and Georgia's autonomous republic `Abkhazia (Georgia)`. The other self-declared
+  states share no name with another card and take none.
+- **A capital takes no country qualifier**: see [the capital-qualifier rule](#capital-qualifier-rule)
+  (2026-11-22).
 
 ---
 
@@ -362,6 +369,17 @@ Settled 2026-09-07. A qualifier is derived, not typed.
 
 `language` names **the languages that `placeOri` and `capitalOri` are written in**, in the same order,
 separated by ` / `. It is not the polity's official language. The IPA labels follow it.
+
+<a id="language-name-rule"></a>
+#### Language names (the language-name rule)
+
+Ruled 2026-11-22 by Jens Nordmark (@nordmarj). **A language is named by its English Wikipedia article title,
+without the word "language" or a disambiguator**, in `language`, `otherLanguages` and the IPA labels alike. Where
+the name in use is a redirect, the article it leads to gives the name: `Boro`, not `Bodo` (`Bodo language` leads
+to `Boro language (India)`). A language is named once on a card, never under two names. Examples: `Guarani`, not `Guaraní`; `Sotho`, not
+`Sesotho`; `Tswana`, not `Setswana`; `Northern Sotho`, not `Pedi` or `Sepedi`; `Northern Sámi`, not `Northern
+Sami`; `Mandarin Chinese`, not `Mandarin`; `Chewa`, not `Chichewa` or `Nyanja`; `Sinhala`, not `Sinhalese`;
+`Maldivian`, not `Dhivehi`; `Tetun`, not `Tetum`; `Kiribati`, not `Gilbertese`.
 
 <a id="region-language-rule"></a>
 #### A region with a language of its own
@@ -452,6 +470,13 @@ Ruled 2026-10-03 by Jens Nordmark (@nordmarj).
 - **An Indian state is bilingual in the order of its own official-language law** (ruled 2026-10-04 by Jens
   Nordmark (@nordmarj)). The principal language comes first. An additional official language follows where a
   stored source gives the name in it (`Telugu / Urdu`); where many are official, the most spoken one follows.
+- <a id="indian-english-ruling"></a>**The Indian English ruling** (2026-11-22, by Jens Nordmark (@nordmarj)).
+  Where a stored source makes English official in an Indian state or territory by its own law, `language` names
+  English after the native names' languages, as [the English rule](#english-rule) has it, and English leaves
+  `otherLanguages`. Where no stored source says so, English stays where the card has it. It applies to
+  Puducherry `Tamil / English`, Haryana `Hindi / Punjabi / English`, Ladakh `Hindi / English`, Delhi
+  `Hindi / Punjabi / English` (the Delhi Official Languages Act 2000) and Goa `Konkani / Marathi / English` (the
+  Goa, Daman and Diu Official Language Act, 1987).
 - **A constitution's alphabetical list of languages sets no order** (ruled 2026-10-03 by Jens Nordmark
   (@nordmarj)). Bolivia's departments take Spanish and their own language, the more spoken first: Potosí
   `Quechua / Spanish`.
@@ -565,6 +590,10 @@ that type**. Otherwise it is a `city`. It never takes its own name as its type.
 - Where no sovereign is asserted, `status` repeats the category: Western Sahara is a `disputed territory`;
   Somaliland and Northern Cyprus are `self-declared state`s; Bir Tawil is an `unclaimed territory` (ruled
   2026-09-20 by Jens Nordmark (@nordmarj)).
+- <a id="siachen-ruling"></a>**The Siachen ruling** (2026-11-22, by Jens Nordmark (@nordmarj)). The Siachen
+  Glacier's card asserts no sovereign: Natural Earth files it under a `Kashmir` that is no card, so its `admin`
+  is empty, as Palestine's is, and its `status` repeats its category, `disputed territory`. India's holding
+  and Pakistan's claim are in `note`.
 
 ---
 
@@ -612,6 +641,11 @@ Ruled 2026-09-15, with the later rulings marked.
 
 - **`capitalEng` is the capital's English Wikipedia article title**, with any disambiguator dropped (ruled
   2026-10-13 by Jens Nordmark (@nordmarj)): `Fort-Dauphin`, `Port Blair`.
+- <a id="capital-qualifier-rule"></a>**A capital carries no country qualifier (the capital-qualifier rule)**
+  (ruled 2026-11-22 by Jens Nordmark (@nordmarj)). `capitalEng` and `capitalOri` hold the city's name alone:
+  `Victoria`, not `Victoria (Canada)`; `La Paz / Chuqiyapu`. Capitals that share a name are told apart on the
+  card instead: the `capital -> place` front's caption names every other card of the same level whose capital
+  shares the city's name, whatever its country (British Columbia's names Labuan).
 - <a id="city-government-form-rule"></a>**`capitalOri` is the official native name that the city's own
   government uses** (ruled 2026-09-30 and narrowed 2026-10-01 by Jens Nordmark (@nordmarj)). Cells also call
   this *the capitalOri rule* and *the official-name rule*.
@@ -1486,7 +1520,7 @@ the cards that draw a dispute.
   - Their cards show the symbols the Russian-installed administrations adopted.
 - **Palestine holds Gaza and the West Bank**, with no stated claimant. Jerusalem and Bethlehem governorates are
   the claiming units for East Jerusalem, and for Gilo and Har Homa (ruled 2026-11-16 by Jens Nordmark
-  (@nordmarj)). **Palestine has no sovereign** (2026-11-15). Its occupation goes in `note`.
+  (@nordmarj)). **Palestine has no sovereign** (2026-11-15). Its occupation goes in `note`. **Nor has the Siachen Glacier a sovereign** ([the Siachen ruling](#siachen-ruling), 2026-11-22).
 - **Settled or not drawn**: South Korea's constitutional claim to the whole peninsula is not drawn. Swains Island
   is settled. Israel as a whole, the Latrun and Jerusalem no man's lands, Mount Scopus and Rockall are drawn as
   no one's claim. The UNDOF zone is Syria's claimed-not-held ground.
@@ -1548,7 +1582,7 @@ Each ruled by Jens Nordmark (@nordmarj). Tags are derived from the code, never h
   `WiF::level::other-area`.
 - **Country** (2026-11-08): the country card's name, nested, with accents folded:
   `WiF::country::Sao_Tome_and_Principe`. A dependency's subdivisions carry the sovereign's tag too. Palestine
-  has none, having no sovereign (2026-11-15).
+  has none, having no sovereign (2026-11-15), nor has the Siachen Glacier (2026-11-22).
 - **Type** (2026-10-29): every card carries one, a country card its polity type:
   `WiF::region-type::sovereign-state`.
 - **Nested only**, with no flat tags beside them (2026-11-09).
@@ -1611,6 +1645,7 @@ The names that cells use for a rule, and where the rule is.
 | the 2026-10-06 rule, the provisional-emblem rule | [Provisional](#provisional) |
 | the 2026-10-18 convention, the English-IPA convention | [The IPA conventions of 2026-10-18](#ipa-8) |
 | the (-ය) stand-alone convention | [Sri Lanka](#stand-alone-convention) |
+| the Abkhazia ruling | [Qualifiers](#abkhazia-ruling) |
 | the accent rule, the accent convention, the Commonwealth convention | [The IPA conventions of 2026-10-18](#ipa-9) |
 | the additional-official-language ruling, the Mauritius ruling, the Sámi ruling | [Rulings on languages by country](#country-language-rulings) |
 | the Addu ruling | [The Addu ruling](#addu-ruling) |
@@ -1626,6 +1661,7 @@ The names that cells use for a rule, and where the rule is.
 | the capital conventions, What a capital is | [What a capital is](#capital-conventions) |
 | the capital rule (pictures) | [The capital rule](#capital-rule) |
 | the capital's-insignia rule, the coextensive-capital ruling, the coextensive-capital rule | [The coextensive-capital ruling](#coextensive-capital-ruling) |
+| the capital-qualifier rule | [The capital's names](#capital-qualifier-rule) |
 | capitalisation ruling (2026-10-01) | [The title rule](#title-rule) |
 | the capitalOri rule, the city-government-form rule, the official-name rule | [The capital's names](#city-government-form-rule) |
 | the capitalOri ruling | [The capital's names](#city-government-form-rule) |
@@ -1665,6 +1701,7 @@ The names that cells use for a rule, and where the rule is.
 | the hand-box rule | [Lettering the detector missed or misread is boxed by hand](#hand-boxes) |
 | the historical-range rule, the historical-picture ruling | [Historical range](#historical-range) |
 | the Iceland ruling, the 'no seat in law' rule | [No seat in law](#no-seat-in-law) |
+| the Indian English ruling | [Rulings on languages by country](#indian-english-ruling) |
 | the IPA convention | [The IPA convention](#ipa-convention) |
 | the IPA ruling (2026-09-30) | [The bilingual rule](#bilingual-rule) |
 | the Japanese-emblem ruling | [Stylised characters](#japanese-emblem-ruling) |
@@ -1672,6 +1709,7 @@ The names that cells use for a rule, and where the rule is.
 | the Keelung ruling | [The Keelung ruling](#keelung-ruling) |
 | the lake rule, the world lake rule, the ordinary lake rule | [The lake rule](#lake-rule) |
 | the language rule (2026-10-01) | [`language`: the language of the native names](#language-field) |
+| the language-name rule | [Language names](#language-name-rule) |
 | the Latin ruling, the Latin-legibility rule, the other-script rule | [The Latin-legibility ruling](#latin-legibility-ruling) |
 | the Latin-legibility ruling, the legibility ruling, the Latin-lettering rule, the script ruling, the masking rule of 2026-09-17/26 | [The Latin-legibility ruling](#latin-legibility-ruling) |
 | the level-0 rule, the level-0 polity-type rule, the polity-type ruling | [A country card's category](#polity-type-rule) |
@@ -1728,6 +1766,7 @@ The names that cells use for a rule, and where the rule is.
 | the shared-flag ruling, the shared-flag rule | [The shared-flag ruling](#shared-flag-ruling) |
 | the shared-name convention, the shared-name ruling | [The same-name rule](#same-name-rule) |
 | the short-form convention | [The short-form convention](#short-form) |
+| the Siachen ruling | [Status](#siachen-ruling) |
 | the skip-when-unsure ruling | [Skip when unsure](#skip-when-unsure) |
 | the specific-term rule, the 2026-09-18 ruling, the category rule | [The specific-term rule](#specific-term-rule) |
 | the station rule | [The station rule](#station-rule) |
@@ -1792,3 +1831,4 @@ field the cell is about tells you which one applies.
 | 2026-11-15 | [type phrase never masked](#type-phrase-never-masked); [quote trimming](#quote-trim); licence credits; Palestine's sovereignty |
 | 2026-11-16 | [third level](#other-area); Malta; Palestine's governorates; Uganda; [line weight](#line-weight); Jerusalem capital; no local-tier tag |
 | 2026-11-17 | [`#why` content-only](#dash-sentinel); [if official, it is kept](#portugal-ruling); [Ghana convention confirmed](#ghana-convention); [IPA rulings](#ipa-2026-11-17); Palestine's governorates' flags and emblems; edges between datasets accepted |
+| 2026-11-22 | [capital qualifier](#capital-qualifier-rule); [Indian English](#indian-english-ruling); [language names](#language-name-rule); [Siachen](#siachen-ruling); [Abkhazia](#abkhazia-ruling) |
