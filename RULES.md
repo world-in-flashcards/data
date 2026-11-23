@@ -126,14 +126,20 @@ that one card is in that card's `#why`.
 <a id="codes"></a>
 ### Card codes
 
-- A country card is keyed on its **ISO 3166-1 alpha-3** code. Units without one take a minted code, such as
-  `XTR` (Transnistria), `XQ*` (the Antarctic claims) or `XRK` (Rockall).
+- A country card is keyed on its **ISO 3166-1 alpha-3** code. <a id="non-iso-codes"></a>**A unit without one
+  keeps the code its dataset gives** (Natural Earth's, as `KOS` or `CYN`; GADM's `XAD`): having no ISO code is
+  no reason to refuse a unit. **A code is minted, in ISO's user-assigned range `XAA`–`XZZ`, only where no
+  dataset gives one**, checked against every code the datasets and the tables hold: `XTR` (Transnistria), `XQ*`
+  (the Antarctic claims, 2026-10-03), `XQN` and `XRK` (accepted 2026-10-04 by Jens Nordmark (@nordmarj)), `XNI`
+  (Null Island).
 - A subdivision card is keyed on its **ISO 3166-2** code wherever the code is agreed by the datasets,
   confirmed by a reading, or ruled. Otherwise it keeps its **GADM `GID_1`** (ruled 2026-10-21 by Jens
   Nordmark (@nordmarj): "Cards move to ISO codes wherever possible"). `gadm_iso.tsv` records which GADM unit
   each ISO-keyed card is drawn from. The GID stays the join key to GADM.
 - **A code that a current source uses before ISO does is used provisionally** (2026-09-14). This can be an
-  official number or an invented code, and it is replaced by ISO's code once ISO assigns one.
+  official number or an invented code, and it is replaced by ISO's code once ISO assigns one. Madagascar's 24
+  regions, which no register codes, take `MG-<n>`, n the number of the region's OCHA COD-AB P-code, matched to
+  the drawn region by geometry (2026-09-16).
 - **A ruled code wins over the agreed key** (ruled 2026-09-30 and 2026-10-21 by Jens Nordmark (@nordmarj)).
   Bonaire, Saba and Sint Eustatius show `BQ-BO`, `BQ-SA` and `BQ-SE`; Svalbard shows `NO-21`. A unit whose
   ground a repair redrew keeps the register's code (`BS-SW`, `GN-K`, `GN-N`, `KW-KU`).
@@ -269,6 +275,10 @@ Conventions of 2026-09-15, as amended since.
 
 - `placeOri` is the name **in the language and script of the place**: the country's script, and the
   language(s) that [the language rules](#languages) give.
+- <a id="several-native-names"></a>**Where a dataset stores several native names in one cell, the card's seed
+  takes the first**, unless the country or code is listed: Armenia's Armenian, Korea's Hangul, China's
+  Simplified (the second), Heilongjiang's first, its cell being Simplified-first (2026-09-11). A cell in
+  `notes.tsv` wins over the seed.
 - <a id="short-form"></a>**The short-form convention** (2026-09-15; **overturned in part on 2026-10-01**). A
   native name used to be written without its type word (`Шумен`, not `Област Шумен`). It still is, wherever
   `placeEng` carries no type word. Where `placeEng` carries one, [the type-word rule](#type-word-rule) now
@@ -1355,6 +1365,13 @@ a threshold worked out when the map is drawn.**
   - Palestine: its 16 governorates (2026-11-16).
   - Egypt keeps GADM's governorates, Luxor taking the 2009 law's ground (2026-10-20).
   - Uganda keeps its four regions (2026-11-16).
+  - Madagascar: its 24 current regions, from Overture (2026-09-16).
+  - South Sudan (with Greater Pibor and Ruweng), Timor-Leste (with Atauro, the 14th municipality) and French
+    Guiana's three arrondissements (with Saint-Georges, of 2022): from Overture, the one dataset that draws the
+    current units (2026-10-03).
+  - Iraq's Halabja Governorate: the ground Law No. 7 of 2025 gives it, Overture's Halabja county with Bamo
+    subdistrict and the Sirwan valley, one contiguous territory (ruled 2026-10-03 by Jens Nordmark
+    (@nordmarj)).
 - <a id="other-area"></a>**A governed unit off the tier a country is drawn at takes a third level, "an area
   within a country"** (ruled 2026-11-16 by Jens Nordmark (@nordmarj)). The West Bank and Gaza are examples. It
   is drawn without the subdivisions inside it, as a country card is.
@@ -1367,6 +1384,13 @@ a threshold worked out when the map is drawn.**
   - The Halaib Triangle given to Red Sea Governorate (2026-11-12).
   - Ground Overture's new release left in no region given back (2026-10-27).
   - Isla de Perejil, held by nobody, cut out of Ceuta (2026-11-12).
+- <a id="repair-undoes-defect"></a>**A repair undoes only its defect** (2026-09-07): a truncated name is extended
+  to its full form as the dataset spells it, a misspelt type word corrected and nothing else, a separator made
+  the column's own. Where another authority spells the name differently, that is a naming decision for
+  `notes.tsv`, not for the repair.
+- <a id="physical-feature"></a>**A physical feature is not a unit** (2026-09-07): a dataset's first-level row
+  typed as one (GADM's water body, Lake Ohrid) gets no card, keyed on the type, never a name. A national park
+  that tiles its country's territory (Northeast Greenland) is a unit and stays.
 - **An atoll country's units are their region's whole area cut to the land** (the Maldives, the Marshall
   Islands; 2026-10-19).
 
@@ -1387,6 +1411,11 @@ a threshold worked out when the map is drawn.**
   I Island's and Serranilla Bank's come from Overture, because Natural Earth misplaces them (2026-10-11,
   2026-10-17).
 - **Remote islands get a card wherever a dataset draws them** (2026-09-14).
+- **An ISO code covering several Natural Earth units takes them all**: Svalbard and Jan Mayen (`SJM`) takes Jan
+  Mayen, which Natural Earth files under Norway, as ISO 3166-1 and Marine Regions do.
+- <a id="null-island"></a>**Null Island is an easter-egg card** (ruled 2026-11-19 by Jens Nordmark (@nordmarj)):
+  Natural Earth's deliberate 1 m² polygon at 0°, 0° (Wikidata Q16896007), `XNI`, a `fictional island`, status
+  `fictional place`, capital `-`; the map card only, tagged `WiF::feature::easter-egg`, with no continent tag.
 
 <a id="water"></a>
 ### Water
@@ -1418,6 +1447,9 @@ a threshold worked out when the map is drawn.**
     assigned by the sovereign field.
   - **An island's zone is tinted on its sovereign's card only where the island is on the main map or in the
     detail panel** (2026-10-13, 2026-10-16).
+  - <a id="subdivision-zones"></a>**A subdivision card tints its nation's whole sea zones or none**, never a
+    share of them. The one listed exception is Oecusse (`TL-OE`), whose own outlying zone is tinted on its card
+    (ruled 2026-10-16 by Jens Nordmark (@nordmarj)).
 - **A contested or joint sea is tinted on the card that holds it**, as on land (ruled 2026-11-12 by Jens
   Nordmark (@nordmarj)). `disputed_seas.tsv` names each zone's holder. Where no one state holds it (the South
   China Sea), no card tints it.
@@ -1514,13 +1546,21 @@ the cards that draw a dispute.
 - **A subdivision card is hatched only where it is itself the claimant's unit for the area** (Quneitra for the
   Golan).
 - **A claimant's subdivision gets a card under the claimant**, its `note` explaining the status: Russia's six
-  under GOST codes, Taiwan Province `CN-TW`, Guayana Esequiba `VE-GE`.
+  under GOST 7.67-2024's codes (`RU-KRY`, `RU-SVS`, `RU-DON`, `RU-LUG`, `RU-ZAP`, `RU-HRS`), Taiwan Province
+  under ISO 3166-2's `CN-TW`, Guayana Esequiba under a minted `VE-GE` (ruled 2026-10-08 by Jens Nordmark
+  (@nordmarj)). Each is drawn as the ground it claims: the Ukrainian card's ground, Taiwan less Kinmen and
+  Matsu, Natural Earth's Guayana Esequiba.
   - The four oblasts annexed in 2022 are Russia's claim, not under its control: Ukraine's ground, drawn as
     claimed on Russia's cards (ruled 2026-10-22 by Jens Nordmark (@nordmarj)).
   - Their cards show the symbols the Russian-installed administrations adopted.
 - **Palestine holds Gaza and the West Bank**, with no stated claimant. Jerusalem and Bethlehem governorates are
   the claiming units for East Jerusalem, and for Gilo and Har Homa (ruled 2026-11-16 by Jens Nordmark
-  (@nordmarj)). **Palestine has no sovereign** (2026-11-15). Its occupation goes in `note`. **Nor has the Siachen Glacier a sovereign** ([the Siachen ruling](#siachen-ruling), 2026-11-22).
+  (@nordmarj)). **Palestine has no sovereign** (ruled 2026-11-08 by Jens Nordmark (@nordmarj)). Its occupation goes in `note`. **Nor has the Siachen Glacier a sovereign** ([the Siachen ruling](#siachen-ruling), 2026-11-22).
+- <a id="overture-parts"></a>**A disputed area Natural Earth's layer lacks is a part of an Overture region**
+  (accepted 2026-10-22 by Jens Nordmark (@nordmarj)): the one detached part of the region, named by its ISO
+  3166-2 code, that covers the villages' GeoNames points. The four Armenia-Azerbaijan exclaves are drawn so:
+  the Qazax exclaves and Karki as claimed by Azerbaijan, not held; Artsvashen given back to Gadabay District,
+  which holds it.
 - **Settled or not drawn**: South Korea's constitutional claim to the whole peninsula is not drawn. Swains Island
   is settled. Israel as a whole, the Latrun and Jerusalem no man's lands, Mount Scopus and Rockall are drawn as
   no one's claim. The UNDOF zone is Syria's claimed-not-held ground.
@@ -1582,7 +1622,7 @@ Each ruled by Jens Nordmark (@nordmarj). Tags are derived from the code, never h
   `WiF::level::other-area`.
 - **Country** (2026-11-08): the country card's name, nested, with accents folded:
   `WiF::country::Sao_Tome_and_Principe`. A dependency's subdivisions carry the sovereign's tag too. Palestine
-  has none, having no sovereign (2026-11-15), nor has the Siachen Glacier (2026-11-22).
+  has none, having no sovereign (2026-11-08), nor has the Siachen Glacier (2026-11-22).
 - **Type** (2026-10-29): every card carries one, a country card its polity type:
   `WiF::region-type::sovereign-state`.
 - **Nested only**, with no flat tags beside them (2026-11-09).
@@ -1620,6 +1660,13 @@ Each ruled by Jens Nordmark (@nordmarj). Tags are derived from the code, never h
   - They are joined to a region on codes, never on a page's name.
   - About its own unit, a compiler's page is stronger than a sentence about a whole country. It does not
     outrank a law, a government's own page or the region's own article.
+- <a id="map-credits"></a>**Every map credits its boundary data and that data's licence** (ruled 2026-11-15 by
+  Jens Nordmark (@nordmarj)): geoBoundaries per country file, as its catalogue gives the file's source and
+  licence (a file whose terms are unread is not used); the World Bank and OCHA COD-AB with theirs. A map drawn
+  from OpenStreetMap-derived data shows "Contains data from OpenStreetMap (ODbL)" under the map, never behind a
+  click. The share-alike maps (Austria's and Greenland's subdivisions) are kept and said to be CC BY-SA.
+- <a id="gadm-credit"></a>**GADM is credited by a plain attribution, "GADM 4.1, https://gadm.org/"** (ruled
+  2026-11-22 by Jens Nordmark (@nordmarj)); Austria's subdivisions credit the Government of Austria, CC BY-SA 2.0.
 - **GeoNames is evidence and coordinates, never an authority** (2026-10-18). It is joined on its own Wikidata
   and Wikipedia link rows. A city's point comes only from a populated-place feature.
 - <a id="quote-trim"></a>**A quote from a page that is not openly licensed, or from FOTW, is cut to its first 25
@@ -1789,10 +1836,11 @@ field the cell is about tells you which one applies.
 
 | date | rulings |
 |---|---|
-| 2026-09-07 | [naming policy](#naming-policy), [qualifiers](#qualifiers) |
+| 2026-09-07 | [naming policy](#naming-policy), [qualifiers](#qualifiers); [a repair undoes only its defect](#repair-undoes-defect); [a physical feature is not a unit](#physical-feature) |
+| 2026-09-11 | [several native names in one cell](#several-native-names) |
 | 2026-09-14 | [country-name rule](#country-name-rule); [Montenegro ruling](#montenegro-ruling); provisional codes; seal and arms both; remote islands; `XAD` |
 | 2026-09-15 | [IPA convention](#ipa-convention) and its parts; [what a capital is](#capital-conventions); [placeOri conventions](#placeori-conventions); [local-language names](#local-language-name); geosiwk as a source; [adjudicated values](#adjudicated) |
-| 2026-09-16 | [masking rules](#masking-rules-2026-09-16): geographic outline, unmaskable pictures kept, hand boxes |
+| 2026-09-16 | [masking rules](#masking-rules-2026-09-16): geographic outline, unmaskable pictures kept, hand boxes; Madagascar's regions and their codes |
 | 2026-09-17 | [Latin legibility](#latin-legibility-ruling); [council's flag](#council-flag-ruling); [coextensive capital](#coextensive-capital-ruling); [shared flag](#shared-flag-ruling); [fair use](#fair-use-ruling) (superseded); [historical range](#historical-range); a picture in the wrong role is moved |
 | 2026-09-18 | [specific term](#specific-term-rule), [local form](#local-form-ruling), [rayon](#rayon-ruling); [Cook Islands](#cook-islands-ruling); [status](#status), [Sevastopol](#sevastopol-ruling); `category` editable |
 | 2026-09-20 | [Western Sahara](#western-sahara-ruling); [country card's category and status](#status); Mexico City's qualifier; [seeds](#seed) |
@@ -1804,31 +1852,32 @@ field the cell is about tells you which one applies.
 | 2026-09-30 | [title rule](#title-rule); [none-found (registry fields)](#none-found-convention); [several currencies](#several-currencies); NANP; [several languages](#several-languages-rule); [bilingual](#bilingual-rule); [Haiti](#haiti-ruling); [capitalOri](#city-government-form-rule); [a city as its own unit](#rule-7); notes on sovereignty; Gibraltar; ruled codes; closing a question |
 | 2026-10-01 | [type word](#type-word-rule); [English rule](#english-rule); [country card](#country-card-rule); [nationwide](#nationwide-rule); [skip when unsure](#skip-when-unsure); [otherLanguages narrowed](#what-counts), [everyday language](#everyday-language-rule), [national recognition](#national-recognition-rule); [none-found (otherLanguages)](#none-found-convention); [no seat in law (Iceland)](#no-seat-in-law); capitalOri narrowed; title capitalisation; Omani logos |
 | 2026-10-02 | [Saba](#saba-ruling); [Sámi](#nationwide-rule); pre-2000 census; [Tabuk](#tabuk-ruling) |
-| 2026-10-03 | [working language](#working-language-ruling); [Tamazight](#tamazight-ruling); [Gambia](#title-rule); [Portugal](#portugal-ruling); Bolivia's order; [defunct units, Northern Cyprus](#defunct); China's ban; Antarctic claims |
-| 2026-10-04 | [seat rule](#seat-rule); Mauritius; India; `XQN`, Rockall |
+| 2026-10-03 | [working language](#working-language-ruling); [Tamazight](#tamazight-ruling); [Gambia](#title-rule); [Portugal](#portugal-ruling); Bolivia's order; [defunct units, Northern Cyprus](#defunct); China's ban; Antarctic claims; South Sudan, Atauro and French Guiana from Overture; Halabja |
+| 2026-10-04 | [seat rule](#seat-rule); Mauritius; India; `XQN`, Rockall; [minted codes](#non-iso-codes) `XQN`, `XRK` |
 | 2026-10-05 | fund codes and no own value ([registry](#registry-none)) |
 | 2026-10-06 | [provisional emblems](#provisional); [pre-masked copies](#premasked); [GPAA/CERS](#gpaa-cers-rule); scars accepted; [2,000 km framing](#framing) |
 | 2026-10-07 | de facto states; seal and arms restated; Tibet |
-| 2026-10-08 | [disputed areas](#disputed) |
+| 2026-10-08 | [disputed areas](#disputed); the claimant cards' codes |
 | 2026-10-11 | [overseas at 400 km](#overseas) |
 | 2026-10-13 | [ice shelves](#ice-shelves); [no seat in law](#no-seat-in-law); [capitalEng](#capital-names); [city-government form](#city-government-form-rule); [council logo](#council-flag-ruling), [appointed administration](#appointed-administration), [generic logo](#generic-logo-ruling); [compose and crop](#compose); [IPA by cutting](#whole-name-rule); [Albanian first](#albanian-first-ruling); Mali `-`; framing of cut parts, locator dots |
-| 2026-10-16 | [both panels](#panels); [panel floors](#panel-zoom) |
+| 2026-10-16 | [both panels](#panels); [panel floors](#panel-zoom); [a subdivision's sea zones, Oecusse](#subdivision-zones) |
 | 2026-10-17 | [panel rings](#panel-rings); Overture panels; rivers; Serranilla |
 | 2026-10-18 | [joined IPA, same spelling](#joined-ipa); [IPA conventions](#ipa-2026-10-18); [provisional flags](#provisional); [emblem as flag's charge](#emblem-is-flags-charge); non-English infobox files; Guernsey parishes; amanah logos; GeoNames |
 | 2026-10-19 | [R1](#r1); [IPA by rule](#ipa-by-rule); [dzongkhag town](#dzongkhag-town-ruling); [Addu](#addu-ruling); [FOTW images](#fotw-images); León and Rivas; homograph exonyms; open year ranges; atoll countries; English always shown |
 | 2026-10-20 | [entity keys and GUIDs](#entity-keys); [licence](#licence-ruling); [English UK line](#english-uk-line); [vocalised IPA](#vocalised-ipa); [WikiPron join](#wikipron-join); reorganised units; Burkina Faso `-` |
 | 2026-10-21 | [ISO codes for cards](#codes); licence details; FOTW terms; PCGN; Beyla; new units' no-image |
-| 2026-10-22 | [geometry rule](#geometry-rule); [held ground](#held-ground); the 2022 oblasts; Algeria, Tok Pisin, Somali |
+| 2026-10-22 | [geometry rule](#geometry-rule); [held ground](#held-ground); the 2022 oblasts; Algeria, Tok Pisin, Somali; [disputed areas from Overture's parts](#overture-parts) |
 | 2026-10-23 | [our own redraws](#redraws) |
 | 2026-10-28 | North Macedonia; Kazakhstan's capitals; Botswana; Saint-Barthélemy; Haa Dhaalu |
 | 2026-10-29 | [M49 and tags](#tags); capital dot colour |
 | 2026-11-01 | [native audio](#audio-rule); [panel frames](#panel-frames); APIs and robots.txt |
 | 2026-11-07 | [English audio](#english-audio-rule); island panels take Overture's coast |
-| 2026-11-08 | [added lake replaces NE's copy](#water); more audio sources; country tag |
+| 2026-11-08 | [added lake replaces NE's copy](#water); more audio sources; country tag; Palestine's sovereignty |
 | 2026-11-09 | [tags](#tag-rules) |
 | 2026-11-11 | Kiribati; Perim; Greenland's islands |
 | 2026-11-12 | contested seas; zone holes; Halaib; Perejil |
-| 2026-11-15 | [type phrase never masked](#type-phrase-never-masked); [quote trimming](#quote-trim); licence credits; Palestine's sovereignty |
+| 2026-11-15 | [type phrase never masked](#type-phrase-never-masked); [quote trimming](#quote-trim); licence credits; [map credits](#map-credits) |
 | 2026-11-16 | [third level](#other-area); Malta; Palestine's governorates; Uganda; [line weight](#line-weight); Jerusalem capital; no local-tier tag |
 | 2026-11-17 | [`#why` content-only](#dash-sentinel); [if official, it is kept](#portugal-ruling); [Ghana convention confirmed](#ghana-convention); [IPA rulings](#ipa-2026-11-17); Palestine's governorates' flags and emblems; edges between datasets accepted |
-| 2026-11-22 | [capital qualifier](#capital-qualifier-rule); [Indian English](#indian-english-ruling); [language names](#language-name-rule); [Siachen](#siachen-ruling); [Abkhazia](#abkhazia-ruling) |
+| 2026-11-19 | [Null Island](#null-island) |
+| 2026-11-22 | [capital qualifier](#capital-qualifier-rule); [Indian English](#indian-english-ruling); [language names](#language-name-rule); [Siachen](#siachen-ruling); [Abkhazia](#abkhazia-ruling); [GADM's attribution](#gadm-credit) |

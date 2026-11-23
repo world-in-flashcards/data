@@ -45,6 +45,21 @@ card shows).
 | `hotw_links.tsv` | decided | the same for Heraldry of the World; empty, as the site could not be read |
 | `geosiwk_hand.tsv` | decided | the ruling on each note of the model deck (Geography Stuff I Wanna Know) that no name could match to a card |
 
+**What the boundary datasets are taken to say**
+
+| file | kind | holds |
+|---|---|---|
+| `dataset_codes.tsv` | decided | which card code a dataset's unit takes where the dataset carries none, or carries a defective one: Overture's divisions, COD-AB's P-codes, the World Bank's codes, geoBoundaries' damaged codes, Natural Earth's units refiled or merged |
+| `unit_items.tsv` | decided | the Wikidata item a unit is, where no dataset joins it; and the items refused as some other place |
+| `level0_units.tsv` | decided | the country-level cards with no ISO code or no plain dataset row: the Antarctic claims, the de facto states, Rockall, Null Island and the rest, each with the dataset unit it is drawn from and a point it must cover |
+| `claimant_units.tsv` | decided | the subdivision cards a claimant state draws over ground another state's card holds, each with how its ground is drawn |
+| `reorganised_units.tsv` | decided | units a reorganisation created that no dataset draws yet, carved or cut from the units that do |
+| `held_ground.tsv` | decided | ground drawn as one card's though its dataset files it elsewhere or nowhere: disputed areas that are whole cards, exclaves, land a release dropped |
+| `geometry_repairs.tsv` | decided | defects in GADM, geoBoundaries and Natural Earth geometry and how each is mended - ground filed under the wrong unit, swapped rows, missing islands - each guarded by points from another source |
+| `text_repairs.tsv` | decided | defects in GADM's text - names cut at 32 characters, misspelt type words, native names joined without a separator - and which half of a two-script native name is kept |
+| `dataset_types.tsv` | decided | the category a dataset's type word, or a country's whole dataset, gives its units |
+| `source_terms.tsv` | reference | the source and licence each geoBoundaries country file states, and GADM's exception for Austria |
+
 **How the maps are drawn**
 
 | file | kind | holds |
