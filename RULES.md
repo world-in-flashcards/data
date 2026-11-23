@@ -110,6 +110,11 @@ that one card is in that card's `#why`.
 <a id="file-outranks-ruling"></a>
 - **A file always outranks a no-image ruling.** A ruling that a region has no flag stands only until a file
   is found.
+<a id="dropped-seed-rule"></a>
+- **A seed ruling dropped on evidence is never written back** (ruled 2026-09-27 by Jens Nordmark (@nordmarj);
+  *the dropped-seed rule*). Where evidence about one unit showed a flag in use, its no-flag ruling from the seed
+  is removed and listed in `no_image_overturned.tsv`; re-seeding skips it. The seed's note about the rest of the
+  country stays as it was read.
 <a id="does-more"></a>
 - **Licence terms never cost function.** Where two sources are equally correct, the one that does more is
   taken (the deeper tier, the more current data), never the one with the freer licence. The exception is the
@@ -696,6 +701,12 @@ Ruled 2026-09-15, with the later rulings marked.
 - **A capital is filled where at least two of the three sources agree, and no source that answers names another
   city.** A disagreement becomes a question.
 - **`-` is written only where a source says there is none.** Silence is missing data.
+- <a id="twin-town-exception"></a>**A Natural Earth place within 5 km of Overture's capital names Overture's
+  place, except twin towns** (2026-09-14; *the twin-town exception*). A pair of towns that are separate places is
+  named row by row in `card_rulings.tsv` (Nazareth and Nof HaGalil, San Juan and Cataño).
+- <a id="lagging-sources"></a>**Sources that lag together are no evidence** (2026-09-14). Where the sources agree
+  on the capital of a unit merged since they were made, the agreement may only show the old capital, so the
+  capital is withheld until read against the law that merged it (Vietnam's 22 merged provinces).
 
 <a id="r1"></a>
 ### The capital's coordinate: rule R1
@@ -903,7 +914,7 @@ Ruled 2026-10-20 by Jens Nordmark (@nordmarj). WikiPron's lists are used only to
 ## 10. Audio
 
 <a id="audio-rule"></a>
-### Native recordings (the rule of 2026-11-01)
+### Native recordings (the rule of 2026-11-01, the native-recordings rule)
 
 Ruled 2026-11-01 by Jens Nordmark (@nordmarj). `placeAudio` and `capitalAudio` hold one recording per half of the
 native name, chosen in `audio.tsv`.
@@ -1258,6 +1269,13 @@ non-commercially.**
 On the question side, lettering that names the region is painted out. The picture as published is kept in the
 `…Full` field for the answer side.
 
+<a id="masking-scripts"></a>
+### Which scripts are read (the masking-script rule)
+
+Ruled 2026-09-28 by Jens Nordmark (@nordmarj). A picture's lettering is read in its country's scripts, then in
+every script the card's own native name is written in. Malaysia's and Brunei's are read in Jawi too (2026-09-26).
+A recogniser that is only a finder counts a reading only where it reads the card's name.
+
 <a id="masking-rules-2026-09-16"></a>
 ### The masking rules of 2026-09-16/17
 
@@ -1367,7 +1385,14 @@ a threshold worked out when the map is drawn.**
   it (ruled 2026-09-26 by Jens Nordmark (@nordmarj)). Then it moves to the passing source closest to the
   published area (*the closest-area rule*).
   - A replacement may not be coarser than 4 card pixels between vertices.
-  - It must draw every island that two other sources draw at 5 px or more (2026-09-27).
+  - <a id="island-rule"></a>It must draw every island that two other sources draw at 5 px or more (2026-09-27;
+    *the island rule*).
+  - <a id="outline-holds"></a>**Where no source passes, or the sources split along a sovereignty line, the card
+    keeps Natural Earth's outline** (ruled 2026-09-26 by Jens Nordmark (@nordmarj); *the outline holds*).
+  - **Single cards ruled** (each by Jens Nordmark (@nordmarj)): the Caribbean Netherlands takes GADM, Hong Kong
+    the World Bank, Turkmenistan keeps Natural Earth (2026-09-27); Armenia keeps COD-AB, the island rule not
+    applied to it, fill following the ground (2026-10-11); the Republic of the Congo takes the World Bank's
+    outline (2026-10-27).
 - **Where a country's card and its subdivisions come from different datasets, their edges are left as drawn**
   (ruled 2026-11-16, accepted 2026-11-17 by Jens Nordmark (@nordmarj)).
 - **Reorganised units** (each ruled by Jens Nordmark (@nordmarj)):
@@ -1456,7 +1481,8 @@ a threshold worked out when the map is drawn.**
   `subdivision_water.tsv` lists (ruled 2026-09-27 by Jens Nordmark (@nordmarj)). A row below the default size
   floor names its own ruling.
 - **Sea zones**:
-  - **Internal waters are tinted like the zone** (2026-09-25).
+  - <a id="internal-waters-rule"></a>**Internal waters are tinted like the zone** (2026-09-25; *the
+    internal-waters rule*).
   - **A zone hole within 12 nm of the land is internal water**, for the countries `zone_hole_countries.tsv`
     lists (2026-11-12).
   - **An unclaimed EEZ zone goes to the card whose land lies at least 90% within 30 km of it.** It is never
@@ -1676,6 +1702,10 @@ Each ruled by Jens Nordmark (@nordmarj). Tags are derived from the code, never h
   - They are joined to a region on codes, never on a page's name.
   - About its own unit, a compiler's page is stronger than a sentence about a whole country. It does not
     outrank a law, a government's own page or the region's own article.
+  - <a id="fotw-joins"></a>**A FOTW page joins a region in this order** (2026-09-26): Wikidata's P3089, then
+    the region's own Wikipedia page citing it, then an ISO code in the page's text, then a reader's link in
+    `fotw_links.tsv` (approved 2026-09-27 by Jens Nordmark (@nordmarj)), used only where no code join answers.
+    A Wikipedia citation a reading shows to be another unit's page is refused for that pair only.
 - <a id="map-credits"></a>**Every map credits its boundary data and that data's licence** (ruled 2026-11-15 by
   Jens Nordmark (@nordmarj)): geoBoundaries per country file, as its catalogue gives the file's source and
   licence (a file whose terms are unread is not used); the World Bank and OCHA COD-AB with theirs. A map drawn
@@ -1746,6 +1776,7 @@ The names that cells use for a rule, and where the rule is.
 | the currency ruling | [`currency`](#currency) |
 | the dialect rule, the sole-dialect-form convention | [Sole dialect form](#sole-dialect-form) |
 | the dialect-line convention | [Sole dialect form](#sole-dialect-form) |
+| the dropped-seed rule | [A seed ruling dropped on evidence](#dropped-seed-rule) |
 | the dzongkhag-town ruling | [The dzongkhag-town ruling](#dzongkhag-town-ruling) |
 | the emblem rule (2026-10-06) | [Provisional](#provisional) |
 | the English recordings rule | [English recordings](#english-audio-rule) |
@@ -1755,6 +1786,7 @@ The names that cells use for a rule, and where the rule is.
 | the everyday-language ruling | [Everyday language](#everyday-language-rule) |
 | the fair-use ruling | [The licence ruling](#fair-use-ruling) |
 | the flag ruling (of 2026-09-27) | [No government, no flag](#no-government-no-flag) |
+| the FOTW joins | [A FOTW page joins a region](#fotw-joins) |
 | the French-administration convention, the local-form ruling | [The local-form preference](#local-form-ruling) |
 | the generic-logo ruling | [The generic-logo ruling](#generic-logo-ruling) |
 | the geographic-outline ruling | [Geographic outline](#geographic-outline-ruling) |
@@ -1767,8 +1799,10 @@ The names that cells use for a rule, and where the rule is.
 | the historical-range rule, the historical-picture ruling | [Historical range](#historical-range) |
 | the Iceland ruling, the 'no seat in law' rule | [No seat in law](#no-seat-in-law) |
 | the Indian English ruling | [Rulings on languages by country](#indian-english-ruling) |
+| the internal-waters rule | [Internal waters](#internal-waters-rule) |
 | the IPA convention | [The IPA convention](#ipa-convention) |
 | the IPA ruling (2026-09-30) | [The bilingual rule](#bilingual-rule) |
+| the island rule | [Which dataset draws each card](#island-rule) |
 | the Japanese-emblem ruling | [Stylised characters](#japanese-emblem-ruling) |
 | the joined-IPA rule, the joined-word-by-word rule | [Joined and derived IPA](#joined-ipa) |
 | the Keelung ruling | [The Keelung ruling](#keelung-ruling) |
@@ -1783,6 +1817,7 @@ The names that cells use for a rule, and where the rule is.
 | the low-resolution (scroll) ruling | [Low-resolution scroll](#low-resolution-scroll) |
 | the low-resolution ruling, the low-resolution scroll ruling, the low-resolution-scroll ruling | [Low-resolution scroll](#low-resolution-scroll) |
 | the Macedonian rule | [IPA derived by rule](#ipa-by-rule) |
+| the masking-script rule | [Which scripts are read](#masking-scripts) |
 | the Montenegro ruling | [The Montenegro ruling](#montenegro-ruling) |
 | the N'Djamena convention | [The N'Djamena convention](#nDjamena-convention) |
 | the name drawn as the design is kept ruling | [A name drawn as the design](#name-drawn-as-design) |
@@ -1794,6 +1829,7 @@ The names that cells use for a rule, and where the rule is.
 | the national-flag refusal ruling | [The national-flag refusal](#national-flag-refusal) |
 | the national-recognition rule | [National recognition](#national-recognition-rule) |
 | the native-name ruling, the native-type-word rule, the type-word ruling | [The type-word rule](#type-word-rule) |
+| the native-recordings rule | [Native recordings](#audio-rule) |
 | the near-duplicate ruling, the near-duplicate caption rule | [Near-duplicates](#near-duplicates) |
 | the no-fair-use rule | [The licence ruling](#fair-use-ruling) |
 | the no-flag ruling, the no-body ruling, the tier-B ruling, the country-wide China ruling | [No government, no flag](#no-government-no-flag) |
@@ -1807,6 +1843,7 @@ The names that cells use for a rule, and where the rule is.
 | the not-every-banner-is-a-government's rule | [Not every banner](#not-every-banner) |
 | the note ruling | [The note field](#note-field) |
 | the otherLanguages rule | [`otherLanguages`](#other-languages) |
+| the outline holds | [Which dataset draws each card](#outline-holds) |
 | the placeOri conventions, the short-form (placeOri) convention | [The placeOri conventions](#placeori-conventions) |
 | the polity-type rule, the level-0 category rule | [A country card's category](#polity-type-rule) |
 | the Portugal ruling, the official-flags rule, if official we keep them | [If official, it is kept](#portugal-ruling) |
@@ -1834,10 +1871,12 @@ The names that cells use for a rule, and where the rule is.
 | the short-form convention | [The short-form convention](#short-form) |
 | the Siachen ruling | [Status](#siachen-ruling) |
 | the skip-when-unsure ruling | [Skip when unsure](#skip-when-unsure) |
+| sources that lag together | [Choosing a capital from the sources](#lagging-sources) |
 | the specific-term rule, the 2026-09-18 ruling, the category rule | [The specific-term rule](#specific-term-rule) |
 | the station rule | [The station rule](#station-rule) |
 | the Tabuk ruling | [The Tabuk ruling](#tabuk-ruling) |
 | the Tamazight ruling | [The Tamazight ruling](#tamazight-ruling) |
+| the twin-town exception | [Choosing a capital from the sources](#twin-town-exception) |
 | the type-word rule | [The type-word rule](#type-word-rule) |
 | the typo rule, the obvious-typo convention | [The typo rule](#typo-rule) |
 | the UK-line ruling | [English names: the UK line](#english-uk-line) |
@@ -1857,16 +1896,16 @@ field the cell is about tells you which one applies.
 |---|---|
 | 2026-09-07 | [naming policy](#naming-policy), [qualifiers](#qualifiers); [a repair undoes only its defect](#repair-undoes-defect); [a physical feature is not a unit](#physical-feature) |
 | 2026-09-11 | [several native names in one cell](#several-native-names); [renamed codes](#renamed-codes) |
-| 2026-09-14 | [country-name rule](#country-name-rule); [Montenegro ruling](#montenegro-ruling); [provisional codes](#provisional-codes); [crosswalk key](#crosswalk-key); seal and arms both; remote islands; `XAD` |
+| 2026-09-14 | [country-name rule](#country-name-rule); [Montenegro ruling](#montenegro-ruling); [provisional codes](#provisional-codes); [crosswalk key](#crosswalk-key); seal and arms both; remote islands; `XAD`; [twin-town exception](#twin-town-exception); [sources that lag together](#lagging-sources) |
 | 2026-09-15 | [IPA convention](#ipa-convention) and its parts; [what a capital is](#capital-conventions); [placeOri conventions](#placeori-conventions); [local-language names](#local-language-name); geosiwk as a source; [adjudicated values](#adjudicated) |
 | 2026-09-16 | [masking rules](#masking-rules-2026-09-16): geographic outline, unmaskable pictures kept, hand boxes; Madagascar's regions and their codes |
 | 2026-09-17 | [Latin legibility](#latin-legibility-ruling); [council's flag](#council-flag-ruling); [coextensive capital](#coextensive-capital-ruling); [shared flag](#shared-flag-ruling); [fair use](#fair-use-ruling) (superseded); [historical range](#historical-range); a picture in the wrong role is moved |
 | 2026-09-18 | [specific term](#specific-term-rule), [local form](#local-form-ruling), [rayon](#rayon-ruling); [Cook Islands](#cook-islands-ruling); [status](#status), [Sevastopol](#sevastopol-ruling); `category` editable |
 | 2026-09-20 | [Western Sahara](#western-sahara-ruling); [country card's category and status](#status); Mexico City's qualifier; [seeds](#seed) |
 | 2026-09-21 | [Baikonur](#baikonur-ruling); Baikonur and Guantánamo drawn |
-| 2026-09-26 | [region's own language](#region-language-rule); [`otherLanguages`](#other-languages); [whole name](#whole-name-rule); [N'Djamena](#nDjamena-convention); [captions and near-duplicates](#captions); [note](#note-field); [`mem`](#mem); [name-only](#name-only-rule); [what counts as the name](#what-counts-as-the-name); [script refinement](#latin-legibility-ruling); [Japanese emblems](#japanese-emblem-ruling); [Sri Lanka, New Zealand, Marshall Islands](#single-name-rulings); localised qualifiers; [panel water](#water); [level-0 outlines](#closest-area-rule) |
-| 2026-09-27 | [no government, no flag](#no-government-no-flag); [layer order](#layers); [lake rule](#lake-rule); [subdivision water](#subdivision-water); FOTW page over seed; Turkish governorship logos; level-0 replacement criteria |
-| 2026-09-28 | [low-resolution scroll](#low-resolution-scroll) |
+| 2026-09-26 | [region's own language](#region-language-rule); [`otherLanguages`](#other-languages); [whole name](#whole-name-rule); [N'Djamena](#nDjamena-convention); [captions and near-duplicates](#captions); [note](#note-field); [`mem`](#mem); [name-only](#name-only-rule); [what counts as the name](#what-counts-as-the-name); [script refinement](#latin-legibility-ruling); [Japanese emblems](#japanese-emblem-ruling); [Sri Lanka, New Zealand, Marshall Islands](#single-name-rulings); localised qualifiers; [panel water](#water); [level-0 outlines](#closest-area-rule); [the outline holds](#outline-holds); [FOTW joins](#fotw-joins) |
+| 2026-09-27 | [no government, no flag](#no-government-no-flag); [layer order](#layers); [lake rule](#lake-rule); [subdivision water](#subdivision-water); FOTW page over seed; Turkish governorship logos; level-0 replacement criteria; [dropped-seed rule](#dropped-seed-rule); [island rule](#island-rule) |
+| 2026-09-28 | [low-resolution scroll](#low-resolution-scroll); [masking-script rule](#masking-scripts) |
 | 2026-09-29 | [ring band](#ring-band-ruling); [name drawn as design](#name-drawn-as-design); [Keelung](#keelung-ruling); [registry fields](#registry-fields) |
 | 2026-09-30 | [title rule](#title-rule); [none-found (registry fields)](#none-found-convention); [several currencies](#several-currencies); NANP; [several languages](#several-languages-rule); [bilingual](#bilingual-rule); [Haiti](#haiti-ruling); [capitalOri](#city-government-form-rule); [a city as its own unit](#rule-7); notes on sovereignty; Gibraltar; ruled codes; closing a question |
 | 2026-10-01 | [type word](#type-word-rule); [English rule](#english-rule); [country card](#country-card-rule); [nationwide](#nationwide-rule); [skip when unsure](#skip-when-unsure); [otherLanguages narrowed](#what-counts), [everyday language](#everyday-language-rule), [national recognition](#national-recognition-rule); [none-found (otherLanguages)](#none-found-convention); [no seat in law (Iceland)](#no-seat-in-law); capitalOri narrowed; title capitalisation; Omani logos |

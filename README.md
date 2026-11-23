@@ -39,11 +39,13 @@ card shows).
 | `choices.tsv` | decided | the file chosen for a card's flag or emblem slot, and who chose it |
 | `rejected.tsv` | decided | files refused for a slot, so no later search brings them back |
 | `no_image.tsv` | decided | rulings that a unit has no flag or emblem of its own, with the evidence and its tier |
+| `no_image_overturned.tsv` | decided | rulings of the first no-image seed that were dropped on evidence about the unit, so re-seeding never writes them back: the evidence and the date |
 | `masks.tsv` | decided | the boxes of lettering painted out of a picture so its question does not name the answer, keyed on the file's SHA-256 |
 | `mask_review.tsv` | decided | a person's or reader's verdict on each masked picture as drawn: `clean`, `name-legible`, `damaged` or `kept-unmasked` |
 | `fotw_links.tsv` | decided | a reader's link from a card to its page on FOTW Flags Of The World, where no code joins them |
 | `hotw_links.tsv` | decided | the same for Heraldry of the World; empty, as the site could not be read |
 | `geosiwk_hand.tsv` | decided | the ruling on each note of the model deck (Geography Stuff I Wanna Know) that no name could match to a card |
+| `card_rulings.tsv` | decided | rulings on single cards and the country lists they apply to: a unit with no capital, a capital withheld, twin towns, a capital's affixes and script, refused recordings, regions coextensive with their capital, the feature tags held by code, the cards with no click card, the countries an IPA rule or a masking script applies to, PCGN's romanisation notes, the register's glosses, FOTW cites refused |
 
 **What the boundary datasets are taken to say**
 
@@ -61,6 +63,7 @@ card shows).
 | `text_repairs.tsv` | decided | defects in GADM's text - names cut at 32 characters, misspelt type words, native names joined without a separator - and which half of a two-script native name is kept |
 | `dataset_types.tsv` | decided | the category a dataset's type word, or a country's whole dataset, gives its units |
 | `source_terms.tsv` | reference | the source and licence each geoBoundaries country file states, and GADM's exception for Austria |
+| `level0_rulings.tsv` | decided | which dataset draws a country card's own outline where a person ruled it, the cards whose sources split along a sovereignty line, and why no source passes the outline tests for some cards |
 
 **How the maps are drawn**
 
@@ -73,6 +76,8 @@ card shows).
 | `subdivision_water.tsv` | decided | subdivision cards drawn less a lagoon or bay their dataset draws as land |
 | `subdivision_overture_land.tsv` | decided | atoll countries whose units are their region's whole area cut to Overture's land |
 | `added_lakes.tsv` | decided | lakes Natural Earth omits, added from Overture, and the cards that draw them |
+| `question_map_lists.tsv` | decided | the maps and cards each rule of the tap-the-region card's question maps applies to, as a measurement found them: maps whose slivers are dropped, rings left off or kept, dashed outlines, specks and their marks, cards drawn as their own region, a host's ground under a card |
+| `excluded_lakes.tsv` | decided | water the lake rule would add that is not a lake - sea bays, river channels, marshes - each by its Overture id |
 | `panel_water.tsv`, `panel_zoom.tsv` | decided | detail panels drawn with Overture's water, or with a closer zoom and Overture's coast (a floor for every card too small to read with no useful panel, and Overture's reefs for the atolls) |
 | `disputed_cards.tsv`, `ice_shelf_cards.tsv`, `outlying_cards.tsv`, `panel_ring_cards.tsv`, `frame_clip_cards.tsv`, `frame_ring_cards.tsv`, `overlay_above_cards.tsv`, `locator_floor_cards.tsv`, `zone_hole_countries.tsv`, `gap_lake_countries.tsv`, `claimed_ground_countries.tsv`, `odd_tile_maps.tsv`, `weak_panel_cards.tsv`, `archipelago_sea_countries.tsv` | measured | the cards (or countries, or question maps) a map rule changes - disputed areas and border lines, Antarctica's ice shelves, outlying parts and the locator, detail-panel rings, cut panel frames, the ring drawn where a detail frame would be smaller than it or the panel no finer than the map, lines above the highlight redrawn on a shared map's overlay, the locator widened to at least 1.5 times the main map, zone holes filled as internal water, parent-gap rows a lake covers whole, ground a country's units draw but it does not hold drawn grey on their siblings, the question maps where a card odd one out on its tile moves, detail panels declined as no finer than 1.5 times the map and ringing nothing, and the archipelagos whose subdivision cards tint their country's sea; the list decides which cards the rule applies to |
 
