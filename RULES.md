@@ -134,10 +134,26 @@ that one card is in that card's `#why`.
   (Null Island).
 - A subdivision card is keyed on its **ISO 3166-2** code wherever the code is agreed by the datasets,
   confirmed by a reading, or ruled. Otherwise it keeps its **GADM `GID_1`** (ruled 2026-10-21 by Jens
-  Nordmark (@nordmarj): "Cards move to ISO codes wherever possible"). `gadm_iso.tsv` records which GADM unit
-  each ISO-keyed card is drawn from. The GID stays the join key to GADM.
-- **A code that a current source uses before ISO does is used provisionally** (2026-09-14). This can be an
-  official number or an invented code, and it is replaced by ISO's code once ISO assigns one. Madagascar's 24
+  Nordmark (@nordmarj): "Cards move to ISO codes wherever possible"; *the card-code rule*). `gadm_iso.tsv`
+  records which GADM unit each ISO-keyed card is drawn from. The GID stays the join key to GADM.
+  <a id="svalbard-code"></a>**Svalbard keeps `SJM.2_1`** (ruled 2026-10-21 by Jens Nordmark (@nordmarj)): its only
+  register code, `NO-21`, sits under Norway's alpha-2, so as a card code it would file Svalbard under Norway; its
+  ISO field still shows `NO-21`.
+- <a id="crosswalk-key"></a>**A subdivision's agreed key is one code from every dataset that draws the unit**
+  (2026-09-14): the units are matched on geometry, never on a name, and each dataset's code is first cleaned of
+  renamed codes and of Natural Earth's wrong codes; the code must be one the register holds or a provisional one.
+  **Two different codes is no key**, a majority being a silent pick, unless a refusal says which dataset's codes
+  sit on the wrong ground and why. A code keying two units keys neither.
+- <a id="renamed-codes"></a>**A code the register has withdrawn and replaced is read as the register's current
+  code** for the same unit wherever a dataset ships it (2026-09-11), keyed on the defective code. A dataset's valid
+  code on the wrong ground is corrected only where position shows it (which capital lies inside which polygon),
+  never by name.
+- <a id="provisional-codes"></a>**A code that a current source uses before ISO does is used provisionally**
+  (2026-09-14; *the provisional-code rule*). This can be an official number or an invented code, and it is
+  replaced by ISO's code once ISO assigns one. <a id="claimant-codes"></a>**A claimant card's code is never
+  replaced** (ruled 2026-10-08 by Jens Nordmark (@nordmarj)): `RU-KRY`, `RU-SVS`, `RU-DON`, `RU-LUG`, `RU-ZAP`,
+  `RU-HRS` and `VE-GE` name a claim on ground the register files under another country, and the code is the
+  card's identity. Madagascar's 24
   regions, which no register codes, take `MG-<n>`, n the number of the region's OCHA COD-AB P-code, matched to
   the drawn region by geometry (2026-09-16).
 - **A ruled code wins over the agreed key** (ruled 2026-09-30 and 2026-10-21 by Jens Nordmark (@nordmarj)).
@@ -1705,6 +1721,7 @@ The names that cells use for a rule, and where the rule is.
 | the Baikonur ruling | [The Baikonur ruling](#baikonur-ruling) |
 | the bare-adjective convention, the adjective-only convention (overturned) | [Bare adjective](#bare-adjective) |
 | the bilingual rule, the bilingual one-half rule | [The bilingual rule](#bilingual-rule) |
+| the card-code rule | [Card codes](#codes) |
 | the capital conventions, What a capital is | [What a capital is](#capital-conventions) |
 | the capital rule (pictures) | [The capital rule](#capital-rule) |
 | the capital's-insignia rule, the coextensive-capital ruling, the coextensive-capital rule | [The coextensive-capital ruling](#coextensive-capital-ruling) |
@@ -1723,6 +1740,7 @@ The names that cells use for a rule, and where the rule is.
 | the country-card ruling, the country-card rule | [A country card](#country-card-rule) |
 | the country-name rule, the country-card naming rule | [The country-name rule](#country-name-rule) |
 | the crop rule | [The crop rule](#crop-rule) |
+| the crosswalk key rule | [Card codes](#crosswalk-key) |
 | the crop ruling | [The crop rule](#crop-rule) |
 | the Crown Dependencies' English convention, the Guernsey pattern | [Rulings on languages by country](#country-language-rulings) |
 | the currency ruling | [`currency`](#currency) |
@@ -1793,6 +1811,7 @@ The names that cells use for a rule, and where the rule is.
 | the polity-type rule, the level-0 category rule | [A country card's category](#polity-type-rule) |
 | the Portugal ruling, the official-flags rule, if official we keep them | [If official, it is kept](#portugal-ruling) |
 | the pre-masked copies rule, the pre-masked-copies rule, the pre-masked-copy ruling, the unredacted-original rule | [Pre-masked copies](#premasked) |
+| the provisional-code rule | [Card codes](#provisional-codes) |
 | R1, the decided capital point | [Rule R1](#r1) |
 | the rayon ruling | [The rayon ruling](#rayon-ruling) |
 | the registry-fields ruling | [11. Registry fields: ISO codes, currency, calling code, ccTLD](#registry-fields) |
@@ -1837,8 +1856,8 @@ field the cell is about tells you which one applies.
 | date | rulings |
 |---|---|
 | 2026-09-07 | [naming policy](#naming-policy), [qualifiers](#qualifiers); [a repair undoes only its defect](#repair-undoes-defect); [a physical feature is not a unit](#physical-feature) |
-| 2026-09-11 | [several native names in one cell](#several-native-names) |
-| 2026-09-14 | [country-name rule](#country-name-rule); [Montenegro ruling](#montenegro-ruling); provisional codes; seal and arms both; remote islands; `XAD` |
+| 2026-09-11 | [several native names in one cell](#several-native-names); [renamed codes](#renamed-codes) |
+| 2026-09-14 | [country-name rule](#country-name-rule); [Montenegro ruling](#montenegro-ruling); [provisional codes](#provisional-codes); [crosswalk key](#crosswalk-key); seal and arms both; remote islands; `XAD` |
 | 2026-09-15 | [IPA convention](#ipa-convention) and its parts; [what a capital is](#capital-conventions); [placeOri conventions](#placeori-conventions); [local-language names](#local-language-name); geosiwk as a source; [adjudicated values](#adjudicated) |
 | 2026-09-16 | [masking rules](#masking-rules-2026-09-16): geographic outline, unmaskable pictures kept, hand boxes; Madagascar's regions and their codes |
 | 2026-09-17 | [Latin legibility](#latin-legibility-ruling); [council's flag](#council-flag-ruling); [coextensive capital](#coextensive-capital-ruling); [shared flag](#shared-flag-ruling); [fair use](#fair-use-ruling) (superseded); [historical range](#historical-range); a picture in the wrong role is moved |
@@ -1857,7 +1876,7 @@ field the cell is about tells you which one applies.
 | 2026-10-05 | fund codes and no own value ([registry](#registry-none)) |
 | 2026-10-06 | [provisional emblems](#provisional); [pre-masked copies](#premasked); [GPAA/CERS](#gpaa-cers-rule); scars accepted; [2,000 km framing](#framing) |
 | 2026-10-07 | de facto states; seal and arms restated; Tibet |
-| 2026-10-08 | [disputed areas](#disputed); the claimant cards' codes |
+| 2026-10-08 | [disputed areas](#disputed); [the claimant cards' codes](#claimant-codes) |
 | 2026-10-11 | [overseas at 400 km](#overseas) |
 | 2026-10-13 | [ice shelves](#ice-shelves); [no seat in law](#no-seat-in-law); [capitalEng](#capital-names); [city-government form](#city-government-form-rule); [council logo](#council-flag-ruling), [appointed administration](#appointed-administration), [generic logo](#generic-logo-ruling); [compose and crop](#compose); [IPA by cutting](#whole-name-rule); [Albanian first](#albanian-first-ruling); Mali `-`; framing of cut parts, locator dots |
 | 2026-10-16 | [both panels](#panels); [panel floors](#panel-zoom); [a subdivision's sea zones, Oecusse](#subdivision-zones) |
@@ -1865,7 +1884,7 @@ field the cell is about tells you which one applies.
 | 2026-10-18 | [joined IPA, same spelling](#joined-ipa); [IPA conventions](#ipa-2026-10-18); [provisional flags](#provisional); [emblem as flag's charge](#emblem-is-flags-charge); non-English infobox files; Guernsey parishes; amanah logos; GeoNames |
 | 2026-10-19 | [R1](#r1); [IPA by rule](#ipa-by-rule); [dzongkhag town](#dzongkhag-town-ruling); [Addu](#addu-ruling); [FOTW images](#fotw-images); León and Rivas; homograph exonyms; open year ranges; atoll countries; English always shown |
 | 2026-10-20 | [entity keys and GUIDs](#entity-keys); [licence](#licence-ruling); [English UK line](#english-uk-line); [vocalised IPA](#vocalised-ipa); [WikiPron join](#wikipron-join); reorganised units; Burkina Faso `-` |
-| 2026-10-21 | [ISO codes for cards](#codes); licence details; FOTW terms; PCGN; Beyla; new units' no-image |
+| 2026-10-21 | [ISO codes for cards](#codes), [Svalbard's code](#svalbard-code); licence details; FOTW terms; PCGN; Beyla; new units' no-image |
 | 2026-10-22 | [geometry rule](#geometry-rule); [held ground](#held-ground); the 2022 oblasts; Algeria, Tok Pisin, Somali; [disputed areas from Overture's parts](#overture-parts) |
 | 2026-10-23 | [our own redraws](#redraws) |
 | 2026-10-28 | North Macedonia; Kazakhstan's capitals; Botswana; Saint-Barthélemy; Haa Dhaalu |

@@ -49,8 +49,10 @@ card shows).
 
 | file | kind | holds |
 |---|---|---|
-| `dataset_codes.tsv` | decided | which card code a dataset's unit takes where the dataset carries none, or carries a defective one: Overture's divisions, COD-AB's P-codes, the World Bank's codes, geoBoundaries' damaged codes, Natural Earth's units refiled or merged |
-| `unit_items.tsv` | decided | the Wikidata item a unit is, where no dataset joins it; and the items refused as some other place |
+| `dataset_codes.tsv` | decided | which card code a dataset's unit takes where the dataset carries none, or carries a defective one: Overture's divisions, COD-AB's P-codes, the World Bank's codes, geoBoundaries' damaged codes, Natural Earth's units refiled or merged; and the codes a source uses for a country card that has no ISO code (Kosovo) |
+| `unit_items.tsv` | decided | the Wikidata item a unit is, where no dataset or ISO code joins it; and the items refused as some other place |
+| `code_keys.tsv` | decided | the ISO 3166-2 key of a subdivision card where one dataset alone gives it and a reading confirmed it; a dataset's codes for a country refused as sitting on the wrong ground; the code a card shows where the register holds two; the codes used before ISO assigns one; and a card kept on its GADM code |
+| `code_repairs.tsv` | decided | codes a source gets wrong and what they should be: Natural Earth's valid codes on the wrong polygon, codes the register has since replaced, a factfile's misprint |
 | `level0_units.tsv` | decided | the country-level cards with no ISO code or no plain dataset row: the Antarctic claims, the de facto states, Rockall, Null Island and the rest, each with the dataset unit it is drawn from and a point it must cover |
 | `claimant_units.tsv` | decided | the subdivision cards a claimant state draws over ground another state's card holds, each with how its ground is drawn |
 | `reorganised_units.tsv` | decided | units a reorganisation created that no dataset draws yet, carved or cut from the units that do |
